@@ -1,0 +1,23 @@
+{% if page.category_tag_list != false %}
+<div class="flex flex-row justify-start flex-wrap list mb2">
+  {% if post %}
+    {% assign categories = post.categories %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign categories = page.categories %}
+    {% assign tags = page.tags %}
+  {% else %}
+    {% assign categories = site.portfolio | sort: "categories" %}
+    {% assign tags = site.portfolio | sort: "tags" %}
+  {% endif %}
+
+  {% for category in categories %}
+    <a class="f6 br1 mt2 mr1 pa2 link black-60 hover-blue bg-near-white hover-bg-black-80" href="{{ "/category/" | absolute_url }}{{ category | slugify }}/">{{ category }}</a>
+  {% endfor %}
+
+  {% for tag in tags %}
+    <a class="f6 br1 mt2 mr1 pa2 link black-60 hover-near-white bg-near-white hover-bg-blue" href="{{ "/tag/" | absolute_url }}{{ tag | slugify }}/">{{ tag }}</a>
+  {% endfor %}
+
+</div>
+{% endif %}

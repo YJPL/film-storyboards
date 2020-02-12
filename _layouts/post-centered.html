@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+  <section class="pa4 ph7-1 mw9-l center">
+  <article class="f6 f4-ns lh-copy measure-wide center code">
+
+    <header class="{% if page.post_meta == false %}mt5{% endif %}">
+      {% if site.data.theme.post_meta %}
+      {% include post_meta.html %}
+      {% endif %}
+
+      {% unless page.header.layout == 'hero' %}
+    <!-- This is where the title: in your front matter gets dropped in.-->
+    <h1 class="2-m f1-l sans-serif fw-9 black lh-title mb1">{{ page.title }}</h1>
+    <h2 class="f3-m f2-l sans-serif fw-9 black-70 lh-title mb1">{% if page.subtitle %}{{page.subtitle}}{%endif%}</h2>
+
+    <p class="gray f6 avenir">{{ page.date | date_to_long_string: "ordinal" }}</p>
+
+    {% endunless %}
+    </header>
+
+      {{content}}
+
+      {% if site.data.theme.category_tag_list %}
+  {% include category_tag_list.html %}
+  {%endif%}
+
+<!-- end of post content -->
+</article>
+
+{% include post_pagination.html %}
+
+</section>

@@ -1,0 +1,20 @@
+<section class="cf ph3 ph5-ns pv5">
+  <article class="mw9-l f4-ns sans-serif">
+  <h1 class="f2 lh-title fw7 mb3 mt0 pt3 bt bw2">Archives</h1>
+  <!-- This is where the title: in your front matter gets dropped in.-->
+    <!-- Search isn't exactly include site-search.html here when ready for deployment. -->
+  <div class="fl w-100 pa2 pr4-ns">
+  <ul class="list pl0">
+    {% for post in site.posts %}
+      <li class="pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30">
+        <a href="{{ post.url }}" class="link no-underline link dim blue hover-blue avenir" title="{{post.title}}">
+          {{ post.title }}</a>
+          <div class="">
+            <time datetime="{{post.date}}" class="f6 lh-copy measure-wide mt0-ns link no-underline right black-30 serif">{{ post.date | date_to_long_string }}</time>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+</article>
+</section>

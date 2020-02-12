@@ -1,0 +1,22 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+  {% include _head.html %}
+  <body class="black-80 {% if page.class or layout.class %}{{ page.class | default: layout.class | join: ' ' | prepend: ' ' }}{% endif %}">
+
+  {% if page.header != false %}
+  {% include _header.html %}
+  {% endif%}
+
+  {{content}}
+
+  {% if page.footer != false %}
+{% include _footer.html %}
+{% endif %}
+
+</body>
+</html>

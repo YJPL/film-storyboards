@@ -1,0 +1,39 @@
+---
+id: 3927
+title: Sketchbook
+permalink: /sketchbook/
+author: Yves
+layout: default
+guid: https://film-storyboards.com/
+image: /wp-content/uploads/2017/07/dancing-feet-storyboard_063.jpg
+---
+
+<section class="cf pb5 ph5-ns ph2">
+  <f1 class="f1 lh-title b helvetica pv4">Sketchbook(s)</f1>
+  <article class="flex-ns flex-wrap">
+
+    {% assign posts = site.posts | where_exp: "post", "post.categories contains 'sketchbook'" %}
+    {% for post in posts %}
+
+<div class="w-100 w-25-l pa1">
+
+  <div class="aspect-ratio aspect-ratio--4x6" itemscope itemtype="http://schema.org/Blog" data-columns>
+
+  <a href="{{ post.url }}" style="background-image:url({{ post.image }});"
+      class="grow link-green dt hide-child db bg-center cover aspect-ratio--object"  />
+    </a>
+
+<span class="pa3 dib v-mid black truncate w-100 lh-copy avenir">{{ post.description }}</span>
+</div>
+
+<a href="{{ post.url }}" class="link black hover-white dtc v-mid w-100 h-100 child ttu tracked overlay lh-copy avenir"><h3>{{ sketchbook.title }}</h3></a>
+
+</div>
+
+{% endfor %}
+
+  </article>
+
+  <br>
+{% include site-search.html %}
+</section>

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<section class="flex flex-column items-center">
+  <article class="mw7-l w-100 ph3 ph4-ns">
+
+    {% unless page.header.layout == 'hero' %}
+    <!-- This is where the title: in your front matter gets dropped in.-->
+    <h1 class="2-m f1-l sans-serif fw-9 black lh-title mb1">{{ page.title }}</h1>
+    <h2 class="f3-m f2-l sans-serif fw-9 black-70 lh-title mb1">{% if page.subtitle %}{{page.subtitle}}{%endif%}</h2>
+
+    <p class="gray f6 avenir">{{ page.date | date_to_long_string: "ordinal" }}</p>
+    {% endunless %}
+    </header>
+
+    <!-- This is where page content lives -->
+    <div class="mw7 w-100 f5 f4-ns fw3 lh-copy measure-wide helvetica mb0">
+    {{ content }}
+    </div>
+
+    <!-- end of page content -->
+  </article>
+</section>

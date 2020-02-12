@@ -1,0 +1,67 @@
+title: Film Storyboards
+url: https://film-storyboards.com # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:
+
+
+# Date format
+# refer to https://shopify.github.io/liquid/filters/date/ to customize this
+date_format: "%b %-d, %Y"
+
+# social
+
+
+# No analytics it's a waste of time
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+# Outputting
+permalink: /:title/
+paginate_path: "/page:num/"
+timezone: Europe/Paris
+
+pagination:
+  enabled: True
+  collection: posts
+  per_page: 5
+
+# Plugins
+plugins:
+#  - jekyll-picture-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-seo-tag
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+  # Jekyll Archives Settings https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled: 'all'
+  layout: 'archive-taxonomy'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+  category_archive:
+    type: liquid

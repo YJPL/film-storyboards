@@ -1,0 +1,27 @@
+# Authors
+
+Storyboards:
+  name          : "Film Storyboards"
+  picture       : "/images/author.jpg"
+  url           : "https://film-storyboards.com"
+  email         : "yves@film-storyboards.com"
+  bio           : "Crafting Storyboards"
+  post_meta_bio : "Designing stories since 1999."
+  cta           : "Follow"
+  cta_url       : "https://twitter.com/FilmStoryboards"
+  twitter       : "FilmStoryboards"
+  google_plus   : "FilmStoryboards"
+  facebook      : "FilmStoryboards"
+
+Yves:
+  name          : "Film Storyboards"
+  picture       : "/images/author.jpg"
+  url           : "https://film-storyboards.com"
+  email         : "yves@film-storyboards.com"
+  bio           : "Crafting Storyboards"
+  post_meta_bio : "Designing stories since 1999."
+  cta           : "Follow"
+  cta_url       : "https://twitter.com/FilmStoryboards"
+  twitter       : "FilmStoryboards"
+  google_plus   : "FilmStoryboards"
+  facebook      : "FilmStoryboards"
