@@ -12,13 +12,13 @@ _**Film Storyboards**_ is a one person studio focusing on production design and
 
 In addition to storyboarding, the practice also provides production companies with concept art and set design.
 
-![US Cavalry Museum storyboard panel — Little Bighorn Battle](/wp-content/uploads/2019/03/US_Cavalry-Museum_storyboard_Panel-3-7.jpg)
+![US Cavalry Museum storyboard panel — Little Bighorn Battle](/images/uploads/2019/03/US_Cavalry-Museum_storyboard_Panel-3-7.jpg)
 <figcaption>US Cavalry Museum storyboard panel — Little Bighorn Battle</figcaption>
 
-![Cavalry charge at Aljubarrota battle](/wp-content/uploads/2012/06/charge+cavalry+Aljubarrota.jpg)
+![Cavalry charge at Aljubarrota battle](/images/uploads/2012/06/charge-cavalry-Aljubarrota.jpg)
 <figcaption>Cavalry charge at Aljubarrota battle</figcaption>
 
-![Storyboard for the first MTV Asia video-clip ever shot in Vietnam](/wp-content/uploads/2010/09/MTV-asia-storyboard.jpg)
+![Storyboard for the first MTV Asia video-clip ever shot in Vietnam](/images/uploads/2010/09/MTV-asia-storyboard.jpg)
 <figcaption>Storyboard for the first MTV Asia video-clip shot in Vietnam</figcaption>
 
 I design stories for feature films, action, [historical movies](https://film-storyboards.com/?s=historical "historical"), and advertising [TV commercials](/?s=tv+commercial "TV Commercials / Film Storyboards - Production Design"), along with visual development work for animation series, and cultural venues.
