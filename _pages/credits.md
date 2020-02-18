@@ -60,9 +60,9 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 
 ## TV
 
-_&#8220;Les Rivières Pourpres&#8221; (The Crimson Rivers) **Olivier Barma**, Umedia / Europacorp Télévision** ** – storyboard for episode 5 & 6 &#8220;La croisade des enfants&#8221; &#8211; stunts, VFX sequences, TV series, 2017_
+*“Les Rivières Pourpres”* (*The Crimson Rivers*) **Olivier Barma**, Umedia / Europacorp Télévision** ** – storyboard for episode 5 & 6 *“La croisade des enfants”* — stunts, VFX sequences, TV series, 2017
 
-_&#8220;Les Rivières Pourpres&#8221;_ (_The Crimson Rivers_) **Julius Berg**, Umedia / Europacorp Télévision** ** –_ _storyboard for episode 3 & 4 _&#8220;Le jour des cendres&#8221; &#8211; _VFX sequences, TV series, 2017
+*“Les Rivières Pourpres”* (*The Crimson Rivers*) **Julius Berg**, Umedia / Europacorp Télévision** ** – storyboard for episode 3 & 4 *“Le jour des cendres”* — VFX sequences, TV series, 2017
 
 _&#8220;Facteur Chance&#8221;_ **Julien Séri**, TF1 / AT Production &#8211; car chase sequence, TV episode &#8211; 2009
 
