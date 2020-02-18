@@ -2,14 +2,14 @@
 id: 4263
 title: InDesign storyboard templates
 date: 2018-11-12T10:34:43+01:00
-last_modified_at: 2020-01-27 12:24:48 +0100
+last_modified_at: 2020-02-18 13:19:24 +0100
 author: Yves
 layout: post-centered
 guid: https://film-storyboards.com/?p=4263
 permalink: /indesign-storyboard-templates/
 image: /images/uploads/2018/11/Film-Storyboards.com_Storyboard-template_2.00x1_Courier_10_A4-vertical_sample-in-use.jpg
 categories:
-  - Storyboard templates
+  - storyboard templates
   - templates
 ---
 

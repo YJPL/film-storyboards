@@ -2,36 +2,29 @@
 id: 2518
 title: Atoleiros Battle Animatics Part 01
 date: 2014-01-24T01:54:45+01:00
+last_modified_at: 2020-02-18 09:12:24 +0100
 author: Yves
 layout: post-centered
 guid: http://film-storyboards.com/?p=2518
 permalink: /atoleiros-battle-animatic-storyboards/
 image: /images/uploads/2014/01/Atoleiros_Death_Plague_Skeleton_boucle.gif
 categories:
-  - Animation
-  - Cross-media
-  - Documentary
-  - Drawing
-  - Historical movies
-  - Horse
-  - Non Fiction
+  - animation
+  - cross-media
+  - documentary
+  - drawing
+  - historical
+  - non fiction
   - portfolio
-  - Shows
-  - Sketchbook
-  - story artist
-  - Storyboard art
+  - show
+  - sketchbook
 tags:
-  - Adaptation
-  - animatics
-  - Atoleiros 1384
-  - Atoleiros battle
-  - historical film
-  - history of Portugal
-  - medieval battle storyboard
-  - Portuguese Interregnum
-  - reconstitution
-  - Storyboards
-  - traditional drawing
+  - adaptation
+  - horse
+  - animatic
+  - Atoleiros
+  - battle
+  - re-enactment
   - visual storytelling
   - writing
 format: gallery

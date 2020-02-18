@@ -2,7 +2,7 @@
 id: 3828
 title: Free PDF storyboards templates for print
 date: 2017-09-18T20:54:19+02:00
-last_modified_at: 2020-01-27 12:24:48 +0100
+last_modified_at: 2020-02-17 12:24:48 +0100
 author: Yves
 layout: post-centered
 header:
@@ -17,10 +17,10 @@ header:
 guid: https://film-storyboards.com/?p=3828
 permalink: /free-storyboard-template-pdf/
 categories:
-  - Advertising
+  - advertising
   - anime
   - presentation
-  - Storyboard templates
+  - storyboard templates
   - templates
 ---
 

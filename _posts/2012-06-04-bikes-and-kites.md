@@ -2,6 +2,7 @@
 id: 1468
 title: Bikes and Kites
 date: 2012-06-04T14:01:25+02:00
+last_modified_at: 2020-02-18 12:06:12 +0100
 author: Yves
 excerpt: |
   <a class="none" title="bikes-storyboard-frame07" href="https://film-storyboards.com/bikes-and-kites/" rel=""><img class="G4" title="bikes-storyboard-frame07" src="https://film-storyboards.com/images/uploads/2012/06/bikes-storyboard-frame07.jpg" alt="Bikes storyboard" /></a>
@@ -11,17 +12,14 @@ guid: http://film-storyboards.com/?p=1468
 permalink: /bikes-and-kites/
 image: /images/uploads/2012/06/bikes-storyboard-frame07.jpg
 categories:
-  - Advertising
-  - Non Fiction
-  - Storyboard art
-  - TV Commercials
+  - advertising
+  - non fiction
+  - storyboard
+  - TV Commercial
 tags:
-  - advertising storyboards
-  - Bikes
+  - Bike
   - director shooting board
-  - Kites
-  - Marc Raymond Wilkins
-  - TV commercial storyboard
+  - Kite
 ---
 ## Shooting storyboards / TV Commercials
 

@@ -2,6 +2,7 @@
 id: 131
 title: Aljubarrota Royal Battle
 date: 2010-08-04T04:25:28+02:00
+last_modified_at: 2020-02-18 13:22:19 +0100
 author: Yves
 excerpt:
 layout: post-centered
@@ -9,11 +10,11 @@ guid: http://film-storyboards.com/?p=131
 permalink: /aljubarrota-battle/
 image: /images/uploads/2010/08/Aljubarrota_sketch.jpg
 categories:
-  - Storyboard
-  - Drawing
-  - Historical
-  - Non Fiction
-  - Show
+  - storyboard
+  - drawing
+  - historical
+  - non fiction
+  - show
 tags:
   - adaptation
   - Aljubarrota

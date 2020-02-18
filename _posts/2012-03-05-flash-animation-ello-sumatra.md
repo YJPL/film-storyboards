@@ -2,6 +2,7 @@
 id: 1234
 title: Storyboard for Ello Mobile animations
 date: 2012-03-05T00:41:28+01:00
+last_modified_at: 2020-02-18 13:06:12 +0100
 author: Yves
 excerpt: |
   <a class="none" title="storyboard_ello_sumatra_06" href="https://film-storyboards.com/flash-animation-ello-sumatra/" rel=""><img class="" title="storyboard_ello_sumatra_06" src="https://film-storyboards.com/images/uploads/2012/03/storyboard_ello_sumatra_06.jpg" alt="Storyboard 06 - Ello - Sumatra project" /></a>
@@ -11,14 +12,14 @@ guid: https://film-storyboards.com/?p=1234
 permalink: /flash-animation-ello-sumatra/
 image: /images/uploads/2012/03/storyboard_ello_sumatra_06.jpg
 categories:
-  - Advertising
-  - Animation
-  - Non Fiction
-  - Storyboard
+  - advertising
+  - animation
+  - non fiction
+  - storyboard
+  - character design
 tags:
   - brand development
   - cartoon
-  - Character Design
   - ello mobile
   - illustration
   - slideshows

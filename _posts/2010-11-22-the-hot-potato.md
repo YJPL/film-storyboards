@@ -2,6 +2,7 @@
 id: 632
 title: 'The Hot Potato &#8211; Car Chase'
 date: 2010-11-22T11:15:53+01:00
+last_modified_at: 2020-02-18 13:06:12 +0100
 author: Yves
 excerpt: |
   <a class="none" title="The Hot Potato storyboard car scene" href="https://film-storyboards.com/the-hot-potato/"  rel=""><img class="G4" title="feature film storyboard- The Hot Potato" src="https://film-storyboards.com/images/uploads/2012/02/The-Hot-Potato-storyboard-gun-scene_cleaned.jpg" alt="feature film storyboard- The Hot Potato" /></a>
@@ -13,15 +14,14 @@ guid: http://film-storyboards.com/?p=632
 permalink: /the-hot-potato/
 image: /images/uploads/2010/11/The-Hot-Potato-Movie.jpg
 categories:
-  - Drawing
-  - Feature Film
-  - Fiction
-  - Storyboard art
+  - drawing
+  - feature film
+  - fiction
+  - storyboard
 tags:
   - action
   - car chase
-  - feature film storyboard
-  - SFX storyboard
+  - SFX
   - shooting storyboard
 ---
 Shooting storyboard: car chase and special effects scenes.  

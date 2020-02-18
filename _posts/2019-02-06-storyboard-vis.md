@@ -12,11 +12,11 @@ guid: https://film-storyboards.com/?p=4384
 permalink: /storyboard-vis/
 image: /images/uploads/2019/02/Lidl_VIS_storyboard_015_modif_cine_B.jpg
 categories:
-  - Advertising
-  - Digital storyboards
+  - advertising
+  - digital storyboard
   - portfolio
   - storyboard
-  - TV Commercials
+  - TV Commercial
 format: gallery
 ---
 

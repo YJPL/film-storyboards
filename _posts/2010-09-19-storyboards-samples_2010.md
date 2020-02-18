@@ -2,6 +2,7 @@
 id: 588
 title: Storyboards Samples
 date: 2010-09-19T14:11:10+02:00
+last_modified_at: 2020-02-18 13:24:48 +0100
 author: Yves
 excerpt: |
   Since 1999, I draw storyboards and concept illustrations for feature films, advertising commercials, TV shows, animation, events, spectacles historical films and documentaries.
@@ -16,31 +17,20 @@ guid: http://film-storyboards.com/?p=588
 permalink: /storyboards-samples_2010/
 image: /images/uploads/2014/08/featured_Atoleiros-Battle-Animatics_uprising.jpg
 categories:
-  - Advertising
-  - Concept Art
-  - Animation
-  - Cross-media
-  - Documentary
-  - Drawing
-  - Feature Film
-  - Historical
-  - Non Fiction
-  - Show
+  - advertising
+  - concept art
+  - animation
+  - cross-media
+  - documentary
+  - drawing
+  - feature film
+  - historical
+  - non Fiction
+  - show
 tags:
-  - advertising comps
-  - advertising storyboards
-  - aljubarrota storyboard
-  - Concept Art
-  - director shooting board
-  - illustration
-  - layouts
-  - production design
-  - rough storyboard
-  - sequential art
-  - storyboards samples
-  - traditional storyboards
-  - TV commercial storyboard
-  - TV shows storyboards
+  - comps
+  - layout
+  - Aljubarrota
   - visual storytelling
 format: video
 ---

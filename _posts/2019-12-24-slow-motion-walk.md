@@ -9,9 +9,10 @@ guid: https://film-storyboards.com/?p=4644
 permalink: /slow-motion-walk/
 image: /images/uploads/2019/10/Slowmotion-Walk_07.jpg
 categories:
-  - Advertising
-  - Storyboard
+  - advertising
+  - storyboard
   - portfolio
+  - TV Commercial
 ---
 
 ![Slowmotion Walk 01](/images/uploads/2019/10/Slowmotion-Walk_01.jpg)

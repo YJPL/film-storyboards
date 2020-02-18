@@ -8,15 +8,15 @@ layout: portfolio
 guid: https://film-storyboards.com/?p=4587
 permalink: /storyboards-samples/
 categories:
-  - Storyboard
-  - Advertising
-  - Animation
-  - Courtroom sketches
-  - Cross-media
-  - Feature Films
-  - Fiction
-  - Historical
-  - Institutional
+  - storyboard
+  - advertising
+  - animation
+  - courtroom sketches
+  - cross-media
+  - feature film
+  - fiction
+  - historical
+  - institutional
 format: video
 ---
 

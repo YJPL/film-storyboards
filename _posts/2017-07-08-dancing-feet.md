@@ -8,12 +8,12 @@ guid: http://film-storyboards.com/?p=3653
 permalink: /dancing-feet/
 image: /images/uploads/2017/07/dancing-feet-storyboard_063.jpg
 categories:
-  - Advertising
-  - Cross-media
-  - Drawing
+  - advertising
+  - cross-media
+  - drawing
   - portfolio
   - storyboard
-  - Traditional drawing
+  - traditional drawing
 tags:
   - choreography
   - dance

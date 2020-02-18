@@ -14,15 +14,12 @@ guid: http://film-storyboards.com/?p=3164
 permalink: /dg-trade-animation/
 image: /images/uploads/2017/07/DG-Trade-Map-02.png
 categories:
-  - Animation
-  - Cross-media
-  - Drawing
-  - Institutional
+  - animation
+  - cross-media
+  - drawing
+  - institutional
   - portfolio
 tags:
-  - Benuts
-  - DG Trade
-  - ESN
 format: video
 ---
 

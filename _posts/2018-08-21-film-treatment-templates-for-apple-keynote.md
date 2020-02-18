@@ -9,9 +9,9 @@ guid: https://film-storyboards.com/?p=4136
 permalink: /film-treatment-templates-for-apple-keynote/
 image:
 categories:
-  - Advertising
-  - Cross-media
-  - Feature Films
+  - advertising
+  - cross-media
+  - feature film
   - film treatment
   - presentation
   - templates

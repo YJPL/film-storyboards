@@ -2,16 +2,16 @@
 id: 4067
 title: 'Apple Pages Templates for Storyboards & Presentations'
 date: 2018-05-01T16:48:26+02:00
-last_modified_at: 2020-01-27 12:24:48 +0100
+last_modified_at: 2020-02-18 13:24:48 +0100
 author: Yves
 layout: post-centered
 guid: https://film-storyboards.com/?p=4067
 permalink: /apple-pages-templates-for-storyboards-presentations/
 categories:
-  - Digital storyboards
+  - digital storyboards
   - presentation
   - storyboard
-  - Storyboard templates
+  - storyboard templates
   - templates
 ---
 With a recent update, [Apple Pages](https://www.apple.com/pages/) (7.0) now has Masters, like [Keynote](https://www.apple.com/keynote/). Granted, it cannot rival the editing scope of Adobe InDesign to produce and publish layouts. That is a given. But it is a sound solution to create beautiful documents, fast. And thanks to this improvement, it now makes sense to use it for storyboards as well.<span style="font-size: 19.2px;"> </span>

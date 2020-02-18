@@ -2,16 +2,17 @@
 id: 1592
 title: 'Animatics — Aljubarrota Battle'
 date: 2012-06-27T11:02:09+02:00
+last_modified_at: 2020-02-18 10:12:24 +0100
 author: Yves
 layout: portfolio
 guid: http://film-storyboards.com/?p=1592
 permalink: /animatics/
 image: /images/uploads/2012/06/charge-cavalry-Aljubarrota.jpg
 categories:
-  - Cross-media
-  - Documentary
-  - Drawing
-  - Historical
+  - cross-media
+  - documentary
+  - drawing
+  - historical
   - portfolio
 tags:
   - action scene

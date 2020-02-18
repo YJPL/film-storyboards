@@ -7,7 +7,7 @@ layout: post
 permalink: /site-relaunch/
 image:
 categories:
-  - Storyboard
+  - storyboard
 tags:
   - web design
 ---

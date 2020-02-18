@@ -11,22 +11,14 @@ guid: http://film-storyboards.com/?p=3021
 permalink: /toyota-ecb-sponsorship/
 image: /images/uploads/2015/08/Stability-Support_04_bis.png
 categories:
-  - Advertising
-  - Digital storyboards
+  - advertising
+  - digital storyboard
   - portfolio
-  - story artist
-  - Storyboard art
-  - TV Commercials
+  - storyboard
+  - TV Commercial
 tags:
-  - black and white storyboards
-  - Bugsy
-  - cricket
-  - digital storyboards
-  - director shooting board
-  - ECB
-  - England and Wales Cricket Board
+  - shooting board
   - sports
-  - Toyota
 ---
 
 ## Airbag

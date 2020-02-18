@@ -8,13 +8,11 @@ guid: http://film-storyboards.com/?p=2842
 permalink: /suite-francaise/
 image: /images/uploads/2014/10/Suite-Francaise—sketchbook-1.jpg
 categories:
-  - Feature Films
-  - Fiction
+  - feature film
+  - fiction
   - portfolio
   - sketchbook
 tags:
-  - Irène Némirovsky
-  - Saul Dibb
   - Suite Française
   - WWII
 format: gallery

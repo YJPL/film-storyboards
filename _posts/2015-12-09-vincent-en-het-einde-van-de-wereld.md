@@ -7,12 +7,11 @@ layout: post
 guid: http://film-storyboards.com/?p=2860
 permalink: /vincent-en-het-einde-van-de-wereld/
 categories:
-  - Drawing
-  - Feature Films
-  - Fiction
-  - story artist
-  - Storyboard art
-  - Traditional drawing
+  - drawing
+  - feature film
+  - fiction
+  - storyboard
+  - traditional drawing
 tags:
   - accident
   - action scene
