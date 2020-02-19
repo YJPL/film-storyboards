@@ -56,7 +56,7 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 
 ## Music Video
 
-**La Chiva Gantiva**, _Vivo,_ directed by_ _**Ben Lacour**_._
+**La Chiva Gantiva**, *Vivo*, directed by **Ben Lacour**.
 
 ## TV
 
