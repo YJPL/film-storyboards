@@ -11,7 +11,7 @@ guid: http://film-storyboards.com/?page_id=1032
 
 *Atlantics* **Mati Diop**, 2018. Concept design for set (VFX).
 
-*[Jumbo](https://www.imdb.com/title/tt6818118/)* **Zoé Wittock** &#8211; Kwassa Films — 2018. Storyboard for VFX & SFX sequences.
+*[Jumbo](https://www.imdb.com/title/tt6818118/)* **Zoé Wittock** — Kwassa Films — 2018. Storyboard for VFX & SFX sequences.
 
 *[Mon Ket](https://www.imdb.com/title/tt8398768/)* **François Damiens** — Artemis Productions — 2018. Storyboard for helicopter escape and opening scenes.
 
@@ -38,7 +38,7 @@ guid: http://film-storyboards.com/?page_id=1032
 
 **Fundação Batalha de Aljubarrota (Portugal)**
 
-**<a title="Fundação Batalha de Aljubarrota" href="http://fundacao-aljubarrota.pt/?idc=224" target="_blank" rel="noopener noreferrer">Centro de Interpretação da 1ª POSIÇÃO PORTUGUESA EM ALJUBARROTA</a>** collaboration with Maverick ICS — 2008 — Concept illustrations for cross-media installations, including sculpture and complex scenography, sequential art for interactive touch screens (as animatics illustrations) Re-enactement / interpretation of the Batalha monastery construction after the Aljubarrota battle, Portugal.
+**<a title="Fundação Batalha de Aljubarrota" href="https://fundacao-aljubarrota.pt/pt" target="_blank" rel="noopener noreferrer">Centro de Interpretação da 1ª POSIÇÃO PORTUGUESA EM ALJUBARROTA</a>** collaboration with Maverick ICS — 2008 — Concept illustrations for cross-media installations, including sculpture and complex scenography, sequential art for interactive touch screens (as animatics illustrations) Re-enactement / interpretation of the Batalha monastery construction after the Aljubarrota battle, Portugal.
 
 <a title="Grid VFX" href="http://www.grid-vfx.com/" target="_blank" rel="noopener noreferrer">Grid VFX</a> / <a title="Mavercik ICS" href="http://www.maverick-ics.be/" target="_blank" rel="noopener noreferrer">Maverick ICS</a> &#8211; 2008 &#8211; Storyboard artist **Battle of Aljubarrota Interpretation Centre (CIBA)** cross-media installations — _<a title="Fundação Batalha de Aljubarrota" href="http://www.fundacao-aljubarrota.pt/" target="_blank" rel="noopener noreferrer">Fundação Batalha de Aljubarrota</a>_, Portugal: Reconstitution of medieval battle sequences — _Cronistas_, _Ossos_ — in animatic
 
@@ -46,7 +46,7 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 
 ## Shows and spectacles
 
-**Abdullah Al-Salem Cultural Center**, Kuwait Opening Show — Pitch illustrations for **LSE** **(July 2017)
+**Abdullah Al-Salem Cultural Center**, Kuwait Opening Show — Pitch illustrations for **LSE** (July 2017)
 
 **Franco Dragone** — Visual development for an aquatic show — **Da Nang Naman Resort**, Vietnam (2017)
 

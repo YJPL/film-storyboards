@@ -17,4 +17,4 @@ Call _Yves Capelle_ + 32 [0] 475 418 327 to discuss your project.
 
 If you need storyboards to pitch, plan, budget your film, or communicate with your crew, a tailored solution is here for you.
 
-<img class="firstChild lastChild" title="Black and white storyboard line sample" src="/wp-content/uploads/2010/09/drawing-storyboard.png" alt="Drawing saves, black and white line drawing" />
+![Drawing saves, black and white line drawing](/images/uploads/2010/09/drawing-storyboard.png)
