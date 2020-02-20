@@ -2,7 +2,7 @@
 id: 1592
 title: 'Animatics — Aljubarrota Battle'
 date: 2012-06-27T11:02:09+02:00
-last_modified_at: 2020-02-18 10:12:24 +0100
+last_modified_at: 2020-02-20 21:48:12 +0100
 author: Yves
 layout: portfolio
 guid: http://film-storyboards.com/?p=1592
@@ -27,17 +27,17 @@ tags:
 format: gallery
 ---
 
-![Aljubarrota Battle - Castilian emissaries meet general Nuno Álvares Pereira before the battle](/images/uploads/2012/06/Aljubarrota-battle-general-confronts-emissaries.jpg){: fl .w-100 .w-50-ns .pa2}
+![Aljubarrota Battle - Castilian emissaries meet general Nuno Álvares Pereira before the battle](/images/uploads/2012/06/Aljubarrota-battle-general-confronts-emissaries.jpg)
 <figcaption>Castilian emissaries meet general Nuno Álvares Pereira before the battle</figcaption>
 
-![Aljubarrota Battle - Nuno Álvares Pereira leads its troops from first position](/images/uploads/2012/06/Nuno-Alvares-Pereira-troops-move.jpg){: fl .w-100 .w-50-ns .pa2}
-<figcaption>Nuno Álvares Pereira leads its troops from first position at Aljubarrota battle</figcaption>{: .fl .w-100 .w-50-ns .pa2}
+![Aljubarrota Battle - Nuno Álvares Pereira leads its troops from first position](/images/uploads/2012/06/Nuno-Alvares-Pereira-troops-move.jpg)
+<figcaption>Nuno Álvares Pereira leads its troops from first position at Aljubarrota battle</figcaption>
 
-![Aljubarrota Battle - Portuguese battle formation facing the Castilian vanguard](/images/uploads/2012/06/Armies-position-bird-view-Aljubarrota-1.jpg){: .fl .w-100 .w-50-ns .pa2}
-<figcaption>Portuguese battle formation facing the Castilian vanguard</figcaption>{: .fl .w-100 .w-50-ns .pa2}
+![Aljubarrota Battle - Portuguese battle formation facing the Castilian vanguard](/images/uploads/2012/06/Armies-position-bird-view-Aljubarrota-1.jpg)
+<figcaption>Portuguese battle formation facing the Castilian vanguard</figcaption>
 
-![Aljubarrota Battle - Tent of John I of Castile](/images/uploads/2012/06/John-of-Castile-tent.jpg){: .fl .w-100 .w-50-ns .pa2}
-<figcaption>Tent of John I of Castile</figcaption>{: .fl .w-100 .w-50-ns .pa2}
+![Aljubarrota Battle - Tent of John I of Castile](/images/uploads/2012/06/John-of-Castile-tent.jpg)
+<figcaption>Tent of John I of Castile</figcaption>
 
 ![Aljubarrota Battle - Castilian first lines with canons](/images/uploads/2012/06/animaticCastilianarmybirdviewAljubarrota.jpg)
 <figcaption>Castilian first lines with canons</figcaption>
