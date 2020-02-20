@@ -9,4 +9,4 @@ This is [Film Storyboards](https://film-storyboards.com) 2020 portfolio site, bu
 
 # Copyright / License
 
-The content of this project itself, all illustrations & design works are (c) Yves JPL Capelle / [alternatyves outc.](https://alternatyves.com) / SOFAM. The underlying source code used to format and display that content is licensed under the MIT license.
+The content of this project itself, all illustrations & design works are (c) Yves JPL Capelle / [alternatyves outc.](https://alternatyves.com) / SOFAM. The underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/YJPL/film-storyboards/blob/master/LICENSE).
