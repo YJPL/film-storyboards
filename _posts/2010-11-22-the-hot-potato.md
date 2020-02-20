@@ -1,14 +1,9 @@
 ---
 id: 632
-title: 'The Hot Potato &#8211; Car Chase'
+title: 'The Hot Potato — Car Chase'
 date: 2010-11-22T11:15:53+01:00
 last_modified_at: 2020-02-18 13:06:12 +0100
 author: Yves
-excerpt: |
-  <a class="none" title="The Hot Potato storyboard car scene" href="https://film-storyboards.com/the-hot-potato/"  rel=""><img class="G4" title="feature film storyboard- The Hot Potato" src="https://film-storyboards.com/images/uploads/2012/02/The-Hot-Potato-storyboard-gun-scene_cleaned.jpg" alt="feature film storyboard- The Hot Potato" /></a>
-
-  Shooting storyboard: car chase and special effects scenes.
-  The Hot Potato, feature film written, directed and produced by Tim Lewiston, Wardour Pictures and Novak Prod. Shot on location in UK and Belgium.
 layout: post
 guid: http://film-storyboards.com/?p=632
 permalink: /the-hot-potato/
@@ -24,6 +19,9 @@ tags:
   - SFX
   - shooting storyboard
 ---
+![The Hot Potato, rough storyboard, car chase scene](/images/uploads/2010/11/The-Hot-Potato-Movie.jpg)
+<figcaption>The Hot Potato, rough storyboard</figcaption>
+
 Shooting storyboard: car chase and special effects scenes.  
 <a href="http://www.imdb.com/title/tt1641252/" target="_blank" rel="noopener"><em>The Hot Potato</em></a>, feature film written, directed and produced by Tim Lewiston, _Wardour Pictures_ and Novak Prod. Shot on location in UK and Belgium.
 
@@ -49,5 +47,5 @@ Looking forward to seeing the movie.
 ![The Hot Potato storyboard car chase sequence - storyboard](/images/uploads/2012/02/The-Hot-Potato-storyboard-gun-scene_cleaned.jpg)
 <figcaption>One frame from the car chase, firing gun scene — storyboard cleaned</figcaption>
 
-![The Hot Potato One frame from car chase, firing gun scene - storyboard cleaned](/images/uploads/2010/11/storyboard-the-hot-potato.jpg)
-<figcaption>Another frame from the same scene</figcaption>
+![The Hot Potato One frame from car chase, firing gun scene - storyboard cleaned](/images/uploads/2011/10/The-Hot-Potato-sfx.jpg)
+<figcaption>More frames from the same scene</figcaption>
