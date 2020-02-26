@@ -1,9 +1,19 @@
 ---
 title: Site relaunch
 date: 2020-01-12T00:00:50+01:00
-last_modified_at: 2020-01-27 12:24:48 +0100
+last_modified_at: 2020-02-26 12:24:48 +0100
 author: Yves
 layout: post
+header:
+    layout: hero
+    vh: vh-50 vh-75-m vh-50-l
+    image: "/images/film-storyboards-screenshot.png"
+    caption: "[Film Storyboards new site design](/)"
+    class: bg-darken-50 bg-darken-50-ns
+    cta:
+        text: "Portfolio"
+        url: /portfolio/
+        class: btn btn--primary helvetica
 permalink: /site-relaunch/
 image:
 categories:
@@ -12,11 +22,17 @@ tags:
   - web design
 ---
 
-## Incident of the 8th of January
-After ten years, it was due to happen. There was an unfortunate turn of events, an [incident](https://news.gandi.net/fr/2020/01/incident-majeur-sur-notre-infrastructure-dhebergement-au-luxembourg/) with the web host, so this site was gone. For a moment it looked all right, but soon we learned that the data was lost. This is fine. Ten years is a long run for a website. For now I just want to keep an archive of the pages (it may as well be worth it for SEO alone), then forget about it, and relaunch the front page with an updated design and newer works.
+# New theme
+## Incident of the 8th January
+After ten years, it was due to happen: this site got lost after an [incident](https://news.gandi.net/en/2020/01/postmortem-of-the-failure-of-one-hosting-storage-unit-at-lu-bi1-on-january-8-2020/) with the web host. At first, it looked all right, but then customers learned that the data was likely lost. It turned out that the host was able to recover the data. Ten years is a long run for a website. Anyway, following this incident is a perfect time to relaunch the front page with an updated design and newer works.
 
 ## No more database, please
-Database means maintenance, which is time-consuming. It also means data loss looming around the corner, backups notwithstanding.
-With this in mind, rebuilding with [Jekyll](https://jekyllrb.com), that I have used for other [projects](https://alternatyves.com), seemed like a logical choice.
+Database means time-consuming maintenance. It also means data loss looming around the corner, backups notwithstanding. With this in mind, rebuilding this site with [Jekyll](https://jekyllrb.com), that I use for my [illustration portfolio](https://alternatyves.com), seemed like a logical choice. The transition from WordPress to Jekyll went smoothly.
 
 ## Archives
+Keeping an archive of the pages may well be worth it for SEO alone.
+You can find all [blog posts here](https://film-storyboards.com/archive/).
+
+## Source code
+The new site uses Jekyll  + [Tachyons](http://tachyons.io).
+You are welcome to contribute to improving this theme: [https://github.com/YJPL/film-storyboards](https://github.com/YJPL/film-storyboards).
