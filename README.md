@@ -41,7 +41,7 @@ To fire Jekyll with auto-regeneration, use:
 
 `gulp watch`
 
-This command builds the site locally on port 3000, with [Browsersync](https://www.browsersync.io) so you can quickly revise design changes.(the project uses Gulp `CLI version 2.0.1` / Local version `4.0.0`)
+This command builds the site locally on port 3000, with [Browsersync](https://www.browsersync.io) so you can quickly revise design changes.
 
 
 # Copyright / License
