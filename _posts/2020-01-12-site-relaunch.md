@@ -4,6 +4,8 @@ date: 2020-01-12T00:00:50+01:00
 last_modified_at: 2020-02-26 12:24:48 +0100
 author: Yves
 layout: post
+excerpt: |
+  Film Storyboards site relaunch with a new theme built with Jekyll.
 header:
     layout: hero
     vh: vh-50 vh-75-m vh-50-l
