@@ -14,7 +14,7 @@ header:
         class: btn btn--primary helvetica
 permalink: /templates-supply/
 image:
-categories:
+categories: [storyboard templates, templates]
 tags:
   - web design
 ---
