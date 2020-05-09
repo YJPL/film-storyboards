@@ -1,5 +1,5 @@
 {
-  "name": "stb",
+  "name": "FilmStoryboards",
   "version": "1.0.0",
   "description": "storyboards portfolio built with Jekyll and Tachyons",
   "main": "index.html",
@@ -22,8 +22,6 @@
   "devDependencies": {
     "cssnano": "^4.1.10",
     "gulp": "^4.0.2",
-    "gulp-imagemin": "^7.1.0",
-    "gulp-newer": "^1.4.0",
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^8.0.0",
     "gulp-size": "^3.0.0",
@@ -39,20 +37,22 @@
   ],
   "scripts": {
     "start": "npm run build:watch",
-    "mutations": "immutable-css src/tachyons.css --strict",
+    "mutations": "immutable-css src/stb-tachyons.css --strict",
     "build": "npm run build:css && npm run build:minify",
-    "build:css": "tachyons src/tachyons.css > css/tachyons.css",
-    "build:minify": "tachyons src/stb-tachyons.css -m > css/stb-tachyons.min.css",
-    "build:watch": "watch 'npm run build' ./src/"
+    "build:css": "tachyons src/stb-tachyons.css > css/stb-tachyons.css",
+    "build:minify": "tachyons src/stb-tachyons.css --minify > css/stb-tachyons.min.css",
+    "build:watch": "watch \"npm run build\" ./src/"
   },
   "dependencies": {
     "autoprefixer": "^9.7.6",
     "browser-sync": "^2.26.7",
     "del": "^5.1.0",
     "directory-tree": "^2.2.4",
+    "glob": "^7.1.6",
     "gulp-basswork": "^0.2.0",
     "gulp-concat": "^2.6.1",
     "gulp-eslint": "^6.0.0",
-    "gulp-rename": "^2.0.0"
+    "gulp-rename": "^2.0.0",
+    "sharp": "^0.25.2"
   }
 }
