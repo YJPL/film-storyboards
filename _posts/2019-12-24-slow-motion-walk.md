@@ -11,7 +11,6 @@ image: /images/uploads/2019/10/Slowmotion-Walk_07.jpg
 categories:
   - advertising
   - storyboard
-  - portfolio
   - TV Commercial
 ---
 
