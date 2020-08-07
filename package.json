@@ -44,8 +44,8 @@
     "build:watch": "watch \"npm run build\" ./src/"
   },
   "dependencies": {
-    "autoprefixer": "^9.8.5",
-    "browser-sync": "^2.26.10",
+    "autoprefixer": "^9.8.6",
+    "browser-sync": "^2.26.12",
     "del": "^5.1.0",
     "directory-tree": "^2.2.4",
     "glob": "^7.1.6",
