@@ -9,7 +9,7 @@ excerpt: |
   Agency: ESN
   Production: Benuts
   Client: DG Trade European Commission
-layout: portfolio
+layout: post-centered
 guid: http://film-storyboards.com/?p=3164
 permalink: /dg-trade-animation/
 image: /images/uploads/2017/07/DG-Trade-Map-02.png

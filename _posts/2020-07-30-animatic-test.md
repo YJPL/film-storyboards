@@ -3,7 +3,7 @@ title: Animatic test
 date: 2020-07-30 08:24:48 +0100
 last_modified_at:
 author: Yves
-layout: long-form
+layout: post-centered
 permalink: /animatic-test/
 image: /images/uploads/2020/animatic-test/animation-test-frame-sketch.png
 categories:
