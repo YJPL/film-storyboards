@@ -53,6 +53,6 @@
     "gulp-concat": "^2.6.1",
     "gulp-eslint": "^6.0.0",
     "gulp-rename": "^2.0.0",
-    "sharp": "^0.25.4"
+    "sharp": "^0.26.0"
   }
 }
