@@ -1,4 +1,6 @@
 title: Film Storyboards
+author: "Yves Capelle"
+description: "Whether you need storyboards to pitch, plan, budget your film, or communicate with your crew, a tailored solution is here for you."
 url: https://film-storyboards.com # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
 
@@ -7,7 +9,15 @@ baseurl:
 date_format: "%b %-d, %Y"
 
 # social
-
+name: Film Storyboards
+links:
+  - https://twitter.com/FilmStoryboards
+  - https://www.instagram.com/filmstoryboards
+  - https://www.facebook.com/filmstoryboards
+  - https://www.linkedin.com/company/film-storyboards
+twitter:
+  username: FilmStoryboards
+  url: https://twitter.com/
 # No analytics it's a waste of time
 
 # Reading Files
