@@ -1,5 +1,5 @@
 ---
-title: Screenplay templates for Mac
+title: Screenwriting templates for Mac
 date: 2020-11-16 08:24:48 +0100
 last_modified_at: 
 author: Yves

@@ -2,7 +2,7 @@
 id: 3735
 title: Japanese Anime Storyboard Templates
 date: 2017-07-23T14:07:02+02:00
-last_modified_at: 2020-02-18 12:24:48 +0100
+last_modified_at: 2020-11-17 12:36:48 +0100
 author: Yves
 layout: post-centered
 header:
@@ -16,6 +16,7 @@ header:
         class: btn btn--primary helvetica
 guid: http://film-storyboards.com/?p=3735
 permalink: /japanese-anime-storyboard-templates/
+text-button: Can I get this beautiful template?
 categories:
   - anime
   - storyboard templates

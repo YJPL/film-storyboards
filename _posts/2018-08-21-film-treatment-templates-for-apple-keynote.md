@@ -2,11 +2,11 @@
 id: 4136
 title: Film treatment templates for Apple Keynote
 date: 2018-08-21T10:39:54+02:00
-last_modified_at: 2020-11-17 08:24:48 +0100
+last_modified_at: 2020-11-17 12:24:48 +0100
 author: Yves
 layout: post-centered
-guid: https://film-storyboards.com/?p=4136
 permalink: /film-treatment-templates-for-apple-keynote/
+text-button: I need this template now!
 image:
 categories:
   - advertising
