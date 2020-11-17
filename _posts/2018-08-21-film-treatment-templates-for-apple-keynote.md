@@ -2,7 +2,7 @@
 id: 4136
 title: Film treatment templates for Apple Keynote
 date: 2018-08-21T10:39:54+02:00
-last_modified_at: 2020-11-06 09:24:48 +0100
+last_modified_at: 2020-11-17 08:24:48 +0100
 author: Yves
 layout: post-centered
 guid: https://film-storyboards.com/?p=4136
@@ -18,7 +18,7 @@ categories:
 ---
 This post is about Keynote themes designed for film treatments for film directors and Production companies.
 
-[Apple Keynote](https://www.apple.com/keynote/) is a free layout program from Mac productivity apps that enables you to put together presentations really fast for print or for screen. You can start your layout from scratch or easily change an existing theme&#8217;s design. Like its infamous PC counterpart it also has basic animation options, for slides projection. You won&#8217;t need these most of the time but Keynote is a solid app when it comes to its main quality: layout speed. If you use a Mac and need to design film presentations for your pitches these Keynote themes will save you even more time. 
+[Apple Keynote](https://www.apple.com/keynote/) is a free layout program from Mac productivity apps that enables you to put together presentations really fast for print or for screen. You can start your layout from scratch or easily change an existing theme&#8217;s design. Like its infamous PC counterpart it also has basic animation options, for slides projection. You won't need these most of the time, but Keynote is a solid app when it comes to its main quality: layout speed. If you use a Mac and need to design film presentations for your pitches these Keynote themes will save you even more time. 
 
 ## Apple Keynote Theme for Advertising Film Treatment and Storyboards 2:1 (Univisium) Avenir Light 10pt on DIN A4 landscape
 
