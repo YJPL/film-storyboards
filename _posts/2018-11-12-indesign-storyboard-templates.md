@@ -2,7 +2,7 @@
 id: 4263
 title: InDesign storyboard templates
 date: 2018-11-12T10:34:43+01:00
-last_modified_at: 2020-02-18 13:19:24 +0100
+last_modified_at: 2020-11-17 08:24:48 +0100
 author: Yves
 layout: post-centered
 guid: https://film-storyboards.com/?p=4263
@@ -197,4 +197,4 @@ _Check, there are many more <span style="color: #3366ff;"><a style="color: #3366
 
 ***
 
-###### idml format is compatible with ALL InDesign versions since legacy CS4 up to the current InDesign CC 2020.
+###### idml format is compatible with ALL InDesign versions since legacy CS4 up to the current InDesign CC 2021.
