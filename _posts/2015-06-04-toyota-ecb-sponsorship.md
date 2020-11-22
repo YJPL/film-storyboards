@@ -14,7 +14,6 @@ image: /images/uploads/2015/08/Stability-Support_04_bis.png
 categories:
   - advertising
   - digital storyboard
-  - portfolio
   - storyboard
   - TV Commercial
 tags:
