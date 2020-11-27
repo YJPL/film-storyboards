@@ -20,7 +20,7 @@ If you work in film production, animation, or TV commercials under tight deadlin
 
 To get an overview of the existing filmmaking templates, check [https://storyboards.gumroad.com](https://storyboards.gumroad.com).
 
-The free templates are also part of this membership, for convenience, at no additional cost.
+The free templates are also part of this membership, for convenience, at no additional cost (you can pick the Free templates membership tier alone or get both).
 
 <p class="tc f5 black-30 measure-wide lh-copy avenir">
 (Click on the picture for for more info.)
