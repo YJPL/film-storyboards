@@ -27,7 +27,7 @@ The free templates are also part of this membership, for convenience, at no addi
 </p>
 
 <a href="https://gum.co/all-access" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2020/membership/All-Access-Film-Storyboards-templates-overview_1200.png"></a>
-<figcaption>All templates Acces ⚡️ Click on the picture for for more info.</figcaption>
+<figcaption>All templates Access ⚡️ Click on the picture for for more info.</figcaption>
 
 
 {% include gumroad-overlay.html id="all-access" %}
