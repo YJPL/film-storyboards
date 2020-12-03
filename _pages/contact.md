@@ -1,10 +1,8 @@
 ---
-id: 951
 title: Contact
 permalink: /contact/
 author: Yves
 layout: page
-guid: http://film-storyboards.com/?page_id=951
 ---
 
 
