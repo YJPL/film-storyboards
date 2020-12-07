@@ -21,7 +21,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.0.4",
-    "cross-env": "^7.0.3",
     "cssnano": "^4.1.10",
     "gulp": "^4.0.2",
     "gulp-plumber": "^1.2.1",
@@ -29,7 +28,7 @@
     "gulp-size": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "immutable-css-cli": "^1.1.1",
-    "postcss": "^8.1.13",
+    "postcss": "^8.1.14",
     "watch": "^1.0.2"
   },
   "contributors": [
@@ -49,7 +48,6 @@
   "dependencies": {
     "browser-sync": "^2.26.13",
     "del": "^6.0.0",
-    "directory-tree": "^2.2.5",
     "glob": "^7.1.6",
     "gulp-basswork": "^0.2.0",
     "gulp-concat": "^2.6.1",
