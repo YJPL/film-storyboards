@@ -1,12 +1,12 @@
 ---
-id: 1508
 title: Storyboard Templates
 permalink: /storyboards-templates/
+last_modified_at: 2020-12-10
+text-button: Can I get this template please?
 author: Yves
 layout: page
-guid: http://film-storyboards.com/?page_id=1508
 ---
-It is easy to find a free pdf storyboard template. Storyboard templates are all over the web. Now what if you need to _edit_ your layout? Here is a set of storyboard templates designed for various film ratios that you can edit in **Adobe InDesign** (idml) and some even simpler themes for** Apple Keynote** (.kth) and **Apple Pages** (.theme). Click on each template&#8217;s preview image to buy or get more info. All these templates and many more are available in the <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://gumroad.com/storyboards"><strong>Storyboards Shop</strong></a></span>.
+It is easy to find a free pdf storyboard template. Storyboard templates are all over the web. Now, what if you need to _edit_ your layout? Here is a set of storyboard templates designed for various film ratios that you can edit in **Adobe InDesign** (IDML) and some even simpler themes for** Apple Keynote** (.kth) and **Apple Pages** (.theme). Click on each template&#8217;s preview image to buy or get more info. All these templates and many more are available in the <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://gumroad.com/storyboards"><strong>Storyboards Shop</strong></a></span>.
 
 ## 01. Free InDesign Storyboard template for advertising — 1.85:1 ratio
 
