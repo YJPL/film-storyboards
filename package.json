@@ -28,7 +28,7 @@
     "gulp-size": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "immutable-css-cli": "^1.1.1",
-    "postcss": "^8.2.0",
+    "postcss": "^8.2.1",
     "watch": "^1.0.2"
   },
   "contributors": [
