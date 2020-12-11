@@ -1,11 +1,9 @@
 ---
-id: 3333
 title: Resolution + Aspect Ratio Cheat Sheet for Most Used Film Formats
 permalink: /resolution-aspect-ratio-cheat-sheet/
 date: 2016-08-14T17:43:02+02:00
 author: Yves
 layout: page
-guid: http://film-storyboards.com/?page_id=3333
 ---
 Here are some commonly used formats and sizes for the resolution to use when exporting for various aspect ratios and frame sizes.
 

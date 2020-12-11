@@ -3,7 +3,6 @@ title: Hire Me
 permalink: /hire-me/
 author: Yves
 layout: page
-
 ---
 
 _**Film Storyboards**_ is a one person studio focusing on production design and [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). I draw for films, animation, and cross media projects.

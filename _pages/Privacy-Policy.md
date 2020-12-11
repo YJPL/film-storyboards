@@ -1,10 +1,8 @@
 ---
-id: 4090
 title: Privacy Policy
 permalink: /privacy/
 author: Yves
 layout: page
-guid: https://film-storyboards.com/?page_id=4090
 ---
 ## Who we are
 

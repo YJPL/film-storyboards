@@ -1,10 +1,8 @@
 ---
-id: 103
 title: Profile
 author: Yves
 layout: page
 permalink: /profile/
-guid: http://film-storyboards.com/
 ---
 ## Crafting storyboards since 1999.
 

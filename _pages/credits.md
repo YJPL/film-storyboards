@@ -1,6 +1,6 @@
 ---
 title: Credits
-last_modified_at: "2020-12-03"
+last_modified_at: 2020-12-03
 author: Yves
 layout: page
 permalink: /credits/

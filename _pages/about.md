@@ -1,10 +1,8 @@
 ---
-id: 528
 title: About
 author: Yves
 layout: page
 permalink: /about/
-guid: http://film-storyboards.com/
 ---
 Storyboard artist and pitch facilitator since 1999, I Help production houses, agencies and film crew visualizing multimedia projects in Europe and beyond.
 

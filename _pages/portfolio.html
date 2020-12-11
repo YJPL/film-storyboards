@@ -1,10 +1,9 @@
 ---
-id: 515
 title: Portfolio
 permalink: /portfolio/
 author: Yves
 layout: default
-guid: https://film-storyboards.com/
+last_modified_at: 2020-12-11 00:24:48 +0100
 image: /images/uploads/2017/07/dancing-feet-storyboard_063.jpg
 ---
 
@@ -15,7 +14,7 @@ image: /images/uploads/2017/07/dancing-feet-storyboard_063.jpg
     {% assign posts = site.posts | where_exp: "post", "post.categories contains 'portfolio'" %}
     {% for post in posts %}
 
-<div class="w-100 w-25-l pa1">
+<div class="w-100 w-third-l pa1">
 
   <div class="aspect-ratio aspect-ratio--16x9" itemscope itemtype="http://schema.org/Blog" data-columns>
 

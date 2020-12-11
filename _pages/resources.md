@@ -1,10 +1,8 @@
 ---
-id: 206
 title: Resources
 permalink: /resources/
 author: Yves
 layout: page
-guid: http://film-storyboards.com/
 ---
 ## Storyboards Templates
 

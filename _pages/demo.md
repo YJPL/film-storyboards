@@ -1,11 +1,9 @@
 ---
-id: 3927
 title: Demo
 permalink: /demo/
 date: 2017-12-10T19:09:39+01:00
 author: Yves
 layout: page
-guid: /?page_id=3927
 ---
 # PAGE MARKUP AND FORMATTING
 
