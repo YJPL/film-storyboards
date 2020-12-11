@@ -11,9 +11,9 @@ text-button: Can I get this template now?
 categories:
   - digital storyboards
   - presentation
-  - storyboard
   - storyboard templates
   - templates
+image: 
 ---
 With a recent update, [Apple Pages](https://www.apple.com/pages/) (7.0) now has Masters, like [Keynote](https://www.apple.com/keynote/). Granted, it cannot rival the editing scope of Adobe InDesign to produce and publish layouts. That is a given. But it is a sound solution to create beautiful documents, fast. And thanks to this improvement, it now makes sense to use it for storyboards as well.<span style="font-size: 19.2px;"> </span>
 

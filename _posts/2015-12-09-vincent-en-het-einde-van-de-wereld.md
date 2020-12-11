@@ -1,10 +1,9 @@
 ---
-id: 2860
 title: Vincent and the end of the world
 date: 2015-12-09T14:20:17+01:00
+last_modified_at: 2020-12-11 00:24:48 +0100
 author: Yves
 layout: post
-guid: http://film-storyboards.com/?p=2860
 permalink: /vincent-en-het-einde-van-de-wereld/
 categories:
   - drawing
@@ -17,6 +16,7 @@ tags:
   - action scene
   - car
 format: gallery
+image: /images/uploads/2014/10/vincent-en-het-einde-van-de-wereld-stoyboard—03.jpg
 ---
 
 ![Vincent and the End of the World storyboard 01](/images/uploads/2014/10/vincent-en-het-einde-van-de-wereld-stoyboard—01.jpg)

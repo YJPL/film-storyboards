@@ -1,25 +1,26 @@
 ---
-title: Sketchbook
-permalink: /sketchbook/
+title: Storyboard samples
+permalink: /samples/
+date: 2020-12-10 22:24:48 +0100
 author: Yves
 layout: default
-image: /images/uploads/2014/10/Suite-Francaise—sketchbook-1.jpg
+image: /images/uploads/2020/proximus-pitch/Proximus_Pitch_No_Limit-board-animatic_960.gif
 ---
 
 <section class="cf pb5 ph5-ns ph2">
-  <f1 class="f1 lh-title b helvetica pv4">Sketchbook(s)</f1>
+  <f1 class="f1 lh-title b helvetica pv4">Storyboard samples</f1>
   <article class="flex-ns flex-wrap">
 
-    {% assign posts = site.posts | where_exp: "post", "post.categories contains 'sketchbook'" %}
-    {% for post in posts %}
+	{% assign posts = site.posts | where_exp: "post", "post.categories contains 'storyboard'" %}
+	{% for post in posts %}
 
 <div class="w-100 w-25-l pa1">
 
-  <div class="aspect-ratio aspect-ratio--4x6" itemscope itemtype="http://schema.org/Blog" data-columns>
+  <div class="aspect-ratio aspect-ratio--185x100" itemscope itemtype="http://schema.org/Blog" data-columns>
 
   <a href="{{ post.url }}" style="background-image:url({{ post.image }});"
-      class="grow link-green dt hide-child db bg-center cover aspect-ratio--object"  />
-    </a>
+	  class="grow link-green dt hide-child db bg-center cover aspect-ratio--object"  />
+	</a>
 
 <span class="pa3 dib v-mid black truncate w-100 lh-copy avenir">{{ post.description }}</span>
 </div>

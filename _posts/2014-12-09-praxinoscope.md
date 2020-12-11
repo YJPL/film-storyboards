@@ -1,11 +1,9 @@
 ---
-id: 3314
 title: 'Praxinoscope — Galloping Warhorse'
 date: 2014-12-09T15:36:45+01:00
-last_modified_at: 2020-02-18 10:12:24 +0100
+last_modified_at: 2020-12-10 10:12:24 +0100
 author: Yves
 layout: portfolio
-guid: http://film-storyboards.com/?p=3314
 permalink: /praxinoscope/
 image: /images/uploads/2014/09/Praxinoscope-animation_knight.gif
 categories:

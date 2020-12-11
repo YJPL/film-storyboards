@@ -1,7 +1,7 @@
 ---
 title: Site relaunch
 date: 2020-01-12T00:00:50+01:00
-last_modified_at: 2020-06-29
+last_modified_at: 2020-12-11
 author: Yves
 layout: post
 excerpt: |
@@ -17,9 +17,9 @@ header:
         url: /portfolio/
         class: btn btn--primary helvetica
 permalink: /site-relaunch/
-image:
+image: /images/film-storyboards-screenshot.png
 categories:
-  - storyboard
+  - film storyboards
 tags:
   - web design
 ---

@@ -1,11 +1,9 @@
 ---
-id: 632
 title: 'The Hot Potato — Car Chase'
 date: 2010-11-22T11:15:53+01:00
-last_modified_at: 2020-02-18 13:06:12 +0100
+last_modified_at: 2020-12-11 01:26:12 +0100
 author: Yves
 layout: post
-guid: http://film-storyboards.com/?p=632
 permalink: /the-hot-potato/
 image: /images/uploads/2010/11/The-Hot-Potato-Movie.jpg
 categories:

@@ -10688,6 +10688,24 @@ code,
 
 /*! Theme specific CSS */
 
+/* Custom aspect ratios */
+
+.aspect-ratio--185x100 {
+  padding-bottom: 54.05%;
+}
+
+.aspect-ratio--9x16 {
+  padding-bottom: 177.77%;
+}
+
+.aspect-ratio--2x1 {
+  padding-bottom: 50%;
+}
+
+.aspect-ratio--1x2 {
+  padding-bottom: 200%;
+}
+
 /* Links */
 
 a {

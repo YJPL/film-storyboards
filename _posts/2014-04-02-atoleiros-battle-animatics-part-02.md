@@ -1,17 +1,14 @@
 ---
-id: 2579
 title: Atoleiros Battle Animatics Part 02
 date: 2014-04-02T14:58:13+02:00
-last_modified_at: 2020-02-18 10:12:24 +0100
+last_modified_at: 2020-12-11 01:19:12 +0100
 author: Yves
 layout: post-centered
-guid: http://film-storyboards.com/?p=2579
 permalink: /atoleiros-battle-animatics-part-02/
-featured_image:
-  - http://film-storyboards.com/images/uploads/2014/08/featured_Atoleiros-Battle-Animatics_uprising.jpg
 image: /images/uploads/2014/09/017_Portuguese-relief-army-draft-drawing-table.jpg
 categories:
   - animation
+  - storyboard
   - cross-media
   - documentary
   - drawing

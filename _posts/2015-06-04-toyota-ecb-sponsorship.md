@@ -1,8 +1,7 @@
 ---
-id: 3021
 title: Toyota ECB Sponsorship
 date: 2015-06-04T14:16:48+02:00
-last_modified_at: 2020-02-26 17:48:19 +0100
+last_modified_at: 2020-12-10 23:48:19 +0100
 author: Yves
 excerpt: |
   <a class="none" title="Storyboard for Toyota Idents — England and Wales Cricket Board  Sponsorship" href="https://film-storyboards.com/toyota-ecb-sponsorship/" rel=""><img class="picture" title="Toyota Idents — ECB Sponsorship — Storyboard" src="https://film-storyboards.com/images/uploads/2015/08/Stability-Support_04_bis.png" alt="Toyota Idents — ECB Sponsorship — Storyboard" /></a>

@@ -1,10 +1,9 @@
 ---
-id: 2842
 title: Suite Française
 date: 2015-01-15T13:58:46+01:00
+last_modified_at: 2020-12-11 00:24:48 +0100
 author: Yves
 layout: post-centered
-guid: http://film-storyboards.com/?p=2842
 permalink: /suite-francaise/
 image: /images/uploads/2014/10/Suite-Francaise—sketchbook-1.jpg
 categories:
