@@ -2,7 +2,7 @@
 id: 588
 title: Storyboards Samples
 date: 2010-09-19T14:11:10+02:00
-last_modified_at: 2020-02-18 13:24:48 +0100
+last_modified_at: 2021-01-18
 author: Yves
 excerpt: |
   Since 1999, I draw storyboards and concept illustrations for feature films, advertising commercials, TV shows, animation, events, spectacles historical films and documentaries.
@@ -25,7 +25,7 @@ categories:
   - drawing
   - feature film
   - historical
-  - non Fiction
+  - non fiction
   - show
 tags:
   - comps
