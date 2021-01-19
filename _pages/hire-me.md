@@ -5,7 +5,7 @@ author: Yves
 layout: page
 ---
 
-_**Film Storyboards**_ is a one person studio focusing on production design and [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). I draw for films, animation, and cross media projects.
+_**Film Storyboards**_ is a one-person studio focusing on production design and [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). I draw for films, animation, and cross-media projects.
 
 If you need a tailored solution to storyboard, pitch, plan, budget your film, or communicate with your crew, let's talk.
 
