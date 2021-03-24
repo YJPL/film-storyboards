@@ -46,6 +46,6 @@ This command builds the site locally on port 3000, with [Browsersync](https://ww
 
 # Copyright / License
 
-The content of this project itself, all illustrations & design works are (c) Yves JPL Capelle / [alternatyves outc.](https://alternatyves.com) / SOFAM. The underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/YJPL/film-storyboards/blob/master/LICENSE).
+The content of this project itself, all illustrations & design works are (c) Yves JPL Capelle / [Film Storyboards](https://film-storyboards.com) / [alternatyves outc.](https://alternatyves.com) / SOFAM. The underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/YJPL/film-storyboards/blob/master/LICENSE).
 
 <a href="https://www.buymeacoffee.com/alternatyves/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
