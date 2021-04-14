@@ -1,7 +1,7 @@
 ---
-title: Procreate storyboard templates ✏️
+title: Free Procreate storyboard templates ✏️
 date: 2021-03-30 12:24:48 +0100
-last_modified_at: 
+last_modified_at: 2021-04-14
 author: Yves
 layout: post-centered
 permalink: /procreate-storyboard-templates/
