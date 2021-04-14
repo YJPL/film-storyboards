@@ -1,16 +1,16 @@
 ---
 title: Film Treatment and Storyboard Templates Bundle ⚡️
 date: 2020-11-27 12:24:48 +0100
-last_modified_at: 2021-03-30
+last_modified_at: 2021-04-14
 author: Yves
 layout: post-centered
 permalink: /all-templates-access-membership/
-text-button: Yes ❤️ I need All Templates Access!
+text-button: Yes, give me the Film Treatment and Storyboard Templates Bundle!
 image: /images/uploads/2020/membership/All-Access-Film-Storyboards-templates-overview_2x1_1200.png
 categories: [storyboard templates, templates]
 ---
 ### Introducing Membership 👇
-[Film Treatment and Storyboard Templates Bundle](https://gum.co/all-access){: .b .blue .hover-green} lets you get all paid templates at once and includes the new templates published within the next year along with free updates for all the templates for one year.
+The [Film Treatment and Storyboard Templates Bundle](https://gum.co/all-access){: .b .blue .hover-green} lets you get all paid templates at once and includes the new templates published within the next year along with free updates for all the templates for one year.
 
 Right now, this means **50** templates for [Adobe InDesign](https://www.adobe.com/products/indesign.html) (Mac and PC), [Apple Keynote](https://www.apple.com/keynote/), and [Apple Pages](https://www.apple.com/pages/).
 
@@ -27,7 +27,7 @@ The free templates are also part of this membership, for convenience, at no addi
 </p>
 
 <a href="https://gum.co/all-access" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2020/membership/All-Access-Film-Storyboards-templates-overview_1200.png"></a>
-<figcaption>All templates Access ⚡️ Click on the picture for for more info.</figcaption>
+<figcaption>Film Treatment and Storyboard Templates Bundle ⚡️ Click on the picture for for more info.</figcaption>
 
 
 {% include gumroad-overlay.html id="all-access" %}
