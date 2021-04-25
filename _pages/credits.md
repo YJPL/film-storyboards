@@ -1,11 +1,13 @@
 ---
 title: Credits
-last_modified_at: 2021-02-23
+last_modified_at: 2021-04-25
 author: Yves
 layout: page
 permalink: /credits/
 ---
 ## Feature Films
+
+*Piove* **Paolo Strippoli**, 2021. Storyboard for VFX & SFX sequences. 
 
 *Atlantics* **Mati Diop**, 2018. Concept design for set (VFX).
 
@@ -19,11 +21,11 @@ permalink: /credits/
 
 *[Vincent en het einde van de wereld](http://www.imdb.com/title/tt3231020/ "Vincent en het einde van de wereld IMDB")* **Christophe Van Rompaey** — A Private View — 2014 (pre production) Storyboard, car accident.
 
-*[Suite française](http://www.imdb.com/title/tt0900387/ "Suite française - IMDB")* **Saul Dibb** — Production Services Belgium — 2014. Storyboard, sfx scenes.
+*[Suite française](http://www.imdb.com/title/tt0900387/ "Suite française - IMDB")* **Saul Dibb** — Production Services Belgium — 2014. Storyboard, SFX scenes.
 
-*[The Hot Potato](http://film-storyboards.com/the-hot-potato/ "The Hot Potato")* **Tim Lewiston** — Wardour Pictures / Novak Prod — feature film — 2010.  Storyboard, sfx scenes & car chase.
+*[The Hot Potato](http://film-storyboards.com/the-hot-potato/ "The Hot Potato")* **Tim Lewiston** — Wardour Pictures / Novak Prod — feature film — 2010.  Storyboard, SFX scenes & car chase.
 
-*[Où Est La Main De L'Homme Sans Tête?](http://www.ouestlamain.com/ "Où Est La Main de L’Homme Sans Tête?")* **Guillaume Malandrin** — La Parti Production, feature film — 2009. Storyboard sfx scenes.
+*[Où Est La Main De L'Homme Sans Tête?](http://www.ouestlamain.com/ "Où Est La Main de L’Homme Sans Tête?")* **Guillaume Malandrin** — La Parti Production, feature film — 2009. Storyboard SFX scenes.
 
 **[IMDb credits](https://www.imdb.com/name/nm2326905/ "IMDb credits, Yves Capelle")**
 
@@ -52,19 +54,21 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 
 **Franco Dragone** — _<a title="Macau’s Must See Spectacular" href="https://www.thehouseofdancingwater.com/" target="_blank" rel="noopener noreferrer">The House of Dancing Water</a>_ &#8211; **City of Dreams, Melco PBL**, Macau 2011. Role: Pitch concept art, visual development, set design for large format print artwork—including a 260m long X 8m high curtain, artwork for stunt trucks and for various theatre properties.
 
-## Music Video
+## Music Videos
+**Eddy De Pretto**, *FREAKS*, directed by **Thibault Dumoulin**.
 
 **La Chiva Gantiva**, *Vivo*, directed by **Ben Lacour**.
 
-## TV
+## TV series
+*OVNI(s)* **Antony Cordier**, Benuts — storyboard for Season 2 episode 3 — VFX & SFX scene, TV series, 2021
 
-*“Les Rivières Pourpres”* (*The Crimson Rivers*) **Olivier Barma**, Umedia / Europacorp Télévision** ** – storyboard for episode 5 & 6 *“La croisade des enfants”* — stunts, VFX sequences, TV series, 2017
+*“Les Rivières Pourpres”* (*The Crimson Rivers*) **Olivier Barma**, Umedia / Europacorp Télévision – storyboard for episode 5 & 6 *“La croisade des enfants”* — stunts, VFX sequences, TV series, 2017
 
-*“Les Rivières Pourpres”* (*The Crimson Rivers*) **Julius Berg**, Umedia / Europacorp Télévision** ** – storyboard for episode 3 & 4 *“Le jour des cendres”* — VFX sequences, TV series, 2017
+*“Les Rivières Pourpres”* (*The Crimson Rivers*) **Julius Berg**, Umedia / Europacorp Télévision – storyboard for episode 3 & 4 *“Le jour des cendres”* — VFX sequences, TV series, 2017
 
-_&#8220;Facteur Chance&#8221;_ **Julien Séri**, TF1 / AT Production &#8211; car chase sequence, TV episode &#8211; 2009
+_&#8220;Facteur Chance&#8221;_ **Julien Séri**, TF1 / AT Production — car chase sequence, TV episode — 2009
 
-Opening credits illustrations for Nickelodeon _&#8220;Het Huis Anubis&#8221;_ with <a title="Grid VFX" href="http://www.grid-vfx.com/" target="_blank" rel="noopener noreferrer">Grid VFX</a> &#8211; 2006
+Opening credits illustrations for Nickelodeon _&#8220;Het Huis Anubis&#8221;_ with <a title="Grid VFX" href="http://www.grid-vfx.com/" target="_blank" rel="noopener noreferrer">Grid VFX</a> — 2006
 
 ## Animation
 
@@ -92,7 +96,7 @@ Storyboard for **DG Justice** Agency: **ESN** Production: **Une Très Grosse B
 
 ## Advertising Commercials
 
-Since 1999, I drew over 350 TV commercial storyboards (mostly pre-production meeting &#8220;shooting storyboards&#8221;, aka director boards) along with numerous print & online campaigns layouts. My storyboards help advertising and film production companies develop ideas, plan and budget film sets and win their pitches.
+Since 1999, I drew over 400 TV commercial storyboards (mostly pre-production meeting &#8220;shooting storyboards&#8221;, aka director boards) along with numerous print & online campaigns layouts. My storyboards help advertising and film production companies develop ideas, plan and budget film sets and win their pitches.
 
 ### Directors
 
@@ -100,8 +104,8 @@ Since 1999, I drew over 350 TV commercial storyboards (mostly pre-production me
 
 ### Agencies & Productions
 
-Homestead *CARTEL Film* Hobbyfilm Stockholm *ADULT* [Gwantsi](https://www.gwantsi.com/) *BBDO Belgium* Ristretto Films *Big Production SAS* CAVIAR *Producteur Provocateur* [HUGGGY](http://hugggy.com) *109 Paris* [HAMLET](http://www.hamlet.tv) *[FleishmanHillard](https://fleishmanhillard.eu)* [LUON](https://www.luon.com "LUON") *[WIZZdesign](http://wizz.fr) (Fr)* Prodigious (Fr) *Blinkside* MAD (FR) *The Marmalade (De)* Duval Guillaume Antwerp *Good Egg Production (UK)* NEW ID filmproduktion GmbH (De) *QUAD (Fr)* MAD BOX *A Private View* European Service Network *ChezEddy* [Benuts](https://www.benuts.be "Visual effects") *Shenan Concept Sprl* Ebuco *Latcho Drom* Satellite My Love (France) *[RSA Films (UK)](http://www.rsafilms.com)* Rosas & Co Films AG (Switzerland) *SEPIC Documentary Productions (Japan)* Kunstmaan *Milly Films* Primart (Austria) *Germaine* mucho *VVL/BBDO* Magnifico GmbH & Co. KG (Germany) *Pacha Production* Euro RSCG *Design Board* Strategie *d side event* [BIGFISH Filmproduktion](http://www.bigfish.de/) (Berlin) *The Retail Company* Fetish Film (Ru) *[Lovo Films](http://www.lovo.be/ "Lovo Films Creativity Lovers")* Armand Prod *Binsfeld (Lu)* Y&R Brussels *JWT Brussels* 7ïa Films & TV Productions *[n’Wave Pictures](http://www.nwave.com/)* Concept Technique & Production *activeIDEA* Epidemie (Amsterdam) *[Brandhome](http://www.brandhome.com/ "Brandhome - Identity driven brand building")*  Tellygence *CZAR.BE* DDB Group Belgium *TBWA Paris* The Pub Agency *NextCap (Ro)* Saatchi & Saatchi Vietnam *Leith Agency (UK)* Xenon Productions *MTP Scotland* Walking The Dog *Banana Films* IdProd (Lu) *N1digital / Mark Vanco* Ogilvy & Mather Vietnam *Mc Cann-Erickson VN* Daiko VN *Revolution Films* Lazennec VN *Toast Media Australia* Bates/141 VN *Shooting Gallery & Frameworks Singapore* Calabazitaz Tiernaz
+*CAVIAR LA* [Homestead](http://lovehomestead.com) *CARTEL Film* Hobbyfilm Stockholm *ADULT* [Gwantsi](https://www.gwantsi.com/) *BBDO Belgium* Ristretto Films *Big Production SAS* CAVIAR *Producteur Provocateur* [HUGGGY](http://hugggy.com) *109 Paris* [HAMLET](http://www.hamlet.tv) *[FleishmanHillard](https://fleishmanhillard.eu)* [LUON](https://www.luon.com "LUON") *[WIZZdesign](http://wizz.fr) (Fr)* Prodigious (Fr) *Blinkside* MAD (FR) *The Marmalade (De)* Duval Guillaume Antwerp *Good Egg Production (UK)* NEW ID filmproduktion GmbH (De) *QUAD (Fr)* MAD BOX *A Private View* European Service Network *ChezEddy* [Benuts](https://www.benuts.be "Visual effects") *Shenan Concept Sprl* Ebuco *Latcho Drom* Satellite My Love (France) *[RSA Films (UK)](http://www.rsafilms.com)* Rosas & Co Films AG (Switzerland) *SEPIC Documentary Productions (Japan)* Kunstmaan *Milly Films* Primart (Austria) *Germaine* mucho *VVL/BBDO* Magnifico GmbH & Co. KG (Germany) *Pacha Production* Euro RSCG *Design Board* Strategie *d side event* [BIGFISH Filmproduktion](http://www.bigfish.de/) (Berlin) *The Retail Company* Fetish Film (Ru) *[Lovo Films](http://www.lovo.be/ "Lovo Films Creativity Lovers")* Armand Prod *Binsfeld (Lu)* Y&R Brussels *JWT Brussels* 7ïa Films & TV Productions *[n’Wave Pictures](http://www.nwave.com/)* Concept Technique & Production *activeIDEA* Epidemie (Amsterdam) *[Brandhome](http://www.brandhome.com/ "Brandhome - Identity driven brand building")*  Tellygence *CZAR.BE* DDB Group Belgium *TBWA Paris* The Pub Agency *NextCap (Ro)* Saatchi & Saatchi Vietnam *Leith Agency (UK)* Xenon Productions *MTP Scotland* Walking The Dog *Banana Films* IdProd (Lu) *N1digital / Mark Vanco* Ogilvy & Mather Vietnam *Mc Cann-Erickson VN* Daiko VN *Revolution Films* Lazennec VN *Toast Media Australia* Bates/141 VN *Shooting Gallery & Frameworks Singapore* Calabazitaz Tiernaz
 
 ### Clients
 
-Emory Healthcare *Spa Reine* Mega *Ladbrokes* AB InBev/Victoria *Roberts* Oppo *Napoleon Sports & Casino* Lalux *Tango (Lu)* Jupiler *Aldi* QUICK *Coca Cola* Orange *Nationale Loterij* BNP Paribas/Apple Pay *bpost banque/bpost bank* Omega Pharma *Renault* Campina *Tupperware* Crédit Mutuel *Bellewaerde park* Lidl *SCA* Vandemoortele *Muesli* Beckers *Toyota Financial Services* Cartier *2BE* Lipton Ice Tea *Alken-Maes/Mort Subite* Danio *Croustipate* Gaz Naturel *Ferrero/Nutella* Kazen van bij ons *Unilever/Vaseline* Toyota *Soubry* Pizza Hut *Lipton Ice Tea* Maes *BRU* Bebat *LOSK* Solo *Vaqueiro* 24Vision *ING* Bokrijk Open Air Museum *Proximus* IKEA (Be) *Cofidis* MUTTI *Unilever (be)* SIM (Algeria) *AXA* Immpact *Alger Telecom* JOE fm *Lhoist* Continental *Eni* Ello Mobile *Harol* Post Luxembourg *Johnson & Johnson* Lesieur *Pharma.be* Kellogg's *Scarlet* Radio Contact *Binck France* Nestlé *Ford* Carlsberg *MIGROS* IGC Diamonds Group *Douwe Egberts* Zeelandnet *European Commission* Toerisme Provincie Antwerpen *Corona Direct* Bancontact Mister Card *IKEA France* Austrian Mobile Power *Samsung* Itinera Institute *Euromut* Match Belgique *Carefree* UNIDO *Philips* Carglass *M6 Mobile* NMBS/SNCB *Fédérale Assurance* P&G *Mercedes-Benz* FNAC *IBSR* Vaillant *Infrabel* Hogeschool-Universiteit Brussel *Fost Plus* Delta Zeeland *Dierenpark Planckendael* Capability *Randstadt/Tempo Team* Futuroscope Poitiers *AGC/Glaverbel* Stassen *Kraft Foods* Danone *Bernard-Massard* Iglo *City of Antwerp* MAS Museum *Midas* De Post *Duvel Moortgat breweries* InBev/Hoegaarden *Chiquita* O’Neill *BASE* Starparks/Walibi *Henkel* KBC *Radio Antwerpen 1* European Parliament *Mc Donald's* Standard Life UK *HCMC Welfare Children Foundation* MTV Asia Singapore *Channel 5 Hong Kong* Toyota *Suzuki* BP (Charitable) *Vedan* Unilever/Hazeline *Wall’s Vietnam/Nestle/Milo* Tetrapack/Vinamilk *Smithkline Beecham* Tiger Beer *Nghi Sơn Cement Corp.* Craven A *Foster Breweries*
+*Edelweiss* Emory Healthcare *Spa Reine* Mega *Ladbrokes* AB InBev/Victoria *Roberts* Oppo *Napoleon Sports & Casino* Lalux *Tango (Lu)* Jupiler *Aldi* QUICK *Coca Cola* Orange *Nationale Loterij* BNP Paribas/Apple Pay *bpost banque/bpost bank* Omega Pharma *Renault* Campina *Tupperware* Crédit Mutuel *Bellewaerde park* Lidl *SCA* Vandemoortele *Muesli* Beckers *Toyota Financial Services* Cartier *2BE* Lipton Ice Tea *Alken-Maes/Mort Subite* Danio *Croustipate* Gaz Naturel *Ferrero/Nutella* Kazen van bij ons *Unilever/Vaseline* Toyota *Soubry* Pizza Hut *Lipton Ice Tea* Maes *BRU* Bebat *LOSK* Solo *Vaqueiro* 24Vision *ING* Bokrijk Open Air Museum *Proximus* IKEA (Be) *Cofidis* MUTTI *Unilever (be)* SIM (Algeria) *AXA* Immpact *Alger Telecom* JOE fm *Lhoist* Continental *Eni* Ello Mobile *Harol* Post Luxembourg *Johnson & Johnson* Lesieur *Pharma.be* Kellogg's *Scarlet* Radio Contact *Binck France* Nestlé *Ford* Carlsberg *MIGROS* IGC Diamonds Group *Douwe Egberts* Zeelandnet *European Commission* Toerisme Provincie Antwerpen *Corona Direct* Bancontact Mister Card *IKEA France* Austrian Mobile Power *Samsung* Itinera Institute *Euromut* Match Belgique *Carefree* UNIDO *Philips* Carglass *M6 Mobile* NMBS/SNCB *Fédérale Assurance* P&G *Mercedes-Benz* FNAC *IBSR* Vaillant *Infrabel* Hogeschool-Universiteit Brussel *Fost Plus* Delta Zeeland *Dierenpark Planckendael* Capability *Randstadt/Tempo Team* Futuroscope Poitiers *AGC/Glaverbel* Stassen *Kraft Foods* Danone *Bernard-Massard* Iglo *City of Antwerp* MAS Museum *Midas* De Post *Duvel Moortgat breweries* InBev/Hoegaarden *Chiquita* O’Neill *BASE* Starparks/Walibi *Henkel* KBC *Radio Antwerpen 1* European Parliament *Mc Donald's* Standard Life UK *HCMC Welfare Children Foundation* MTV Asia Singapore *Channel 5 Hong Kong* Toyota *Suzuki* BP (Charitable) *Vedan* Unilever/Hazeline *Wall’s Vietnam/Nestle/Milo* Tetrapack/Vinamilk *Smithkline Beecham* Tiger Beer *Nghi Sơn Cement Corp.* Craven A *Foster Breweries*
