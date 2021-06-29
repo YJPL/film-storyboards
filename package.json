@@ -28,7 +28,7 @@
     "gulp-size": "^4.0.0",
     "gulp-uglify": "^3.0.2",
     "immutable-css-cli": "^1.1.1",
-    "postcss": "^8.3.2",
+    "postcss": "^8.3.5",
     "watch": "^1.0.2"
   },
   "contributors": [
@@ -46,7 +46,7 @@
     "build:watch": "watch \"npm run build\" ./src/"
   },
   "dependencies": {
-    "browser-sync": "^2.26.14",
+    "browser-sync": "^2.27.3",
     "del": "^6.0.0",
     "glob": "^7.1.7",
     "gulp-basswork": "^0.2.0",
