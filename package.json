@@ -20,7 +20,7 @@
     "url": "https://github.com/YJPL/film-storyboards/issues"
   },
   "devDependencies": {
-    "autoprefixer": "^10.3.0",
+    "autoprefixer": "^10.3.1",
     "cssnano": "^5.0.6",
     "gulp": "^4.0.2",
     "gulp-plumber": "^1.2.1",
