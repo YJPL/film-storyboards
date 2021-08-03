@@ -21,14 +21,14 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.3.1",
-    "cssnano": "^5.0.6",
+    "cssnano": "^5.0.7",
     "gulp": "^4.0.2",
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^9.0.0",
     "gulp-size": "^4.0.0",
     "gulp-uglify": "^3.0.2",
     "immutable-css-cli": "^1.1.1",
-    "postcss": "^8.3.5",
+    "postcss": "^8.3.6",
     "watch": "^1.0.2"
   },
   "contributors": [
@@ -46,7 +46,7 @@
     "build:watch": "watch \"npm run build\" ./src/"
   },
   "dependencies": {
-    "browser-sync": "^2.27.4",
+    "browser-sync": "^2.27.5",
     "del": "^6.0.0",
     "glob": "^7.1.7",
     "gulp-basswork": "^0.2.0",
