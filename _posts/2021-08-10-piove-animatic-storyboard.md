@@ -5,7 +5,7 @@ last_modified_at:
 author: Yves
 layout: post-centered
 permalink: /animatic-storyboard-piove/
-image: /images/uploads/2021/
+image: (/images/uploads/2021/Piove/Scene_109_Animatic-17_Piove.png
 categories:
   - animation
   - feature film
