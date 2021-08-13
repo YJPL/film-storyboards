@@ -1,10 +1,10 @@
 ---
 title: Storyboard Vis
 date: 2019-02-06T22:49:43+01:00
-last_modified_at: 2020-12-11 01:12:22 +0100
+last_modified_at: 2021-08-13 14:48:24 +0100
 author: Yves
 excerpt: |
-  <a class="none" title="Storyboard for Lidl — Vis" href="/storyboard-vis/" rel=""><img class="picture" title="Toyota Idents — ECB Sponsorship — Storyboard" src="/images/uploads/2019/02/Lidl_VIS_storyboard_015.jpg" alt="Lidl — Vis — Storyboard" /></a>
+  <a class="none" title="Storyboard for Lidl — Vis" href="/storyboard-vis/" rel=""><img class="picture" title="Storyboard for Lidl — Vis" src="/images/uploads/2019/02/Lidl_VIS_storyboard_015.jpg" alt="Lidl — Vis — Storyboard" /></a>
   Storyboard for Lidl, "Vis", directed by Fred De Loof.
 layout: portfolio
 permalink: /storyboard-vis/
