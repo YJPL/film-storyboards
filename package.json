@@ -20,7 +20,7 @@
     "url": "https://github.com/YJPL/film-storyboards/issues"
   },
   "devDependencies": {
-    "autoprefixer": "^10.3.5",
+    "autoprefixer": "^10.3.6",
     "cssnano": "^5.0.8",
     "gulp": "^4.0.2",
     "gulp-plumber": "^1.2.1",
@@ -28,7 +28,7 @@
     "gulp-size": "^4.0.0",
     "gulp-uglify": "^3.0.2",
     "immutable-css-cli": "^1.1.1",
-    "postcss": "^8.3.7",
+    "postcss": "^8.3.8",
     "watch": "^1.0.2"
   },
   "contributors": [
