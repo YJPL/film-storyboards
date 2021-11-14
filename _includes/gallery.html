@@ -1,0 +1,40 @@
+{% if include.caption %}
+  {% if include.alt %}
+    {% assign caption = include.caption %}
+    {% assign alt = include.alt %}
+  {% else %}
+    {% assign caption = include.caption %}
+    {% assign alt = include.caption %}
+  {% endif %}
+{% else %}
+  {% if include.alt %}
+    {% assign caption = "" %}
+    {% assign alt = include.alt %}
+  {% else %}
+    {% assign caption = "" %}
+    {% assign alt = "" %}
+  {% endif %}
+{% endif %}
+
+{% if include.thumb_width %}
+  {% assign thumb_width = 'width="' | append: include.thumb_width | append: '"' %}
+{% else %}
+  {% assign thumb_width = "" %}
+{% endif %}
+
+{% if include.thumb_height %}
+  {% assign thumb_height = 'height="' | append: include.thumb_height | append: '"' %}
+{% else %}
+  {% assign thumb_height = "" %}
+{% endif %}
+
+
+{% if caption == "" %}
+
+
+<a class="photoswipe photo" href="{{ include.url }}" target="_blank" data-pswp-width="{{ include.full_width }}" data-pswp-height="{{ include.full_height }}">
+
+<img class="image" src="{{ include.url }}" width="{{ include.thumb_width }}" height="{{ include.thumb_height }}" alt="{{ include.alt }}"></a>
+
+<div class="invisible caption">{{ caption }}</div>
+{% endif %}

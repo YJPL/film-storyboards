@@ -10688,6 +10688,10 @@ code,
 
 /*! Theme specific CSS */
 
+.invisible {
+  display: none;
+}
+
 /* Custom aspect ratios */
 
 .aspect-ratio--185x100 {
