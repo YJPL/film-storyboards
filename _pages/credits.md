@@ -30,7 +30,22 @@ permalink: /credits/
 
 *[Où Est La Main De L'Homme Sans Tête?](http://www.ouestlamain.com/ "Où Est La Main de L’Homme Sans Tête?")* **Guillaume Malandrin** — La Parti Production, feature film — 2009. Storyboard SFX scenes.
 
-**[IMDb credits](https://www.imdb.com/name/nm2326905/ "IMDb credits, Yves Capelle")**
+**[IMDb credits:](https://www.imdb.com/name/nm2326905/ "IMDb credits, Yves Capelle")**
+
+<a class="link grow dib h3 w3 mr3" href="https://www.imdb.com/name/nm2326905/" title="Yves Capelle IMDb credits">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740.38 362.22"><defs><clipPath id="A" transform="translate(0 -.78)"><path d="M.06.78h740.32V363H.06z" fill="none"/></clipPath></defs><g clip-path="url(#A)"><path d="M698.06 0H42.3C18.948.033.028 18.958 0 42.3v277.6c.022 23.354 18.946 42.282 42.3 42.3h655.76c23.357-.028 42.287-18.953 42.32-42.3V42.3C740.347 18.953 721.417.028 698.06 0" fill="#e6b91e"/></g><g fill="#010101"><path d="M106.6 76.7h54.8v211.26h-54.8z"/><path d="M278.33 76.7l-12.7 98.72-7.8-53.66-6.64-45.06H180.1v211.26h48l.2-139.47 20.17 139.47h34.2L302 145.43l.1 142.54H350V76.7h-71.67M435.2 287.97q19.67 0 29.5-2.15a37.84 37.84 0 0 0 16.38-7.6 28.48 28.48 0 0 0 9.32-14.95c1.84-6.34 2.87-19 2.87-38v-74.05c0-20-.82-33.4-1.95-40.25a37.82 37.82 0 0 0-9.22-18.53c-4.8-5.54-12-9.53-21.3-12s-24.68-3.7-51.2-3.7h-40.86v211.24h66.46m.52-173.16a8.69 8.69 0 0 1 4.2 5.94c.6 2.67.92 8.8.92 18.33v81.8c0 14.14-.92 22.74-2.77 25.92s-6.65 4.7-14.54 4.7V112.88c5.94 0 10.03.6 12.2 1.93zM511.9 76.7v211.26h49.37l3.47-13.4a45.71 45.71 0 0 0 14.74 12.18c5.44 2.66 13.42 4 19.66 4 8.6 0 16.18-2.25 22.43-6.85s10.35-9.93 12-16.1 2.56-15.66 2.56-28.26V180.2c0-12.8-.2-21.1-.82-25a28.73 28.73 0 0 0-5-12 27.56 27.56 0 0 0-12.19-9.52 49 49 0 0 0-19-3.37c-6.24 0-14.33 1.23-19.76 3.8a44.47 44.47 0 0 0-14.64 11.26V76.7H511.9m71.38 160.06c0 10.14-.5 16.7-1.54 19.36s-5.43 4-8.8 4-5.43-1.22-6.55-3.88-1.64-8.5-1.64-17.82V182.6c0-9.63.5-15.57 1.44-18s3.17-3.58 6.34-3.58c3.38 0 7.88 1.44 9 4.1s1.74 8.6 1.74 17.5z" fill-rule="evenodd"/></g></svg>
+  </a>
+
+## Series
+*OVNI(s)* **Antony Cordier**, Benuts — storyboard for Season 2 episode 3 — VFX & SFX scene, TV series, 2021
+
+*“Les Rivières Pourpres”* (*The Crimson Rivers*) **Olivier Barma**, Umedia / Europacorp Télévision – storyboard for episode 5 & 6 *“La croisade des enfants”* — stunts, VFX sequences, TV series, 2017
+
+*“Les Rivières Pourpres”* (*The Crimson Rivers*) **Julius Berg**, Umedia / Europacorp Télévision – storyboard for episode 3 & 4 *“Le jour des cendres”* — VFX sequences, TV series, 2017
+
+_&#8220;Facteur Chance&#8221;_ **Julien Séri**, TF1 / AT Production — car chase sequence, TV episode — 2009
+
+Opening credits illustrations for Nickelodeon _&#8220;Het Huis Anubis&#8221;_ with <a title="Grid VFX" href="http://www.grid-vfx.com/" target="_blank" rel="noopener noreferrer">Grid VFX</a> — 2006
 
 
 ## Historical reconstitutions / Museum and exhibitions
@@ -58,22 +73,13 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 **Franco Dragone** — _<a title="Macau’s Must See Spectacular" href="https://www.thehouseofdancingwater.com/" target="_blank" rel="noopener noreferrer">The House of Dancing Water</a>_ &#8211; **City of Dreams, Melco PBL**, Macau 2011. Role: Pitch concept art, visual development, set design for large format print artwork—including a 260m long X 8m high curtain, artwork for stunt trucks and for various theatre properties.
 
 ## Music Videos
+
 **James Blake**, *Say What You Want*, directed by **Bear Damen**.
 
 **Eddy De Pretto**, *FREAKS*, directed by **Thibault Dumoulin**.
 
 **La Chiva Gantiva**, *Vivo*, directed by **Ben Lacour**.
 
-## TV series
-*OVNI(s)* **Antony Cordier**, Benuts — storyboard for Season 2 episode 3 — VFX & SFX scene, TV series, 2021
-
-*“Les Rivières Pourpres”* (*The Crimson Rivers*) **Olivier Barma**, Umedia / Europacorp Télévision – storyboard for episode 5 & 6 *“La croisade des enfants”* — stunts, VFX sequences, TV series, 2017
-
-*“Les Rivières Pourpres”* (*The Crimson Rivers*) **Julius Berg**, Umedia / Europacorp Télévision – storyboard for episode 3 & 4 *“Le jour des cendres”* — VFX sequences, TV series, 2017
-
-_&#8220;Facteur Chance&#8221;_ **Julien Séri**, TF1 / AT Production — car chase sequence, TV episode — 2009
-
-Opening credits illustrations for Nickelodeon _&#8220;Het Huis Anubis&#8221;_ with <a title="Grid VFX" href="http://www.grid-vfx.com/" target="_blank" rel="noopener noreferrer">Grid VFX</a> — 2006
 
 ## Animation
 
