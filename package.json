@@ -21,14 +21,14 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
-    "cssnano": "^5.0.16",
+    "cssnano": "^ 5.1.0",
     "gulp": "^4.0.2",
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^9.0.1",
     "gulp-size": "^4.0.0",
     "gulp-uglify": "^3.0.2",
     "immutable-css-cli": "^1.1.1",
-    "postcss": "^8.4.5",
+    "postcss": "^8.4.7",
     "watch": "^1.0.2"
   },
   "contributors": [
