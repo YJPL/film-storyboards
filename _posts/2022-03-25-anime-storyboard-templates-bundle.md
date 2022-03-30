@@ -6,7 +6,7 @@ author: Yves
 layout: post-centered
 permalink: /anime-storyboard-templates/
 text-button: I want this Procreate storyboard template!
-image: /images/uploads/2021/procreate/Procreate_storyboard-template_16x9_9-frames-Avenir-Next_9pt_DIN_A4-landscape_rule-of-thirds.png
+image: /images/uploads/2022/templates/anime-storyboard-templates-overview_01.png
 categories: [storyboard templates, templates, Procreate]
 ---
 ## Start drawing an anime 💡 🥷 🎬 ✨🇯🇵✍️🎥👍
