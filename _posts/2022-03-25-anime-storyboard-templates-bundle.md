@@ -1,11 +1,11 @@
 ---
-title: Anime storyboard templates bundle ✏️
+title: Anime storyboard templates bundle ✨
 date: 2022-03-30 09:19:46 +0100
 last_modified_at: 
 author: Yves
 layout: post-centered
 permalink: /anime-storyboard-templates/
-text-button: I want this Procreate storyboard template!
+text-button: I want to draw an anime!
 image: /images/uploads/2022/templates/anime-storyboard-templates-overview_01.png
 categories: [storyboard templates, templates, Procreate]
 ---
