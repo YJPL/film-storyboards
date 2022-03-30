@@ -1,7 +1,7 @@
 ---
-title: Screenwriting templates for Mac
+title: Screenwriting templates for Mac 💡
 date: 2020-11-16 08:24:48 +0100
-last_modified_at: 
+last_modified_at: 2022-03-30
 author: Yves
 layout: post-centered
 permalink: /screenplay-template-for-Mac/
@@ -46,8 +46,6 @@ The scene index will build up as you fill your script with scenes.
 <figcaption>Screenplay page within the Pages interface, with the formatting options on the right side.</figcaption>
 
 {% include gumroad-overlay.html id="Warner-Brothers-screenplay" %}
-
-
 
 
 The template uses Courier, the traditional screenplay font, but if you want it to look better, you should use ***Courier Prime***, an open-source font designed by *[Alan Dague-Greene](http://basicrecipe.com/)* for John August and Quote-Unquote Apps — you can download it here: [https://quoteunquoteapps.com/courierprime](https://quoteunquoteapps.com/courierprime).
