@@ -1,6 +1,6 @@
 ---
 title: Credits
-last_modified_at: 2022-03-30
+last_modified_at: 2022-04-02
 author: Yves
 layout: page
 permalink: /credits/
@@ -115,7 +115,7 @@ Since 1999, I drew over 400 TV commercial storyboards (mostly pre-production me
 
 ### Directors
 
-Vesa Manninen *Ugo Mangin* Arno Salters *Ehsan* [Lieven Van Baelen](https://czar.be/director/lieven-van-baelen/) *[Niels Thomsen](https://www.niels-thomsen.com)* Thibault Dumoulin *[Lance Doty](http://lancedoty.com/)* [Bram Coppens](https://www.coppens.studio) *[Wolfberg](https://wolfberg.co)* [Heleen Declercq](https://heleendeclercq.com) *[Beatrice Pegard](https://www.beatricepegardferry.com)* [Arnaud Uyttenhove](https://vimeo.com/user2408635) *[Norman Bates](http://normanbates.tv)* [André Maat](https://andremaat.com) *[Max Pauwels](http://www.maxpauwels.com/)* [Fred De Loof](http://freddeloof.com) *[AKAMA](https://vimeopro.com/2425prod/portfolio-alexandre-ada-nki/)* [Nicolas Galoux](http://hugggy.com) *[BUGSY RIVERBANK STEEL](http://www.bugsyriverbanksteel.com)* [Manu Coeman](http://www.manucoeman.com) *[Helvetica](http://hellohelvetica.ch "Duo Directors. No Cheese.")* [Michal Lockshin](http://vimeo.com/lockshin) *[Marc R. Wilkins](http://marcwilkins.com/)* [David Lodge](http://davidlodge.tv/) *[Anne Marie Vandeputte](http://www.raw.be/)* [Danny Willems](http://www.dannywillems.com/) *Margot Roolant* Bruno Roche *[Alain Berliner](http://www.alainberliner.com/) Ben Lacour, and many more.
+*Floris Kingma* Vesa Manninen *Ugo Mangin* Arno Salters *Ehsan* [Lieven Van Baelen](https://czar.be/director/lieven-van-baelen/) *[Niels Thomsen](https://www.niels-thomsen.com)* Thibault Dumoulin *[Lance Doty](http://lancedoty.com/)* [Bram Coppens](https://www.coppens.studio) *[Wolfberg](https://wolfberg.co)* [Heleen Declercq](https://heleendeclercq.com) *[Beatrice Pegard](https://www.beatricepegardferry.com)* [Arnaud Uyttenhove](https://vimeo.com/user2408635) *[Norman Bates](http://normanbates.tv)* [André Maat](https://andremaat.com) *[Max Pauwels](http://www.maxpauwels.com/)* [Fred De Loof](http://freddeloof.com) *[AKAMA](https://vimeopro.com/2425prod/portfolio-alexandre-ada-nki/)* [Nicolas Galoux](http://hugggy.com) *[BUGSY RIVERBANK STEEL](http://www.bugsyriverbanksteel.com)* [Manu Coeman](http://www.manucoeman.com) *[Helvetica](http://hellohelvetica.ch "Duo Directors. No Cheese.")* [Michal Lockshin](http://vimeo.com/lockshin) *[Marc R. Wilkins](http://marcwilkins.com/)* [David Lodge](http://davidlodge.tv/) *[Anne Marie Vandeputte](http://www.raw.be/)* [Danny Willems](http://www.dannywillems.com/) *Margot Roolant* Bruno Roche *[Alain Berliner](http://www.alainberliner.com/) Ben Lacour, and many more.
 
 ### Agencies & Productions
 
