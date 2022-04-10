@@ -8,7 +8,7 @@ const postcss = require("gulp-postcss");
 const cp = require("child_process");
 const cssnano = require("cssnano");
 const del = require("del");
-//const eslint = require("gulp-eslint");
+//const eslint = require("gulp-eslint-new");
 const gulp = require("gulp");
 const fs = require("fs");
 const glob = require("glob");
@@ -116,11 +116,6 @@ function css() {
 }
 
 // Lint scripts
-function scriptsLint() {
-  return gulp
-    .src(["./assets/js/**/*", "./gulpfile.js"])
-    .pipe(plumber())
-}
 
 // Transpile, concatenate and minify scripts
 
@@ -132,7 +127,7 @@ function jekyll() {
 // Watch files
 function watchFiles() {
   gulp.watch("./src/**/*", css);
-  gulp.watch("./assets/js/**/*", gulp.series(scriptsLint));
+  //gulp.watch("./assets/js/**/*", gulp.series(scriptsLint));
   gulp.watch(
     [
       "*.html",
@@ -150,7 +145,7 @@ function watchFiles() {
 // Tasks
 gulp.task("images", images);
 gulp.task("css", css);
-gulp.task("js", gulp.series(scriptsLint));
+//gulp.task("js", gulp.series(scriptsLint));
 gulp.task("jekyll", jekyll);
 gulp.task("clean", clean);
 
