@@ -8,7 +8,7 @@ const postcss = require("gulp-postcss");
 const cp = require("child_process");
 const cssnano = require("cssnano");
 const del = require("del");
-const eslint = require("gulp-eslint");
+//const eslint = require("gulp-eslint");
 const gulp = require("gulp");
 const fs = require("fs");
 const glob = require("glob");
@@ -120,9 +120,6 @@ function scriptsLint() {
   return gulp
     .src(["./assets/js/**/*", "./gulpfile.js"])
     .pipe(plumber())
-    .pipe(eslint())
-    .pipe(eslint.format())
-    .pipe(eslint.failAfterError());
 }
 
 // Transpile, concatenate and minify scripts
