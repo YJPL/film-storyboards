@@ -18,7 +18,7 @@ const plumber = require("gulp-plumber");
 const rename = require("gulp-rename");
 const basswork = require("gulp-basswork");
 const size = require("gulp-size");
-const uglify = require("gulp-uglify");
+//const uglify = require("gulp-uglify");
 //const webpack = require("webpack");
 //const webpackconfig = require("./webpack.config.js");
 //const webpackstream = require("webpack-stream");
@@ -127,7 +127,6 @@ function jekyll() {
 // Watch files
 function watchFiles() {
   gulp.watch("./src/**/*", css);
-  //gulp.watch("./assets/js/**/*", gulp.series(scriptsLint));
   gulp.watch(
     [
       "*.html",
@@ -145,7 +144,6 @@ function watchFiles() {
 // Tasks
 gulp.task("images", images);
 gulp.task("css", css);
-//gulp.task("js", gulp.series(scriptsLint));
 gulp.task("jekyll", jekyll);
 gulp.task("clean", clean);
 
