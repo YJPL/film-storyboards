@@ -1,3 +1,4 @@
+<script type="module">
 import PhotoSwipeLightbox from './photoswipe_lightbox.esm.min.js'
 
 const photoswipeActivations = document.getElementsByClassName('photoswipe-activation')
@@ -51,3 +52,4 @@ for (let activation = 0; activation < photoswipeActivations.length; activation++
 
   lightbox.init()
 }
+</script>
