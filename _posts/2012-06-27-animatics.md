@@ -11,7 +11,6 @@ categories:
   - documentary
   - storyboard
   - historical
-  - portfolio
 tags:
   - action scene
   - adaptation
