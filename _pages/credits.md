@@ -1,6 +1,6 @@
 ---
 title: Credits
-last_modified_at: 2022-04-02
+last_modified_at: 2022-05-11
 author: Yves
 layout: page
 permalink: /credits/
@@ -39,7 +39,7 @@ permalink: /credits/
   </a>
 
 ## Series
-*The Essex Serpent* **Clio Barnard**, Blackwater Beach Films Ltd – storyboard six episodes reshoot, miniseries, Apple TV, 2021
+*The Essex Serpent* **Clio Barnard**, Blackwater Beach Films Ltd – storyboard six episodes, miniseries, Apple TV, 2022
 
 *OVNI(s)* **Antony Cordier**, Benuts — storyboard for Season 2 episode 3 — VFX & SFX scene, TV series, 2021
 
