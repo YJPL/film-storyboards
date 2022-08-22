@@ -1,7 +1,7 @@
 ---
 title: Japanese Anime Storyboard Templates
 date: 2017-07-23T14:07:02+02:00
-last_modified_at: 2020-12-11 12:36:48 +0100
+last_modified_at: 2022-08-22 08:36:48 +0100
 author: Yves
 layout: post-centered
 header:
@@ -128,8 +128,8 @@ Would you like to draw storyboards like Hayao Miyazaki? You might not have his m
 
 [Get this InDesign Japanese anime storyboard template for 2.00:1 films](https://gum.co/Ghibli_Jp_idml_2x1)
 
-#### IDML is compatible with ALL InDesign versions since version 4 up to the current one (INDESIGN CC 2021). Apple Pages templates (.template) only work on Mac.
+#### IDML is compatible with ALL InDesign versions since version 4 up to the current one (InDesign CC 2022). Apple Pages templates (.template) only work on Mac.
 
 ##### You should have the template font(s) installed on your machine for the InDesign templates to work properly.
 
-Check out the [film treatment & storyboard templates shop](https://storyboards.gumroad.com) to see all the other available templates.
+Check out the [Templates Supply](https://templates.supply) to see all the other available templates.
