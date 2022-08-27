@@ -1,6 +1,6 @@
 ---
 title: Credits
-last_modified_at: 2022-09-12
+last_modified_at: 2022-08-27
 author: Yves
 layout: page
 permalink: /credits/
@@ -92,6 +92,8 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
  <a title="Zeppe en Zikki / VTM" href="http://j.mp/Zeppe-Zikki" target="_blank" rel="noopener noreferrer">Zeppe & Zikki</a> **Levenslijn / VTM** &#8211; **Roughcut** &#8211; Character Design guideline for puppets animation serial.
 
 ## Institutional
+
+**Ghent University** Storyboarding workshop, **UGent DO-tracks Media-Innovatieweek**, October 2021
 
 **MedTech Europe** storyboards for 4 videos, with **FleishmanHillard**, Nov 2018
 
