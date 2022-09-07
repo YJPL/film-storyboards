@@ -1,6 +1,6 @@
 ---
 title: Credits
-last_modified_at: 2022-09-02
+last_modified_at: 2022-09-05
 author: Yves
 layout: page
 permalink: /credits/
@@ -97,7 +97,7 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 
 **MedTech Europe** storyboards for 4 videos, with **FleishmanHillard**, Nov 2018
 
-**EURIMA** White Paper Session, Berlin, June 2018
+**EURIMA** White Paper Session live drawing, Berlin, June 2018
 
 Storyboards for **DG Comm** Agency: **ESN**, May 2018
 
