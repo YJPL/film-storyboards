@@ -7,7 +7,7 @@ const concat = require("gulp-concat");
 const postcss = require("gulp-postcss");
 const cp = require("child_process");
 const cssnano = require("cssnano");
-const del = require("del");
+//const del = require("del");
 //const eslint = require("gulp-eslint-new");
 const gulp = require("gulp");
 const fs = require("fs");
@@ -41,9 +41,9 @@ function browserSyncReload(done) {
 }
 
 // Clean assets
-function clean() {
-  return del(["./_site/assets/"]);
-}
+//function clean() {
+//  return del(["./_site/assets/"]);
+//}
 
 // Optimize & resize images for PhotoSwipe galleries
 // specify transforms
@@ -145,12 +145,12 @@ function watchFiles() {
 gulp.task("images", images);
 gulp.task("css", css);
 gulp.task("jekyll", jekyll);
-gulp.task("clean", clean);
+//gulp.task("clean", clean);
 
 // build
 gulp.task(
   "build",
-  gulp.series(clean, gulp.parallel(css, images, jekyll))
+  gulp.series(gulp.parallel(css, images, jekyll))
 );
 
 // watch
