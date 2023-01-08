@@ -15,7 +15,7 @@ layout: default
       <article class="f5 f4-ns fw3 lh-copy measure-wide mv2 pb4 bb b--light-gray avenir">
         <div class="f5 fw3 silver lh-copy mb0">
           {% if post.last_modified_at %}
-          <span>{{ site.data.theme.text.updated }}<time datetime="{{ post.last_modified_at | date: "%Y-%m-%d %H:%M" }}">{{ post.last_modified_at | date: site.date_format }}</time></span>
+          <span>{{ site.data.theme.text.updated }}<time datetime="{{ post.last_modified_at | date: "%Y-%m-%d %H:%M" }}"> {{ post.last_modified_at | date: site.date_format }}</time></span>
           {% else %}
           <time datetime="{{ post.date | date: "%Y-%m-%d %H:%M" }}">{{ post.date | date: site.date_format }}</time>
           {% endif %}
