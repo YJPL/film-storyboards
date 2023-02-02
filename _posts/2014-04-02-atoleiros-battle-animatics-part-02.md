@@ -1,7 +1,7 @@
 ---
 title: Atoleiros Battle Animatics Part 02
 date: 2014-04-02T14:58:13+02:00
-last_modified_at: 2020-12-11 01:19:12 +0100
+last_modified_at: 2023-02-02 10:19:12 +0100
 author: Yves
 layout: post-centered
 permalink: /atoleiros-battle-animatics-part-02/
@@ -14,7 +14,6 @@ categories:
   - drawing
   - historical
   - non fiction
-  - portfolio
   - show
 tags:
   - Atoleiros 1384
