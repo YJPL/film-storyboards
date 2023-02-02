@@ -10,7 +10,7 @@ image: /images/uploads/2023/02/ING_Do_Your_Thing_storyboard_0028A-new-new.png
 categories: [advertising, storyboard, TV Commercial, portfolio]
 ---
 
-Storyboard *Thumbs-up*.
+Storyboard *Do Your Thing*.
 
 Directors: Jeroen Mol
 
@@ -21,7 +21,6 @@ Agency: TBWA Belgium
 Client: ING
 
 [Click on any frame to view the board in slideshow mode](#){: .btn .btn--primary}
-
 
 <div class="photoswipe-gallery">
   {% include gallery.html
