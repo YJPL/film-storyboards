@@ -2,7 +2,7 @@
 id: 2518
 title: Atoleiros Battle Animatics Part 01
 date: 2014-01-24T01:54:45+01:00
-last_modified_at: 2020-02-18 09:12:24 +0100
+last_modified_at: 2023-02-02 09:12:24 +0100
 author: Yves
 layout: post-centered
 guid: http://film-storyboards.com/?p=2518
@@ -15,7 +15,6 @@ categories:
   - drawing
   - historical
   - non fiction
-  - portfolio
   - show
   - sketchbook
 tags:
