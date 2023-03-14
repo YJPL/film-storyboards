@@ -1,6 +1,6 @@
 ---
 title: Credits
-last_modified_at: 2023-02-02
+last_modified_at: 2023-03-14
 author: Yves
 layout: page
 permalink: /credits/
@@ -51,7 +51,7 @@ permalink: /credits/
 
 _&#8220;Facteur Chance&#8221;_ **Julien Séri**, TF1 / AT Production — car chase sequence, TV episode — 2009
 
-Opening credits illustrations for Nickelodeon _&#8220;Het Huis Anubis&#8221;_ with <a title="Grid VFX" href="http://www.grid-vfx.com/" target="_blank" rel="noopener noreferrer">Grid VFX</a> — 2006
+*Het Huis Anubis* <a title="Grid VFX" href="http://www.grid-vfx.com/" target="_blank" rel="noopener noreferrer">Grid VFX</a> Opening credits illustrations for Nickelodeon, 2006
 
 
 ## Historical reconstitutions / Museum and exhibitions
@@ -74,7 +74,7 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 
 **Franco Dragone** — Visual development for an aquatic show — **Da Nang Naman Resort**, Vietnam (2017)
 
-**André Heller**'s _<a href="http://www.youtube.com/watch?gl=BE&v=j0Ljn8W_wbc" target="_blank" rel="noopener noreferrer">Magnifico Show</a>_ &#8211; München, Germany, 2011. Concept illustrations & visual development for **Artevent GmbH**, TV storyboard for **Magnifico GmbH & Co. KG**
+**André Heller**'s *<a href="http://www.youtube.com/watch?gl=BE&v=j0Ljn8W_wbc" target="_blank" rel="noopener noreferrer">Magnifico Show</a>* — München, Germany, 2011. Concept illustrations & visual development for **Artevent GmbH**, TV storyboard for **Magnifico GmbH & Co. KG**
 
 **Franco Dragone** — _<a title="Macau’s Must See Spectacular" href="https://www.thehouseofdancingwater.com/" target="_blank" rel="noopener noreferrer">The House of Dancing Water</a>_ &#8211; **City of Dreams, Melco PBL**, Macau 2011. Role: Pitch concept art, visual development, set design for large format print artwork—including a 260m long X 8m high curtain, artwork for stunt trucks and for various theatre properties.
 
@@ -123,7 +123,7 @@ Since 1999, I drew over 400 TV commercial storyboards (mostly pre-production me
 
 ### Agencies & Productions
 
-GANG Films *AUSTRALIE.GAD* Boomshot *Steve Agency* HUMANS *blue paris* Where Is Brian *CAVIAR LA* [Homestead](http://lovehomestead.com) *CARTEL Film* Hobbyfilm Stockholm *ADULT* [Gwantsi](https://www.gwantsi.com/) *BBDO Belgium* Ristretto Films *Big Production SAS* CAVIAR Brussels *Producteur Provocateur* [HUGGGY](http://hugggy.com) *109 Paris* [HAMLET](http://www.hamlet.tv) *[FleishmanHillard](https://fleishmanhillard.eu)* [LUON](https://www.luon.com "LUON") *[WIZZdesign](http://wizz.fr) (Fr)* Prodigious (Fr) *Blinkside* MAD (FR) *The Marmalade (De)* Duval Guillaume Antwerp *Good Egg Production (UK)* NEW ID filmproduktion GmbH (De) *QUAD (Fr)* MAD BOX *A Private View* European Service Network *ChezEddy* [Benuts](https://www.benuts.be "Visual effects") *Shenan Concept Sprl* Ebuco *Latcho Drom* Satellite My Love (France) *[RSA Films (UK)](http://www.rsafilms.com)* Rosas & Co Films AG (Switzerland) *SEPIC Documentary Productions (Japan)* Kunstmaan *Milly Films* Primart (Austria) *Germaine* mucho *VVL/BBDO* Magnifico GmbH & Co. KG (Germany) *Pacha Production* Euro RSCG *Design Board* Strategie *d side event* [BIGFISH Filmproduktion](http://www.bigfish.de/) (Berlin) *The Retail Company* Fetish Film (Ru) *[Lovo Films](http://www.lovo.be/ "Lovo Films Creativity Lovers")* Armand Prod *Binsfeld (Lu)* Y&R Brussels *JWT Brussels* 7ïa Films & TV Productions *[n’Wave Pictures](http://www.nwave.com/)* Concept Technique & Production *activeIDEA* Epidemie (Amsterdam) *[Brandhome](http://www.brandhome.com/ "Brandhome - Identity driven brand building")*  Tellygence *CZAR.BE* DDB Group Belgium *TBWA Paris* The Pub Agency *NextCap (Ro)* Saatchi & Saatchi Vietnam *Leith Agency (UK)* Xenon Productions *MTP Scotland* Walking The Dog *Banana Films* IdProd (Lu) *N1digital / Mark Vanco* Ogilvy & Mather Vietnam *Mc Cann-Erickson VN* Daiko VN *Revolution Films* Lazennec VN *Toast Media Australia* Bates/141 VN *Shooting Gallery & Frameworks Singapore* Calabazitaz Tiernaz
+Kaos Films *Gopa* GANG Films *AUSTRALIE.GAD* Boomshot *Steve Agency* HUMANS *blue paris* Where Is Brian *CAVIAR LA* [Homestead](http://lovehomestead.com) *CARTEL Film* Hobbyfilm Stockholm *ADULT* [Gwantsi](https://www.gwantsi.com/) *BBDO Belgium* Ristretto Films *Big Production SAS* CAVIAR Brussels *Producteur Provocateur* [HUGGGY](http://hugggy.com) *109 Paris* [HAMLET](http://www.hamlet.tv) *[FleishmanHillard](https://fleishmanhillard.eu)* [LUON](https://www.luon.com "LUON") *[WIZZdesign](http://wizz.fr) (Fr)* Prodigious (Fr) *Blinkside* MAD (FR) *The Marmalade (De)* Duval Guillaume Antwerp *Good Egg Production (UK)* NEW ID filmproduktion GmbH (De) *QUAD (Fr)* MAD BOX *A Private View* European Service Network *ChezEddy* [Benuts](https://www.benuts.be "Visual effects") *Shenan Concept Sprl* Ebuco *Latcho Drom* Satellite My Love (France) *[RSA Films (UK)](http://www.rsafilms.com)* Rosas & Co Films AG (Switzerland) *SEPIC Documentary Productions (Japan)* Kunstmaan *Milly Films* Primart (Austria) *Germaine* mucho *VVL/BBDO* Magnifico GmbH & Co. KG (Germany) *Pacha Production* Euro RSCG *Design Board* Strategie *d side event* [BIGFISH Filmproduktion](http://www.bigfish.de/) (Berlin) *The Retail Company* Fetish Film (Ru) *[Lovo Films](http://www.lovo.be/ "Lovo Films Creativity Lovers")* Armand Prod *Binsfeld (Lu)* Y&R Brussels *JWT Brussels* 7ïa Films & TV Productions *[n’Wave Pictures](http://www.nwave.com/)* Concept Technique & Production *activeIDEA* Epidemie (Amsterdam) *[Brandhome](http://www.brandhome.com/ "Brandhome - Identity driven brand building")*  Tellygence *CZAR.BE* DDB Group Belgium *TBWA Paris* The Pub Agency *NextCap (Ro)* Saatchi & Saatchi Vietnam *Leith Agency (UK)* Xenon Productions *MTP Scotland* Walking The Dog *Banana Films* IdProd (Lu) *N1digital / Mark Vanco* Ogilvy & Mather Vietnam *Mc Cann-Erickson VN* Daiko VN *Revolution Films* Lazennec VN *Toast Media Australia* Bates/141 VN *Shooting Gallery & Frameworks Singapore* Calabazitaz Tiernaz
 
 ### Clients
 
