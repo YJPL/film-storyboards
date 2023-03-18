@@ -7,14 +7,14 @@ last_modified_at: 2023-01-23 00:24:48 +0100
 image: /images/uploads/2017/07/dancing-feet-storyboard_063.jpg
 ---
 
-<section class="cf pv0-ns pb5 ph5-ns ph2">
+<section class="cf pv0-ns pb5 ph5-ns ph3">
   <f1 class="f1 lh-title b helvetica pv4">Crafting storyboards since 1999</f1>
   <article class="flex-ns flex-wrap">
 
     {% assign posts = site.posts | where_exp: "post", "post.categories contains 'portfolio'" %}
     {% for post in posts %}
 
-<div class="w-100 w-third-l pa1">
+<div class="w-100 w-third-l ph3">
 
   <div class="aspect-ratio aspect-ratio--16x9" itemscope itemtype="http://schema.org/Blog" data-columns>
 
@@ -33,6 +33,4 @@ image: /images/uploads/2017/07/dancing-feet-storyboard_063.jpg
 
   </article>
 
-  <br>
-{% include site-search.html %}
 </section>
