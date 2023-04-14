@@ -1,7 +1,7 @@
 ---
 title: Film Storyboards, now again en français ✨🇫🇷✨
 date: 2023-04-12 16:19:46 +0100
-last_modified_at: 
+last_modified_at: 2023-04-14
 author: Yves
 layout: post-centered
 permalink: /film-storyboards-en-francais/
@@ -12,7 +12,7 @@ tags:
 ---
 ## If you prefer en français 🇫🇷
 
-![Scénarimages](/images/uploads/2023/04/Scenarimage_20230412.png)
+![Scénarimages](/images/uploads/2023/04/Scenarimage_20230414.png)
 
 So, I've relaunched [Scénarimages](https://film-storyboards.fr), the French version of the site, for those who prefer to read *en français*.
 
