@@ -38,7 +38,7 @@
     "browser-sync": "browser-sync start --config bs-config.js"
   },
   "dependencies": {
-    "basswork": "^1.4.0",
+    "basswork": "^0.0.2",
     "browser-sync": "^2.29.3",
     "postcss": "^8.4.24",
     "sharp": "^0.32.1"
