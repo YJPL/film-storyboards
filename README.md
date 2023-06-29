@@ -7,7 +7,7 @@ This is [Film Storyboards](https://film-storyboards.com) 2020 portfolio site, bu
 
 ![Film Storyboards screenshot](images/film-storyboards-screenshot.png)
 
-# Get Started + Development
+## Get Started + Development
 
 ```
 git clone git://github.com/YJPL/film-storyboards.git
@@ -30,21 +30,23 @@ NOTE: Changing ```_config.yml``` will require a restart of the Jekyll server to 
 To restart server, go to terminal tab that server is running in then press
 
 `ctrl+C ⇧  enter`
-then you can use custom Gulp.js commands (make sure to install gulp 4):
 
-`gulp build`
+Other commands:
 
-This runs a series of tasks: minifies CSS, images and Javascript.
+`npm run start` to process Tachyons CSS files, compile and minify CSS & Javascript, then build the site locally on port 3000, thanks to [Browsersync](https://www.browsersync.io) so you can quickly revise design changes.
+
+## Photoswipe
+You can enable Photoswipe on specific post, but you'll have to hardcode each image in said post.
+
+## Images:
+
+Resize, compress etc.
+
+#todo
 
 
-To fire Jekyll with auto-regeneration, use:
 
-`gulp watch`
-
-This command builds the site locally on port 3000, with [Browsersync](https://www.browsersync.io) so you can quickly revise design changes.
-
-
-# Copyright / License
+## Copyright / License
 
 The content of this project itself, all illustrations & design works are (c) Yves JPL Capelle / [Film Storyboards](https://film-storyboards.com) / [alternatyves outc.](https://alternatyves.com) / [SOFAM](https://www.sofam.be). The underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/YJPL/film-storyboards/blob/master/LICENSE).
 
