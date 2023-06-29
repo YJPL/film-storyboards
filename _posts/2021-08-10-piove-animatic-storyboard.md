@@ -1,11 +1,11 @@
 ---
 title: Animatic storyboard for Piove
 date: 2021-08-10 08:24:48 +0100
-last_modified_at:
+last_modified_at: 2023-06-29
 author: Yves
 layout: post-centered
 permalink: /animatic-storyboard-piove/
-image: (/images/uploads/2021/Piove/Scene_109_Animatic-17_Piove.png
+image: /images/uploads/2021/Piove/Scene_109_Animatic-17_Piove.png
 categories:
   - animation
   - feature film
