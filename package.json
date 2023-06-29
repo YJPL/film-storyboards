@@ -2,6 +2,7 @@
   "name": "FilmStoryboards",
   "version": "2.0.0",
   "description": "storyboards portfolio built with Jekyll and Tachyons",
+  "main": "index.html",
   "repository": {
     "type": "git",
     "url": "https://github.com/YJPL/film-storyboards/"
