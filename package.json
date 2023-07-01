@@ -36,9 +36,9 @@
     "start": "npm run build && npm run build:jekyll && npm run browser-sync",
     "build:jekyll": "JEKYLL_ENV=production bundle exec jekyll build",
     "minify-js": "uglifyjs assets/js/*.js -o assets/js/script.min.js",
-    "build": "npm run minify:css && npm run minify-js",
-    "build:css": "postcss-nested src/stb-tachyons.css > css/stb-tachyons.css",
-    "minify:css": "postcss css/stb-tachyons.css > css/stb-tachyons.min.css --config postcss.config.js",
+    "build": "npm run build:css && npm run minify:css",
+    "build:css": "postcss src/stb-tachyons.css > css/stb-tachyons.css",
+    "minify:css": "postcss css/stb-tachyons.css > css/stb-tachyons.min.css --use cssnano",
     "browser-sync": "browser-sync start --config bs-config.js"
   },
   "dependencies": {
