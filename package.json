@@ -33,8 +33,8 @@
     }
   ],
   "scripts": {
-    "start": "npm run build && npm run build:jekyll && npm run browser-sync",
-    "build:jekyll": "JEKYLL_ENV=production bundle exec jekyll build",
+    "start": "npm run build && npm run serve:jekyll && npm run browser-sync",
+    "serve:jekyll": "JEKYLL_ENV=production bundle exec jekyll serve --livereload",
     "minify-js": "uglifyjs assets/js/*.js -o assets/js/script.min.js",
     "build": "npm run build:css && npm run minify:css",
     "build:css": "postcss src/stb-tachyons.css > css/stb-tachyons.css",
