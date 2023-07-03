@@ -19,7 +19,7 @@ That should do the trick.
 Then open another tab in terminal and run
 
 ```
-bundle exec jekyll serve --watch
+bundle exec jekyll serve --livereload
 ```
 
 This will build the site.
@@ -33,7 +33,7 @@ To restart server, go to terminal tab that server is running in then press
 
 Other commands:
 
-`npm run start` to process Tachyons CSS files, compile and minify CSS & Javascript, then build the site locally on port 3000, thanks to [Browsersync](https://www.browsersync.io) so you can quickly revise design changes.
+`npm run start` to process Tachyons CSS files, compile and minify CSS & Javascript, using the `--livereload` command to watch changes locally.
 
 ## Photoswipe
 You can enable Photoswipe on specific post, but you'll have to hardcode each image in said post.
