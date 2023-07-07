@@ -1,6 +1,6 @@
 ---
 title: Credits
-last_modified_at: 2023-06-29
+last_modified_at: 2023-07-07
 author: Yves
 layout: page
 permalink: /credits/
@@ -95,6 +95,10 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
  <a title="Zeppe en Zikki / VTM" href="http://j.mp/Zeppe-Zikki" target="_blank" rel="noopener noreferrer">Zeppe & Zikki</a> **Levenslijn / VTM** &#8211; **Roughcut** &#8211; Character Design guideline for puppets animation serial.
 
 ## Institutional
+**European Food Safety Authority** Storyboards for corporate video, **Kaos Films**, June 2023
+
+**DG Home** Storyboards for campaign bids, **Gopa Com**, June 2023
+
 **DG Santé** Storyboard for screening cancer campaign, **Kaos Films** & **Gopa Com**, 2022-2023
 
 **Ghent University** Storyboarding workshop, **UGent DO-tracks Media-Innovatieweek**, October 2021
