@@ -43,6 +43,6 @@
   },
   "dependencies": {
     "browser-sync": "^2.29.3",
-    "sharp": "^0.32.2"
+    "sharp": "^0.32.3"
   }
 }
