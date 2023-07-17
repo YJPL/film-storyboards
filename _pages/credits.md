@@ -1,6 +1,6 @@
 ---
 title: Credits
-last_modified_at: 2023-07-14
+last_modified_at: 2023-07-17
 author: Yves
 layout: page
 permalink: /credits/
@@ -70,6 +70,9 @@ permalink: /credits/
 Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Royal Battle — Content visualisation, script development and [storyboards](/aljubarrota-battle/ "Aljubarrota Royal Battle") — 2006
 
 ## Shows and spectacles
+
+**Dragone** Cultural creation company — Concept visuals, **Riyadh Season** festival, Saudi Arabia (March 2023)
+
 
 **Abdullah Al-Salem Cultural Center**, Kuwait Opening Show — Pitch illustrations for **LSE** (July 2017)
 
