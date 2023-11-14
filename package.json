@@ -23,7 +23,7 @@
     "postcss-cli": "^10.1.0",
     "postcss-import": "^15.1.0",
     "postcss-nested": "^6.0.1",
-    "postcss-preset-env": "^9.1.4",
+    "postcss-preset-env": "^9.3.0",
     "uglify-js": "^3.17.4"
   },
   "contributors": [
@@ -33,16 +33,14 @@
     }
   ],
   "scripts": {
-    "start": "npm run build && npm run serve:jekyll && npm run browser-sync",
+    "start": "npm run build && npm run serve:jekyll",
     "serve:jekyll": "JEKYLL_ENV=production bundle exec jekyll serve --livereload",
     "minify-js": "uglifyjs assets/js/*.js -o assets/js/script.min.js",
     "build": "npm run build:css && npm run minify:css",
     "build:css": "postcss src/stb-tachyons.css > css/stb-tachyons.css",
-    "minify:css": "postcss css/stb-tachyons.css > css/stb-tachyons.min.css --use cssnano",
-    "browser-sync": "browser-sync start --config bs-config.js"
+    "minify:css": "postcss css/stb-tachyons.css > css/stb-tachyons.min.css --use cssnano"
   },
   "dependencies": {
-    "browser-sync": "^2.29.3",
     "sharp": "^0.32.6"
   }
 }
