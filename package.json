@@ -18,10 +18,10 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
-    "cssnano": "^6.0.1",
-    "postcss": "^8.4.32",
+    "cssnano": "^6.0.3",
+    "postcss": "^8.4.33",
     "postcss-cli": "^11.0.0",
-    "postcss-import": "^15.1.0",
+    "postcss-import": "^16.0.0",
     "postcss-nested": "^6.0.1",
     "postcss-preset-env": "^9.3.0",
     "uglify-js": "^3.17.4"
@@ -41,6 +41,6 @@
     "minify:css": "postcss css/stb-tachyons.css > css/stb-tachyons.min.css --use cssnano"
   },
   "dependencies": {
-    "sharp": "^0.33.0"
+    "sharp": "^0.33.1"
   }
 }
