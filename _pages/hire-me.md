@@ -3,7 +3,8 @@ title: Hire Me
 permalink: /hire-me/
 author: Yves
 layout: page
-last_modified_at: 2022-12-09
+image: /images/uploads/2011/04/map.jpg
+last_modified_at: 2024-01-30
 ---
 
 _**Film Storyboards**_ is a one-person studio focusing on production design and [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). I draw for films, animation, and cross-media projects.
@@ -14,9 +15,7 @@ In addition to storyboarding, the practice also provides production companies wi
 
 > Drawing _is_ writing
 
-![Praxinoscope animation - Animated castilian knight on galloping warhorse](/images/uploads/2014/09/Praxinoscope-animation_knight.gif)
-
-![Map](/images/uploads/2011/04/map.jpg)
+![Magar et Gasca animation loop](/images/uploads/2022/animation/Magar_1st_loop.gif)
 
 Film Storyboards *Visual Storytelling*
 
