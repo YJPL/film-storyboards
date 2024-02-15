@@ -21,7 +21,7 @@
     "cssnano": "^6.0.3",
     "postcss": "^8.4.35",
     "postcss-cli": "^11.0.0",
-    "postcss-import": "^16.0.0",
+    "postcss-import": "^16.0.1",
     "postcss-nested": "^6.0.1",
     "postcss-preset-env": "^9.3.0",
     "uglify-js": "^3.17.4"
