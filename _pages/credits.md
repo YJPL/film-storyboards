@@ -1,9 +1,9 @@
 ---
 title: Credits
-last_modified_at: 2024-02-24
 author: Yves
 layout: page
 permalink: /credits/
+last_modified_at: 2024-03-12
 ---
 ## Feature Films
 *La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022. Storyboard
@@ -74,10 +74,13 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 
 **Dragone** Cultural creation company — Concept visuals, **Riyadh Season** festival, Saudi Arabia (March 2023)
 
+**Dragone** Cultural creation company — visual concepts for **Rixos Qatar Land of Legends**, Qatar (2021)
 
 **Abdullah Al-Salem Cultural Center**, Kuwait Opening Show — Pitch illustrations for **LSE** (July 2017)
 
 **Franco Dragone** — Visual development for an aquatic show — **Da Nang Naman Resort**, Vietnam (2017)
+
+**Franco Dragone** — Visual development **Rixos World theme park Antalya**, Turkey (2016)
 
 **André Heller**'s *<a href="http://www.youtube.com/watch?gl=BE&v=j0Ljn8W_wbc" target="_blank" rel="noopener noreferrer">Magnifico Show</a>* — München, Germany, 2011. Concept illustrations & visual development for **Artevent GmbH**, TV storyboard for **Magnifico GmbH & Co. KG**
 
