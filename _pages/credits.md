@@ -74,7 +74,7 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 
 **Dragone** Cultural creation company — Concept visuals, **Riyadh Season** festival, Saudi Arabia (March 2023)
 
-**Dragone** Cultural creation company — visual concepts for **Rixos Qatar Land of Legends**, Qatar (2021)
+**Dragone** — Visual development concepts for **Rixos Qatar Land of Legends**, Qatar (2021)
 
 **Abdullah Al-Salem Cultural Center**, Kuwait Opening Show — Pitch illustrations for **LSE** (July 2017)
 
