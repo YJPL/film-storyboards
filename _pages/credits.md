@@ -3,7 +3,7 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2024-03-12
+last_modified_at: 2024-03-15
 ---
 ## Feature Films
 *La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022. Storyboard
@@ -132,7 +132,7 @@ Since 1999, I drew over 400 TV commercial storyboards (mostly pre-production me
 
 ### Directors
 
-*Fanny & Zoel* [Pierre Dixsaut](http://pierredixsaut.com) *[Tucker Bliss](https://www.tuckerbliss.com)* [Jeroen Mol](https://www.jeroenmol.tv/) *Floris Kingma* Vesa Manninen *Ugo Mangin* Arno Salters *Ehsan* [Lieven Van Baelen](https://czar.be/director/lieven-van-baelen/) *[Niels Thomsen](https://www.niels-thomsen.com)* Thibault Dumoulin *[Lance Doty](http://lancedoty.com/)* [Bram Coppens](https://www.coppens.studio) *[Wolfberg](https://wolfberg.co)* [Heleen Declercq](https://heleendeclercq.com) *[Beatrice Pegard](https://www.beatricepegardferry.com)* [Arnaud Uyttenhove](https://vimeo.com/user2408635) *[Norman Bates](http://normanbates.tv)* [André Maat](https://andremaat.com) *[Max Pauwels](http://www.maxpauwels.com/)* [Fred De Loof](http://freddeloof.com) *[AKAMA](https://vimeopro.com/2425prod/portfolio-alexandre-ada-nki/)* [Nicolas Galoux](http://www.galmarfilms.com) *[BUGSY RIVERBANK STEEL](https://www.bugsyriverbanksteel.com)* [Manu Coeman](http://www.manucoeman.com) *Helvetica* Michal Lockshin *[Marc R. Wilkins](http://marcwilkins.com/)* David Lodge *[Anne Marie Vandeputte](http://www.raw.be/)* [Danny Willems](https://www.dannywillems.com/) *Margot Roolant* Bruno Roche *[Alain Berliner](https://www.alainberliner.com/) Ben Lacour, and many more.
+*Fanny & Zoel* [Pierre Dixsaut](http://pierredixsaut.com) *[Tucker Bliss](https://www.tuckerbliss.com)* [Jeroen Mol](https://www.jeroenmol.tv/) *Floris Kingma* Vesa Manninen *Ugo Mangin* Arno Salters *Ehsan* [Lieven Van Baelen](https://czar.be/director/lieven-van-baelen/) *[Niels Thomsen](https://www.niels-thomsen.com)* Thibault Dumoulin *[Lance Doty](http://lancedoty.com/)* [Bram Coppens](https://www.coppens.studio) *[Wolfberg](https://wolfberg.co)* [Heleen Declercq](https://heleendeclercq.com) *[Beatrice Pegard](https://www.beatricepegardferry.com)* [Arnaud Uyttenhove](https://vimeo.com/user2408635) *[Norman Bates](http://normanbates.tv)* [André Maat](https://andremaat.com) *[Max Pauwels](http://www.maxpauwels.com/)* [Fred De Loof](http://freddeloof.com) *[AKAMA](https://vimeopro.com/2425prod/portfolio-alexandre-ada-nki/)* [Nicolas Galoux](http://www.galmarfilms.com) *[BUGSY RIVERBANK STEEL](https://www.bugsyriverbanksteel.com)* [Manu Coeman](http://www.manucoeman.com) *Helvetica* Michal Lockshin *Marc R. Wilkins* David Lodge *[Anne Marie Vandeputte](http://www.raw.be/)* [Danny Willems](https://www.dannywillems.com/) *Margot Roolant* Bruno Roche *[Alain Berliner](https://www.alainberliner.com/)* Ben Lacour, and many more.
 
 ### Agencies & Productions
 
