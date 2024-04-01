@@ -17,13 +17,13 @@
     "url": "https://github.com/YJPL/film-storyboards/issues"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.18",
-    "cssnano": "^6.1.0",
-    "postcss": "^8.4.35",
+    "autoprefixer": "^10.4.19",
+    "cssnano": "^6.1.2",
+    "postcss": "^8.4.38",
     "postcss-cli": "^11.0.0",
-    "postcss-import": "^16.0.1",
+    "postcss-import": "^16.1.0",
     "postcss-nested": "^6.0.1",
-    "postcss-preset-env": "^9.5.1",
+    "postcss-preset-env": "^9.5.3",
     "uglify-js": "^3.17.4"
   },
   "contributors": [
@@ -41,6 +41,6 @@
     "minify:css": "postcss css/stb-tachyons.css > css/stb-tachyons.min.css --use cssnano"
   },
   "dependencies": {
-    "sharp": "^0.33.2"
+    "sharp": "^0.33.3"
   }
 }
