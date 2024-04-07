@@ -71,7 +71,7 @@ last_modified_at: 2024-04-07
 Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Royal Battle — Content visualisation, script development and [storyboards](/aljubarrota-battle/ "Aljubarrota Royal Battle") — 2006
 
 ## Theme Parks
-**Dragone** — Visual development concepts for **Rixos Qatar Land of Legends**, Qatar (2021)
+**Franco Dragone** — Visual development concepts for **Rixos Qatar Land of Legends**, Qatar (2021)
 
 **Franco Dragone** — Visual development **Rixos World theme park Antalya**, Turkey (2016)
 
