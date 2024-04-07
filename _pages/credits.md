@@ -6,7 +6,7 @@ permalink: /credits/
 last_modified_at: 2024-04-07
 ---
 ## Feature Films
-*La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022. Storyboard
+*La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022 Storyboard.
 
 *The Pod Generation* **Sophie Barthes** — Production Services Belgium — 2022. Storyboards VFX & SFX. 
 
