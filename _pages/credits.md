@@ -3,7 +3,7 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2024-04-07
+last_modified_at: 2024-04-08
 ---
 ## Feature Films
 *La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022 Storyboard.
@@ -106,7 +106,7 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 
 **DG Home** Storyboards for campaign bids, **Gopa Com**, June 2023
 
-**DG Santé** Storyboard for screening cancer campaign, **Kaos Films** & **Gopa Com**, 2022-2023
+**DG Health** Storyboard for screening cancer campaign, **Kaos Films** & **Gopa Com**, 2022-2023
 
 **Ghent University** Storyboarding workshop, **UGent DO-tracks Media-Innovatieweek**, October 2021
 
@@ -118,7 +118,7 @@ Storyboards for **DG Comm** Agency: **ESN**, May 2018
 
 **EDAA** E-privacy directive pitch storyboards for **FleishmanHillard** (2017)
 
-Storyboards & layout for **European Entreprise Network** (2015) Agency: **ESN** Production: **Blinkside**
+Storyboards & layout for **European Enterprise Network** (2015) Agency: **ESN** Production: **Blinkside**
 
 Storyboard for **DG Justice** Agency: **ESN** Production: **Une Très Grosse Boîte Américaine **(2014)
 
