@@ -124,7 +124,7 @@ Storyboard for **DG Justice** Agency: **ESN** Production: **Une Très Grosse B
 
 **DG Trade** Art direction and illustration for an [animated video explaining EU Trade Policy](http://film-storyboards.com/dg-trade-animation/) (2013) Agency: **ESN** Production, live capture, animation and effects: <a title="Visual effects" href="http://www.benuts.be/" target="_blank" rel="noopener noreferrer">Benuts</a>
 
-**European Commission Directorate for Home Affairs** Storyboards for video series on topics including Schengen issues, asylum policies, cybercrime, human trafficking, organised crime, migration, integration and terrorism (2012) Client: Agency: **ESN** Production: **Mindtaste**
+**European Commission Directorate for Home Affairs** Storyboards for video series on topics including Schengen issues, asylum policies, cybercrime, human trafficking, organised crime, migration, integration, and terrorism (2012) Client: Agency: **ESN** Production: **Mindtaste**
 
 ## Advertising Commercials
 
