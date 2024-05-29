@@ -3,7 +3,7 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2024-04-18
+last_modified_at: 2024-05-27
 ---
 ## Feature Films
 *La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022 Storyboard.
@@ -87,6 +87,8 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 **Franco Dragone** — _<a title="Macau’s Must See Spectacular" href="https://www.thehouseofdancingwater.com/" target="_blank" rel="noopener noreferrer">The House of Dancing Water</a>_ &#8211; **City of Dreams, Melco PBL**, Macau 2011. Role: Pitch concept art, visual development, set design for large format print artwork—including a 260m long X 8m high curtain, artwork for stunt trucks and for various theatre properties.
 
 ## Music Videos
+
+**Indochine**, *Le Chant du Cygne*, directed by **Laura Marciano**.
 
 **James Blake**, *Say What You Want*, directed by **Bear Damen**.
 
