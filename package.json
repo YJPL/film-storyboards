@@ -1,7 +1,7 @@
 {
   "name": "FilmStoryboards",
   "version": "2.0.0",
-  "description": "storyboards portfolio built with Jekyll and Tachyons",
+  "description": "Film Storyboards Portfolio",
   "main": "index.html",
   "repository": {
     "type": "git",
@@ -9,7 +9,8 @@
   },
   "keywords": [
     "portfolio",
-    "storyboards"
+    "storyboard",
+    "film storyboards"
   ],
   "author": "YJPL",
   "license": "MIT",
