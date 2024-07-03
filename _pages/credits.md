@@ -3,7 +3,7 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2024-06-10
+last_modified_at: 2024-06-20
 ---
 ## Feature Films
 *La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022 Storyboard.
@@ -88,7 +88,7 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 
 ## Music Videos
 
-**Indochine**, *Le Chant du Cygne*, directed by **Laura Marciano**.
+**Indochine**, *Le Chant des Cygnes*, directed by **Laura Marciano**.
 
 **James Blake**, *Say What You Want*, directed by **Bear Damen**.
 
