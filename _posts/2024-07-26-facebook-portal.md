@@ -14,6 +14,7 @@ categories:
 tags:
   - Facebook
   - technology
+  - digital
 ---
 
 [Click on any frame to view the board in slideshow mode](#){: .btn .btn--primary}
