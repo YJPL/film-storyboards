@@ -17,8 +17,6 @@ tags:
   - digital
 ---
 
-[Click on any frame to view the board in slideshow mode](#){: .btn .btn--primary}
-
 <div class="photoswipe-gallery">
   {% include gallery.html
 	 url="/images/uploads/2024/Facebook_Portal/Facebook_Portal_Go_Deeper_storyboard.png"
@@ -36,6 +34,9 @@ tags:
      full_width="1920" full_height="1357"
   %}
 </div>
+[Click on any frame to view the board in slideshow mode](#){: .btn .btn--primary}
+
+<br>
 
 Storyboards *Portal*.
 
