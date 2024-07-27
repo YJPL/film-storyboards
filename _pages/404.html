@@ -1,36 +1,26 @@
 ---
-title: Storyboard samples
-permalink: /samples/
-date: 2020-12-10 22:24:48 +0100
-author: Yves
 layout: default
-image: /images/uploads/2020/proximus-pitch/Proximus_Pitch_No_Limit-board-animatic_960.gif
+sitemap: false
+permalink: /404.html
 ---
 
-<section class="cf pb5 ph5-ns ph2">
-  <f1 class="f1 lh-title b helvetica pv4">Storyboard samples</f1>
-  <article class="flex-ns flex-wrap">
+<article data-name="article-full-bleed-background">
+  <div class="vh-100 dt w-100" style="background: url({{site.url}}/images/uploads/2014/01/Atoleiros_Death_Plague_Skeleton_boucle.gif) no-repeat center center fixed; background-size: cover;">
+  <div class="dtc v-mid tc black ph3 ph4-l">
+    <h1 class="f6 f2-m f-subheadline-l fw6 tc helvetica">You are LOST!</h1>
+    <p class="f1 f1-m fw6 tc"><svg data-id="" fill="currentColor" height="24" viewBox="0 0 32 32" width="24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M1 12 L16 26 L31 12 L27 8 L16 18 L5 8 z"></path>
+    </svg></p>
+  </div>
+</article>
 
-	{% assign posts = site.posts | where_exp: "post", "post.categories contains 'storyboard'" %}
-	{% for post in posts %}
-
-<div class="w-100 w-25-l pa1">
-
-  <div class="aspect-ratio aspect-ratio--185x100" itemscope itemtype="http://schema.org/Blog" data-columns>
-
-  <a href="{{ post.url }}" style="background-image:url({{ post.image }});"
-	  class="grow link-green dt hide-child db bg-center cover aspect-ratio--object"  />
-	</a>
-
-<span class="pa3 dib v-mid black truncate w-100 lh-copy avenir">{{ post.description }}</span>
-</div>
-
-<a href="{{ post.url }}" class="link black hover-white dtc v-mid w-100 h-100 child ttu tracked overlay lh-copy avenir"><h3>{{ sketchbook.title }}</h3></a>
-
-</div>
-
-{% endfor %}
-
-  </article>
-  <br>
-</section>
+<article class="vh-100 dt w-100 bg-blue">
+  <div class="dtc v-mid tc white ph3 ph4-l">
+    <h1 class="f6 f2-m f-subheadline-l fw6 tc sans-serif">What now?</h1>
+    <p class="f6 lh-copy sans-serif">
+      Well, let's try a site search below.
+    </p>
+    <br>
+{% include site-search.html %}
+  </div>
+</article>
