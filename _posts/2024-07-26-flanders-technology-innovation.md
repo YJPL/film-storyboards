@@ -1,7 +1,7 @@
 ---
 title: Welcome To The Future
 date: 2024-07-26 12:48:24 +0100
-last_modified_at: 
+last_modified_at: 2024-07-27
 author: Yves
 layout: post
 photoswipe: true
@@ -87,6 +87,10 @@ tags:
 [Click on any frame to view the board in slideshow mode](#){: .btn .btn--primary}
 
 <br>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HRjk8Z95-lU?si=E6-J_80r6edb3sD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 Director: **Ralf Demesmaeker**
 
