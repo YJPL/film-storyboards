@@ -1,7 +1,7 @@
 ---
 title: 'Praxinoscope — Galloping Warhorse'
 date: 2014-12-09T15:36:45+01:00
-last_modified_at: 2020-12-10 10:12:24 +0100
+last_modified_at: 2024-08-07 10:12:24 +0100
 author: Yves
 layout: portfolio
 permalink: /praxinoscope/
@@ -12,7 +12,6 @@ categories:
   - documentary
   - drawing
   - historical
-  - portfolio
   - storyboard
 tags:
   - horse
