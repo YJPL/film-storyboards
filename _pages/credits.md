@@ -3,7 +3,7 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2024-09-02
+last_modified_at: 2024-09-08
 ---
 ## Feature Films
 *La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022 Storyboard.
@@ -12,7 +12,7 @@ last_modified_at: 2024-09-02
 
 *Baghdad Messi* **Sahim Omar Kalifa** — A Team Productions — 2021. Storyboard for car chase, booby-trap sequence. 
 
-*Zeevonk* **Domien Huyghe** — A Private View — 2021 (in preparation). Storyboard for VFX & SFX sequences. 
+*Zeevonk* **Domien Huyghe** — A Private View — 2021. Storyboard for VFX & SFX sequences. 
 
 *Piove* **Paolo Strippoli**, — Benuts — 2021. Storyboard for VFX & SFX sequences. 
 
