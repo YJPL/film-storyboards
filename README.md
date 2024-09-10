@@ -33,7 +33,9 @@ To restart server, go to terminal tab that server is running in then press
 
 Other commands:
 
-`npm run start` to process Tachyons CSS files, compile and minify CSS & Javascript, using the `--livereload` command to watch changes locally.
+- `npm run start` to process Tachyons CSS files, compile and minify CSS, using the `--livereload` command to watch changes locally.
+
+- `npm run minify-js` to compile JavaScript.
 
 ## Photoswipe
 You can enable Photoswipe on specific post, but you'll have to hardcode each image in said post.
