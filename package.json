@@ -39,7 +39,8 @@
     "minify-js": "uglifyjs assets/js/*.js -o assets/js/script.min.js",
     "build": "npm run build:css && npm run minify:css",
     "build:css": "postcss src/stb-tachyons.css > css/stb-tachyons.css",
-    "minify:css": "postcss css/stb-tachyons.css > css/stb-tachyons.min.css --use cssnano"
+    "minify:css": "postcss css/stb-tachyons.css > css/stb-tachyons.min.css --use cssnano",
+    "minify-photoswipecss": "postcss css/photoswipe.css > css/photoswipe.min.css --use cssnano"
   },
   "dependencies": {
     "sharp": "^0.33.5"
