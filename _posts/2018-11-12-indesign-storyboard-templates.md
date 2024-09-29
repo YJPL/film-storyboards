@@ -1,18 +1,15 @@
 ---
 title: InDesign storyboard templates
 date: 2018-11-12T10:34:43+01:00
-last_modified_at: 2020-11-17 12:48:48 +0100
+last_modified_at: 2024-08-08 09:48:48 +0100
 author: Yves
 layout: post-centered
 permalink: /indesign-storyboard-templates/
-text-button: I need this template now!
+text-button: I want this template!
 image: /images/uploads/2018/11/Film-Storyboards.com_Storyboard-template_2.00x1_Courier_10_A4-vertical_sample-in-use.jpg
-categories:
-  - storyboard templates
-  - templates
+categories: [storyboard templates, templates, InDesign]
 ---
-
-Here are storyboard templates designed for various film ratios that you can edit in **Adobe InDesign** (idml). Click on each template image preview to get more info. All these templates and many more are available in the <span style="color: #000000;"><a style="color: #000000;" href="https://gumroad.com/storyboards">Storyboards Shop</a></span>, secured by Gumroad.
+Here are storyboard templates designed for various film ratios that you can edit in **Adobe InDesign** (idml). Click on each template image preview to get more info. All these templates and many more are available in the <span style="color: #000000;"><a style="color: #000000;" href="https://gumroad.com/storyboards">Storyboards Shop</a></span>, secured by Gumroad.
 
 # <span style="color: #3366ff;">Scope (2.39:1)</span>
 
@@ -23,28 +20,8 @@ Let's start with 2.39:1 (scope) ratio.
 <a href="https://gum.co/2-39-A4-vert" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2018/11/InDesign-Storyboard-Template-2.39x1-scope_Avenir-Light-10pt-A4-portrait_overview.png"></a>
 <figcaption>InDesign Storyboard Template 2.39:1 (scope) — Avenir Light 10pt on DIN A4 vertical — overview</figcaption>
 
-<a href="https://gum.co/2-39-A4-vert" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2018/11/InDesign-Storyboard-Template-2.39x1-scope_Avenir-Light-10pt-on-A4-portrait14_cible_grid.png"></a>
-<figcaption>2.39:1 storyboards InDesign template — a double page preview with the grid — click on the image for more info</figcaption>
-
-<a href="https://gum.co/2-39-A4-vert" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2018/11/InDesign-Storyboard-Template-2.39x1-scope_Avenir-Light-10pt-on-A4-portrait14_cible.png"></a>
-<figcaption>InDesign template for 2.39:1 storyboards — double page preview — click on the image for more info</figcaption>
-
-{% include gumroad-overlay.html id="2-39-A4-vert" %}
 
 [Get this InDesign storyboard template for 2.39:1 films](https://gum.co/2-39-A4-vert)
-
-
-## InDesign Storyboard Template Scope 2.39:1 Courier New 10pt DIN A4 landscape<figure id="attachment_3448" aria-describedby="caption-attachment-3448" style="width: 1272px" class="wp-caption aligncenter">
-
-InDesign Storyboard Template Scope 2.39:1 Courier New 10pt DIN A4 landscape
-
-<a href="https://gum.co/MMph" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2012/06/Film-Storyboards.com_Film_Storyboard-template_Scope_2.39-1_Courier-New_10_A4-landscape_numbered.png"></a>
-
-{% include gumroad-overlay.html id="MMph" %}
-
-<a href="https://gum.co/MMph" target="_blank" rel="attachment noopener wp-att-3448 noreferrer"><img class="wp-image-3448 size-full" src="https://film-
-
-[Get this InDesign storyboard template for 2.39:1 films](https://gum.co/MMph)
 
 # <span style="color: #3366ff;">2:1 (Univisium)</span>
 
@@ -192,8 +169,8 @@ Din A4 sheet landscape set in Univers 10pt. with rule of thirds layer guide.
 
 _Looking for something else?_
 
-_Check, there are many more <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://gumroad.com/storyboards">film treatment and storyboard templates available in the shop</a> </span>for Adobe InDesign, Apple Keynote, Apple Pages as well as free blank PDF templates for different film ratios._
+_Check, there are many more <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://gumroad.com/storyboards">film treatment and storyboard templates available in the shop</a> </span>for Adobe InDesign, Apple Keynote, Apple Pages as well as free blank PDF templates for different film ratios._
 
 ***
 
-###### idml format is compatible with ALL InDesign versions since legacy CS4 up to the current InDesign CC 2021.
+###### idml format is compatible with ALL InDesign versions since legacy CS4 up to the latest InDesign Creative Cloud version.[Get this InDesign storyboard template for 2.39:1 films](https://gum.co/MMph)
