@@ -1,7 +1,7 @@
 ---
 title: Site relaunch
 date: 2020-01-12T00:00:50+01:00
-last_modified_at: 2020-12-11
+last_modified_at: 2024-10-04
 author: Yves
 layout: post
 excerpt: |
@@ -38,5 +38,13 @@ You can find all [blog posts here](https://film-storyboards.com/archive/).
 ## Source code
 The new site uses Jekyll  + [Tachyons](http://tachyons.io).
 You are welcome to contribute to improving this theme: [https://github.com/YJPL/film-storyboards](https://github.com/YJPL/film-storyboards).
+
+<iframe 
+src="https://ghbtns.com/github-btn.html?user=yjpl&repo=film-storyboards&type=star&count=true&size=large" frameborder="0"
+scrolling="0"
+width="170"
+height="30"
+title="GitHub">
+</iframe>
 
 <iframe src="https://github.com/sponsors/YJPL/button" title="Sponsor YJPL" height="35" width="107" style="border: 0;"></iframe>
