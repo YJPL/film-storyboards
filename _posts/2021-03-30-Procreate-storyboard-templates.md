@@ -1,7 +1,7 @@
 ---
 title: Free Procreate storyboard templates ✏️
 date: 2021-03-30 12:24:48 +0100
-last_modified_at: 2021-04-14
+last_modified_at: 2024-10-04
 author: Yves
 layout: post-centered
 permalink: /procreate-storyboard-templates/
@@ -68,6 +68,7 @@ categories: [storyboard templates, templates, Procreate]
 <a href="https://gum.co/ghibli-storyboard-univisium-Procreate-Jp" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2021/procreate/Japanese_anime-storyboard-template-2x1_A4-vertical_overview.png"></a>
 <figcaption>The blank anime template, ready to use.</figcaption>
 
+{% include gumroad-overlay.html %}
 
 Check out these links in the future for more templates:
 
