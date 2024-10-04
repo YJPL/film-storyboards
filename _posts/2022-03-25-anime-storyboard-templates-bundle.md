@@ -1,7 +1,7 @@
 ---
 title: Anime storyboard templates bundle ✨
 date: 2022-03-30 09:19:46 +0100
-last_modified_at: 
+last_modified_at: 2024-10-04
 author: Yves
 layout: post-centered
 permalink: /anime-storyboard-templates/
@@ -40,6 +40,8 @@ Would you like to draw an anime? This bundle gives you all the 28 anime storyboa
 <figcaption>Get the bundle with all the anime templates.</figcaption>
 
 {% include gumroad-overlay.html id="anime-storyboard-templates-bundle" %}
+
+[Get the Anime Storyboard Templates Bundle](https://storyboards.gumroad.com/l/anime-storyboard-templates-bundle)
 
 You can get an overview of all the templates that are part of the anime templates bundle here: [https://templates.supply/anime-storyboard-template/](https://templates.supply/anime-storyboard-template/){: .b .hover-dark-blue}.
 
