@@ -6180,7 +6180,7 @@ a.nested-author-cta:hover {
 
 .btn--primary {
   color: #00bbff;
-  background-color: white;
+  background-color: #00bbff;
   border: .125rem solid #00bbff;
 }
 
@@ -6251,8 +6251,8 @@ a.nested-author-cta:hover {
 }
 
 .btn-outline--primary:hover {
-  color: #00bbff;
-  background-color: #70dbb8;
+  color: #ffffff;
+  background-color: #00bbff;
 }
 
 .btn-outline--secondary {
@@ -6350,8 +6350,8 @@ nav a:last-child {
  }
 
 .primary {
-     color: #00bbff;
-     border: .125rem solid #00bbff;
+  color: #00bbff;
+  border: .125rem solid #00bbff;
 }
 
 .secondary {
