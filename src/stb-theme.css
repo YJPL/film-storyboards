@@ -50,7 +50,7 @@ a.nested-author-cta:hover {
 }
 .btn--primary {
   color: #00bbff;
-  background-color: white;
+  background-color: #00bbff;
   border: .125rem solid #00bbff;
 }
 
@@ -109,8 +109,8 @@ a.nested-author-cta:hover {
   border: .125rem solid #00bbff;
 }
 .btn-outline--primary:hover {
-  color: #00bbff;
-  background-color: #70dbb8;
+  color: #ffffff;
+  background-color: #00bbff;
 }
 .btn-outline--secondary {
   color: blue;
@@ -192,9 +192,9 @@ nav a:last-child {
   box-shadow: 0 1px 12px #cccccc;
  }
 
-  .primary {
-     color: #00bbff;
-     border: .125rem solid #00bbff;
+.primary {
+  color: #00bbff;
+  border: .125rem solid #00bbff;
 }
 
 .secondary {
