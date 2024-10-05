@@ -41,7 +41,7 @@ Would you like to draw an anime? This bundle gives you all the 28 anime storyboa
 
 {% include gumroad-overlay.html id="anime-storyboard-templates-bundle" %}
 
-[Get the Anime Storyboard Templates Bundle](https://storyboards.gumroad.com/l/anime-storyboard-templates-bundle)
+[Get the Anime Storyboard Templates Bundle](https://storyboards.gumroad.com/l/anime-storyboard-templates-bundle){: .btn .btn-outline--secondary }
 
 You can get an overview of all the templates that are part of the anime templates bundle here: [https://templates.supply/anime-storyboard-template/](https://templates.supply/anime-storyboard-template/){: .b .hover-dark-blue}.
 
