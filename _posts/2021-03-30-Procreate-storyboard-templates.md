@@ -1,7 +1,7 @@
 ---
 title: Free Procreate storyboard templates ✏️
 date: 2021-03-30 12:24:48 +0100
-last_modified_at: 2024-10-04
+last_modified_at: 2024-10-06
 author: Yves
 layout: post-centered
 permalink: /procreate-storyboard-templates/
@@ -72,6 +72,6 @@ categories: [storyboard templates, templates, Procreate]
 
 Check out these links in the future for more templates:
 
-Anime templates: [https://templates.supply/anime-storyboard-template/](https://templates.supply/anime-storyboard-template/)
-Procreate templates: [https://templates.supply/procreate-templates/](https://templates.supply/procreate-templates/)
-Storyboard templates: [https://templates.supply/storyboard-template/](https://templates.supply/storyboard-template/)
+Anime: [https://templates.supply/anime-storyboard-template/](https://templates.supply/anime-storyboard-template/){: .b .orange .hover-light-red}
+Procreate templates: [https://templates.supply/procreate-templates/](https://templates.supply/procreate-templates/){: .b .navy .hover-dark-blue}
+Storyboard templates: [https://templates.supply/storyboard-template/](https://templates.supply/storyboard-template/){: .b .blue .hover-lightest-blue}
