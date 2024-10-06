@@ -1,7 +1,7 @@
 ---
 title: Film Treatment and Storyboard Templates Bundle ⚡️
 date: 2020-11-27 12:24:48 +0100
-last_modified_at: 2024-10-04
+last_modified_at: 2024-10-06
 author: Yves
 layout: post-centered
 permalink: /all-templates-access-membership/
@@ -38,6 +38,6 @@ To get an overview of the existing filmmaking templates, check [https://template
 <figcaption>Film Treatment and Storyboard Templates Bundle ⚡️ Click on the picture for for more info.</figcaption>
 
 
-[Get the Film Treatment and Storyboard Templates Bundle](https://gum.co/all-access)
+[Get the Film Treatment and Storyboard Templates Bundle](https://gum.co/all-access){: .btn .btn-outline--secondary }
 
 {% include gumroad-overlay.html id="all-access" %}
