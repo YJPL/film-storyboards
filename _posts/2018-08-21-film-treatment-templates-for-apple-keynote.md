@@ -2,7 +2,7 @@
 id: 4136
 title: Film treatment templates for Apple Keynote
 date: 2018-08-21T10:39:54+02:00
-last_modified_at: 2024-10-04
+last_modified_at: 2024-10-06
 author: Yves
 layout: post-centered
 permalink: /film-treatment-templates-for-apple-keynote/
@@ -25,19 +25,20 @@ This post is about Keynote themes designed for film treatments for film director
 <a href="https://gum.co/univisium-treatment" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2020/keynote/Apple-Keynote-Theme-for-Advertising-Film-Treatment-and-Storyboards-Univisium-2x1-Avenir-Light-10pt-on-DIN-A4-landscape_overview_B&W.png"></a>
 <figcaption>Apple Keynote Theme for film treatment and storyboards in 2.00:1 format &#8211; Avenir Light 10pt on DIN A4 landscape — Click on this template overview picture for details</figcaption>
 
-[Get this Apple Keynote template for advertising film treatments (Univisium)](https://gum.co/univisium-treatment)
+[Get this Apple Keynote template for advertising film treatments (Univisium)](https://gum.co/univisium-treatment){: .btn .btn-outline--primary }
 
 ## Apple Keynote Storyboard Theme Advertising Film Treatment Scope 2.39:1 Avenir Light 10pt on DIN A4 landscape
 
 <a href="https://gum.co/scope-treatment" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2018/11/Apple-Keynote-Storyboard-Theme-Advertising-Film-Treatment-Scope-2.39x1-Avenir-Light-10pt-on-DIN-A4-landscape_new-cover.png"></a>
 <figcaption>Apple Keynote Storyboard Theme Advertising for film treatment in scope format &#8211; Avenir Light 10pt on DIN A4 landscape — Click on this template overview picture for details</figcaption>
 
-[Get this Apple Keynote template for advertising film treatments (scope)](https://gum.co/scope-treatment)
+[Get this Apple Keynote template for advertising film treatments (scope)](https://gum.co/scope-treatment){: .btn .btn-outline--primary }
 
 ## Apple Keynote Theme for Storyboard & Film Treatment for 16:9 aspect ratio, Avenir Light 10pt on DIN A4 landscape
 <a href="https://gum.co/keynote-16x9-treatment" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2018/08/Apple-Keynote-Storyboard-Theme-for-Film-Treatment-16x9-Avenir-Light-10pt-on-DIN-A4-landscape_preview_02.png"></a>
 <figcaption>Apple Keynote Theme for Storyboard & Film Treatment for 16:9 aspect ratio, Avenir Light 10pt on DIN A4 landscape — Click on this template overview picture for details</figcaption>
-[Get this Keynote theme for 16:9 (1.77:1) storyboards & film treatment](https://gum.co/keynote-16x9-treatment)
+
+[Get this Keynote theme for 16:9 (1.77:1) storyboards & film treatment](https://gum.co/keynote-16x9-treatment){: .btn .btn-outline--primary }
 
 ## Apple Keynote Storyboard Theme Advertising Film Treatment Scope 1.85:1 Avenir Light 10pt on DIN A4 landscape
 
@@ -50,6 +51,6 @@ This post is about Keynote themes designed for film treatments for film director
 <a href="https://gum.co/keynote-widescreen-treatment" class="no-underline pv2 grow db"><img class="w-100" src="/images/uploads/2018/08/Apple-Keynote-Storyboard-Theme-Advertising-Film-Treatment-Scope-1.85x1-Avenir-Light-10pt-on-DIN-A4-landscape_sample.png"></a>
 <figcaption>Apple Keynote Theme for Storyboard & Film Treatment for 1.85:1 aspect ratio, Avenir Light 10pt on DIN A4 landscape</figcaption>
 
-[Get this Keynote theme for 1.85:1 (widescreen) storyboards & film treatment](https://gum.co/keynote-widescreen-treatment)
+[Get this Keynote theme for 1.85:1 (widescreen) storyboards & film treatment](https://gum.co/keynote-widescreen-treatment){: .btn .btn-outline--primary }
 
 {% include gumroad-overlay.html %}
