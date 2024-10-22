@@ -4,14 +4,14 @@ permalink: /hire-me/
 author: Yves
 layout: page
 image: /images/uploads/2011/04/map.jpg
-last_modified_at: 2024-03-04
+last_modified_at: 2024-10-22
 ---
 
 _**Film Storyboards**_ is a one-person studio focusing on production design and [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). I draw for films, animation, and cross-media projects.
 
-If you need a tailored solution to storyboard, pitch, plan, budget your film, or communicate with your crew, let's talk.
+If you need a bespoke solution to storyboard, pitch, plan, communicate on set, or budget your film, let's talk. 
 
-In addition to storyboarding, the practice also provides production companies with concept art and set design.
+In addition to storyboarding, the practice provides production companies with concept art and set design.
 
 > Drawing _is_ writing
 
