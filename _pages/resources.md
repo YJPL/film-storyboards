@@ -3,6 +3,7 @@ title: Resources
 permalink: /resources/
 author: Yves
 layout: page
+last_modified_at: 2024-11-13
 ---
 ## Storyboards Templates
 
@@ -16,6 +17,8 @@ You can find even more production-ready templates in the <span style="color: #0
 
 ## Storyboard and drawing apps
 
+[Procreate](https://procreate.com), the beloved art app for iPad, is well suited for storyboarding.  
+[Clip Studio Paint](https://www.clipstudio.net/) is a versatile drawing and painting app with comics and animation features.  
 [Storyboarder](https://wonderunit.com/storyboarder) is an open source storyboarding app developed by Wonder Unit. You can contribute to [Storyboarder GitHub repository](https://github.com/wonderunit/storyboarder) to make it better.
 
 ## Script development and writing apps
