@@ -1,10 +1,10 @@
 ---
 title: Blog — Film Storyboards, production design portfolio by Yves Capelle
 permalink: /blog/
+last_modified_at: 2024-11-28
 author: Yves
 layout: default
 ---
-
 
 <section class="cf ph3 ph5-ns pv5">
   <article class="mw9-l f4-ns sans-serif">
@@ -24,7 +24,8 @@ layout: default
         <h3 class="f3 f2-ns fw6 lh-title mt0 mb0">{{ post.title | escape }}</h3>
         
   
-        <p class="f5 f4-ns fw3 lh-copy measure-wide mv2">{% assign foundImage = 0 %}
+        <p class="f5 f4-ns fw3 lh-copy measure-wide mv2">
+          {% assign foundImage = 0 %}
           {% assign images = post.content | split:"<img " %}
           {% for image in images %}
             {% if image contains 'src' %}
