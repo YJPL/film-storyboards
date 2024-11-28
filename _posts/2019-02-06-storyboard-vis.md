@@ -1,7 +1,7 @@
 ---
 title: Storyboard Vis
 date: 2019-02-06T22:49:43+01:00
-last_modified_at: 2021-08-13 14:48:24 +0100
+last_modified_at: 2024-11-28 14:48:24 +0100
 author: Yves
 excerpt: |
   <a class="none" title="Storyboard for Lidl — Vis" href="/storyboard-vis/" rel=""><img class="picture" title="Storyboard for Lidl — Vis" src="/images/uploads/2019/02/Lidl_VIS_storyboard_015.jpg" alt="Lidl — Vis — Storyboard" /></a>
@@ -12,7 +12,6 @@ image: /images/uploads/2019/02/Lidl_VIS_storyboard_015_modif_cine_B.jpg
 categories:
   - advertising
   - digital storyboard
-  - portfolio
   - storyboard
   - TV Commercial
 format: gallery
