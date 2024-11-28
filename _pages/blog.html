@@ -22,7 +22,21 @@ layout: default
           <span class="ttl">&middot; {% include read_time.html %}</span>
         </div>
         <h3 class="f3 f2-ns fw6 lh-title mt0 mb0">{{ post.title | escape }}</h3>
-        <p class="f5 f4-ns fw3 lh-copy measure-wide mv2">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+        
+  
+        <p class="f5 f4-ns fw3 lh-copy measure-wide mv2">{% assign foundImage = 0 %}
+          {% assign images = post.content | split:"<img " %}
+          {% for image in images %}
+            {% if image contains 'src' %}
+          
+                {% if foundImage == 0 %}
+                    {% assign html = image | split:"/>" | first %}
+                    <img {{ html }} />
+                    {% assign foundImage = 1 %}
+                {% endif %}
+            {% endif %}
+          {% endfor %}
+        </p>
         <div class="f6 fw3 silver lh-copy mb0">{{ site.data.theme.text.read_more | capitalize }}&hellip;</div>
       </article>
     </a>
