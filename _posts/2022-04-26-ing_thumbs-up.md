@@ -1,13 +1,13 @@
 ---
 title: Thumbs-up
 date: 2022-04-26 10:24:48 +0100
-last_modified_at: 2024-09-02
+last_modified_at: 2024-11-28
 author: Yves
 layout: portfolio
 photoswipe: true
 permalink: /ing-thumbs-up/
 image: /images/uploads/2022/ING/The_Thumb_storyboard_0005.png
-categories: [advertising, storyboard, TV Commercial]
+categories: [portfolio, advertising, storyboard, TV Commercial]
 ---
 
 Storyboard *Thumbs-up*.
