@@ -4,7 +4,7 @@ permalink: /hire-me/
 author: Yves
 layout: page
 image: /images/uploads/2011/04/map.jpg
-last_modified_at: 2024-10-22
+last_modified_at: 2025-03-10
 ---
 
 _**Film Storyboards**_ is a one-person studio focusing on production design and [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). I draw for films, animation, and cross-media projects.
@@ -24,8 +24,6 @@ Contact: _Yves Capelle_
 Mobile + WhatsApp / Signal: [+32 (0) 475 418 327](https://wa.me/32475418327)
 
 [email enquiries](mailto:yves@film-storyboards.com?subject=Inquiry%20from%20film%20storyboards%20site)
-
-Skype: alternatyvesoutc
 
 #### Brussels, Belgium
 
