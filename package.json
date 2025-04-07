@@ -43,6 +43,6 @@
     "minify-photoswipecss": "postcss css/photoswipe.css > css/photoswipe.min.css --use cssnano"
   },
   "dependencies": {
-    "sharp": "^0.33.5"
+    "sharp": "^0.34.0"
   }
 }
