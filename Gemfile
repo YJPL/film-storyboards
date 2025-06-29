@@ -4,6 +4,7 @@ gem "jekyll"
 
 group :jekyll_plugins do
 gem 'jekyll-feed'
+gem 'bigdecimal'
 gem 'jekyll-sitemap'
 gem 'jekyll-archives'
 gem 'jekyll-seo-tag'
