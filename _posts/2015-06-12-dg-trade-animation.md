@@ -1,7 +1,7 @@
 ---
 title: DG Trade animation
 date: 2015-06-12T13:47:17+02:00
-last_modified_at: 2020-12-11 01:16:16 +0100
+last_modified_at: 2025-06-30 01:16:16 +0100
 author: Yves
 excerpt: |
   Live illustration capture
@@ -18,7 +18,6 @@ categories:
   - cross-media
   - drawing
   - institutional
-  - portfolio
 tags:
 format: video
 ---
