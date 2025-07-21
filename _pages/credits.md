@@ -3,7 +3,7 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2025-07-10
+last_modified_at: 2025-07-21
 ---
 ## Feature Films
 *The Price of Money: A Largo Winch Adventure* **Olivier Masset-Depasse** — Benuts — 2023 Concept art
@@ -78,6 +78,8 @@ Illustrations for audio-guide and interactive screens — 2008 Aljubarrota, Roya
 **Franco Dragone** — Visual development **Rixos World theme park Antalya**, Turkey (2016)
 
 ## Shows and spectacles
+**Dragone** Cultural creation company — Storyboard, **Terhal**, Saudi Arabia (June 2025)
+
 **Dragone** Cultural creation company — Concept visuals, **Riyadh Season** festival, Saudi Arabia (March 2023)
 
 **Abdullah Al-Salem Cultural Center**, Kuwait Opening Show — Pitch illustrations for **LSE** (July 2017)
