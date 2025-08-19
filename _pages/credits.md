@@ -3,7 +3,7 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2025-08-06
+last_modified_at: 2025-08-19
 ---
 ## Feature Films
 *The Price of Money: A Largo Winch Adventure* **Olivier Masset-Depasse** — Benuts — 2023 Concept art
@@ -134,7 +134,7 @@ Storyboard for **DG Justice** Agency: **ESN** Production: **Une Très Grosse B
 
 ## Advertising Commercials
 
-Since 1999, I drew over 400 TV commercial storyboards (mostly pre-production meeting "shooting storyboards", aka director boards, but also high-polished agency boards) along with numerous print & online campaigns layouts. My storyboards help advertising and film production companies develop ideas, plan and budget film sets and win their pitches.
+Since 1999, I drew over 450 TV commercial storyboards (mostly pre-production meeting "shooting storyboards", aka director boards, but also high-polished agency boards) along with numerous print & online campaigns layouts. My storyboards help advertising and film production companies develop ideas, plan and budget film sets and win their pitches.
 
 ### Directors
 
