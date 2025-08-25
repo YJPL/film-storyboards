@@ -3,12 +3,14 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2025-08-19
+last_modified_at: 2025-08-25
 ---
 ## Feature Films
-*The Price of Money: A Largo Winch Adventure* **Olivier Masset-Depasse** — Benuts — 2023 Concept art
+*Les Parfait(s)* **Ludovic Bernard** — Umedia Production Services — 2025. Storyboard
 
-*La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022 Storyboard.
+*The Price of Money: A Largo Winch Adventure* **Olivier Masset-Depasse** — Benuts — 2023. Concept art
+
+*La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022. Storyboard.
 
 *The Pod Generation* **Sophie Barthes** — Production Services Belgium — 2022. Storyboards VFX & SFX. 
 
