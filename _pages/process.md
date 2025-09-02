@@ -32,8 +32,7 @@ In some cases, I design illustrated presentations with pushed concept art. Mood-
 
 **Editing before filming**
 
-Storyboarding allows you to see the whole picture of a project at once. In Film, a medium where a team creates a single story working together, it’s a simple yet unique way to keep a global perspective. As a planning tool, a storyboard helps the production prepare and budget a sequence. But it is also a powerful writing tool. As a visual screenplay, it lets you see how a story works in images. It helps you organize and test its sequences, rhythm, and flow. Thus, editing before filming.
-
+Storyboarding enables you to see the whole picture of a project at once. In Film, a medium where a team creates a single story, a storyboard is a simple yet unique way to keep a global perspective. As a planning tool, a storyboard helps the production prepare and budget a sequence. Furthermore, it is also a powerful writing tool, as a visual screenplay to help you see how a story would work in images. It lets you organize and test its sequences, rhythm, and flow. Thus, *editing before filming*.
 * * *
 
 I work on a daily, weekly or per project fee.
