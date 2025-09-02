@@ -24,7 +24,7 @@ In the second phase, I spend time on my own re-drawing every frame with an empha
 
 ## Presentation layout
 
-Last, if requested, I’ll put the boards into a single document in Adobe InDesign, or Apple Keynote<sup><a id="fnr1" class="footnote" title="see footnote" href="#fn1">¹</a></sup>. Deliverables: native files or pdf documents in print and screen resolution. Either standalone framed shots with blank space for notes or with the full script. Even if it remains a working document, good presentation matters. A crisp and clean layout helps you communicate better and will smooth meetings and pitches.
+Last, if requested, I’ll put the boards into a single document in Adobe InDesign, or Apple Keynote[^1]. Deliverables: native files or pdf documents in print and screen resolution. Either standalone framed shots with blank space for notes or with the full script. Even if it remains a working document, good presentation matters. A crisp and clean layout helps you communicate better and will smooth meetings and pitches.
 
 In some cases, I design illustrated presentations with pushed concept art. Mood-boards for sets, realistic illustrations, complete characters animation bible, etc.
 
@@ -39,5 +39,4 @@ I work on a daily, weekly or per project fee.
 
 Call me at +32 475 418 327 or send an [email](mailto:yves@film-storyboards.com?subject=Inquiry%20from%20film%20storyboards%20site) for a quote.
 
-<li id="fn1">
-  ¹ See also the <a href="https://gumroad.com/storyboards">storyboards templates shop</a>. <a class="reversefootnote" title="return to article" href="#fnr1">↩︎</a></fn></footnotes>
+[^1]: See also the <a href="https://gumroad.com/storyboards">storyboards templates shop.
