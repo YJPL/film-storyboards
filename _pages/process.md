@@ -14,7 +14,7 @@ _Simple two or three steps:_
 
 The first phase is a collaborative process to visualize the screenplay sequence by sequence. We discuss the film script's intent with the director, production team, or art department. Although meeting face-to-face offers an unparalleled opportunity for dialogue, we can maintain strong collaboration through email, phone, and video conferencing.
 
-This results in rough thumbnail sketches of every key shot. The goal is to find the best angles for complex scenes and outline the composition of each shot. Drafting camera angles into tiny compositions during a live discussion allows for quick revisions. We can explore visual options in a language close to writing the first draft.
+This results in rough thumbnail sketches of every key shot. The goal is to find the best angles for complex scenes and outline the composition of each shot. Drafting camera angles into tiny compositions during a live discussion allows for quick revisions. We can explore visual options in a language close to writing the first draft of your screenplay.
 
 > Drawing _is_ writing
 
