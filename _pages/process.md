@@ -3,6 +3,7 @@ id: 690
 title: Storyboarding Method
 permalink: /process/
 date: 2013-03-10T13:39:38+01:00
+last_modified_at: 2025-09-02
 author: Yves
 layout: page
 guid: http://film-storyboards.com/
@@ -11,7 +12,7 @@ _Simple two or three steps:_
 
 ## Overview in thumbnail sketches
 
-The first phase is a collaborative process to visualize the screenplay sequence by sequence. We discuss the film script intent with the director, production, or art department. Usually meeting face to face is the most efficient way to do this, although email, phone or conference calls work too.
+The first phase is a collaborative process to visualize the screenplay sequence by sequence. We discuss the film script's intent with the director, production team, or art department. Although meeting face-to-face offers an unparalleled opportunity for dialogue, we can maintain strong collaboration through email, phone, and video conferencing.
 
 This results in rough thumbnail sketches of every key shot. The goal is to find the best angles for complex scenes and outline the composition of each shot. Drafting camera angles into tiny compositions during a live discussion allows for quick revisions. We can explore visual options in a language close to writing the first draft.
 
@@ -23,7 +24,7 @@ In the second phase, I spend time on my own re-drawing every frame with an empha
 
 ## Presentation layout
 
-Last, if requested, I’ll put the boards into a single document in Adobe InDesign or Apple Keynote<sup><a id="fnr1" class="footnote" title="see footnote" href="#fn1">¹</a></sup>. Deliverables: native files or pdf documents in print and screen resolution. Either standalone framed shots with blank space for notes or with the full script. Even if it remains a working document, good presentation matters. A crisp and clean layout helps you communicate better and will smooth meetings and pitches.
+Last, if requested, I’ll put the boards into a single document in Adobe InDesign, or Apple Keynote<sup><a id="fnr1" class="footnote" title="see footnote" href="#fn1">¹</a></sup>. Deliverables: native files or pdf documents in print and screen resolution. Either standalone framed shots with blank space for notes or with the full script. Even if it remains a working document, good presentation matters. A crisp and clean layout helps you communicate better and will smooth meetings and pitches.
 
 In some cases, I design illustrated presentations with pushed concept art. Mood-boards for sets, realistic illustrations, complete characters animation bible, etc.
 
