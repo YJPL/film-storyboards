@@ -3,7 +3,7 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2025-08-25
+last_modified_at: 2025-09-20
 ---
 ## Feature Films
 *Les Parfait(s)* **Ludovic Bernard** — Umedia Production Services — 2025. Storyboard
@@ -136,7 +136,7 @@ Storyboard for **DG Justice** Agency: **ESN** Production: **Une Très Grosse B
 
 ## Advertising Commercials
 
-Since 1999, I drew over 450 TV commercial storyboards (mostly pre-production meeting "shooting storyboards", aka director boards, but also high-polished agency boards) along with numerous print & online campaigns layouts. My storyboards help advertising and film production companies develop ideas, plan and budget film sets and win their pitches.
+Since 1999, I drew over 500 TV commercial storyboards (mostly pre-production meeting "shooting storyboards", aka director boards, but also high-polished agency boards) along with numerous print & online campaigns layouts. My storyboards help advertising and film production companies develop ideas, plan and budget film sets and win their pitches.
 
 ### Directors
 
