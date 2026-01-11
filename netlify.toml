@@ -1,0 +1,61 @@
+# ===============================
+# GLOBAL BUILD SETTINGS
+# ===============================
+[build]
+  # Standard Jekyll build command
+  command = "bundle exec jekyll build"
+  # Default Jekyll output directory
+  publish = "_site" 
+  
+  # (Optional) Base directory if your Jekyll site isn't in the repo root
+  # base = "docs/" 
+
+[build.environment]
+  # Force a modern Ruby version (Safe choices: 3.2.x or 3.3.x)
+  # Ruby 3.4+ may require adding 'base64' and 'csv' to your Gemfile
+  RUBY_VERSION = "3.4.3"
+  
+  # Optimizes Jekyll output for production (minification, etc.)
+  JEKYLL_ENV = "production"
+  
+  # Prevents bundle install from freezing on warnings
+  BUNDLE_JOBS = "4"
+  BUNDLE_RETRY = "3"
+
+# ===============================
+# LOCAL DEVELOPMENT (Netlify Dev)
+# ===============================
+[dev]
+  command = "bundle exec jekyll serve --livereload"
+  port = 8888        # Port for Netlify Dev server
+  targetPort = 4000  # Port Jekyll normally runs on
+  framework = "#custom"
+
+# ===============================
+# PLUGINS (Optional but Recommended)
+# ===============================
+
+# 1. Caching: Dramatically speeds up builds by saving Jekyll's cache
+[[plugins]]
+  package = "netlify-plugin-cache"
+  [plugins.inputs]
+	paths = [".jekyll-cache", ".jekyll-metadata"]
+
+# ===============================
+# HEADERS & REDIRECTS
+# ===============================
+
+# Security Headers (Best Practice)
+[[headers]]
+  for = "/*"
+  [headers.values]
+	X-Frame-Options = "DENY"
+	X-XSS-Protection = "1; mode=block"
+	Referrer-Policy = "strict-origin-when-cross-origin"
+	X-Content-Type-Options = "nosniff"
+
+# Example Redirect (Syntax reference)
+# [[redirects]]
+#   from = "/old-path"
+#   to = "/new-path"
+#   status = 301
