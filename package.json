@@ -18,7 +18,7 @@
     "url": "https://github.com/YJPL/film-storyboards/issues"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.22",
+    "autoprefixer": "^10.4.24",
     "cssnano": "^7.1.2",
     "netlify-plugin-cache": "^1.0.3",
     "postcss": "^8.5.6",
