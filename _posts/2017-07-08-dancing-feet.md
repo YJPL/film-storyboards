@@ -2,7 +2,7 @@
 id: 3653
 title: Dancing Feet
 date: 2017-07-08T22:59:33+02:00
-last_modified_at: 2022-03-16
+last_modified_at: 2026-02-17
 author: Yves
 layout: portfolio
 photoswipe: true
@@ -13,7 +13,6 @@ categories:
   - advertising
   - cross-media
   - drawing
-  - portfolio
   - storyboard
   - traditional drawing
 tags:
