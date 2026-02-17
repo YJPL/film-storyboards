@@ -113,9 +113,7 @@ a {
 
 abbr[title] {
   border-bottom: none; /* 1 */
-  -webkit-text-decoration: underline;
   text-decoration: underline; /* 2 */
-  text-decoration: underline;
   -webkit-text-decoration: underline dotted;
           text-decoration: underline dotted; /* 2 */
 }
