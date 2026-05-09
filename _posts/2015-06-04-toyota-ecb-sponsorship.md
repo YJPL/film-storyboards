@@ -114,7 +114,7 @@ Agency: **Saatchi & Saatchi**
 
 ![Toyota ECB Sponsorship The Bat Alarm storyboard 04](/images/uploads/2015/08/The-Bat-Alarm_04.png)
 
-![Toyota ECB Sponsorship The Bat Alarm storyboard 04b](/images/uploads/2015/08/The-Bat-Alarm_04b.png)
+![Toyota ECB Sponsorship The Bat Alarm storyboard 04b](/images/uploads/2015/08/The-Bat-Alarm_04B.png)
 
 ![Toyota ECB Sponsorship The Bat Alarm storyboard 05](/images/uploads/2015/08/The-Bat-Alarm_05.png)
 
