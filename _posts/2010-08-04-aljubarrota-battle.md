@@ -2,7 +2,7 @@
 id: 131
 title: Aljubarrota Royal Battle
 date: 2010-08-04T04:25:28+02:00
-last_modified_at: 2026-05-09 15:12:24 +0100
+last_modified_at: 2026-05-09 15:24:12 +0100
 author: Yves
 excerpt:
 layout: post-centered
