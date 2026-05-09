@@ -2,7 +2,7 @@
 id: 588
 title: Storyboards Samples
 date: 2010-09-19T14:11:10+02:00
-last_modified_at: 2021-01-18
+last_modified_at: 2026-05-09
 author: Yves
 excerpt: |
   Since 1999, I draw storyboards and concept illustrations for feature films, advertising commercials, TV shows, animation, events, spectacles historical films and documentaries.
@@ -43,4 +43,4 @@ Here you can view some of these different storyboards styles in a single pdf doc
 
 Storyboards can usually be delivered in a rapid turnaround time, either in digital form or hand-drawn on paper, or both.
 
-More illustration and concept art works at <a href="https://alternatyves.com" target="_blank" rel="blank noopener noreferrer">alternatyves</a> outc.
+More illustration and concept art works at <a href="https://alternatyves.com" target="_blank" rel="blank noopener noreferrer">alternatyves</a>.
