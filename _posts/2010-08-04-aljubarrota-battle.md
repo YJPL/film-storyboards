@@ -210,6 +210,66 @@ format: video
  thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Monks frame 05"
  full_width="2126" full_height="709"
 %}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_01.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 01"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_02.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 02"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_03.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 03"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_04.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 04"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_05.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 05"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_06.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 06"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_07.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 07"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_08.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 08"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_09.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 09"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_10.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 10"
+ full_width="2126" full_height="709"
+%}
 </div>
 
 Storyboard and production drawings for a film projection on large screen (ratio 3/1) for <a href="http://www.fundacao-aljubarrota.pt/" target="_blank" rel="noopener noreferrer"><em>Fundação Batalha de Aljubarrota</em></a> (FBA), the Aljubarrota Battle Interpretation Centre (<a href="http://maps.google.pt/maps/place?cid=12115055260126942618&amp;q=centro+de+interpreta%3F%3Fo+da+Batalha+de+Aljubarrota&amp;hl=pt-PT&amp;ved=0CFsQ-gswAA&amp;sa=X&amp;ei=VsdkToC4M42nOsbcnKkI" target="_blank" rel="noopener noreferrer">CIBA</a>) in Portugal.
