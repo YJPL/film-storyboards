@@ -2,7 +2,7 @@
 id: 131
 title: Aljubarrota Royal Battle
 date: 2010-08-04T04:25:28+02:00
-last_modified_at: 2026-05-09 13:24:12 +0100
+last_modified_at: 2026-05-09 14:12:24 +0100
 author: Yves
 excerpt:
 layout: post-centered
@@ -646,6 +646,78 @@ format: video
 {% include gallery.html
  url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_22.jpg"
  thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 22"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_01.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 01"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_02.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 02"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_03.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 03"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_04.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 04"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_05.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 05"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_06.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 06"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_07.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 07"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_08.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 08"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_09.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 09"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_10.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 10"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_11.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 11"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_12.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 12"
  full_width="2126" full_height="709"
 %}
 </div>
