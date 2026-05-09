@@ -324,6 +324,186 @@ format: video
  thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 19"
  full_width="2126" full_height="709"
 %}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_20.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 20"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_21.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 21"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_22.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 22"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/4_Astrological_wheel_23.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Astrological Wheel frame 23"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_00.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 00"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_01.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 01"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_02.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 02"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_03.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 03"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_04.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 04"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_05.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 05"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_06.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 06"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_07.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 07"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_08.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 08"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_09.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 09"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_10.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 10"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_11.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 11"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_12.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 12"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_13.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 13"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_14.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 14"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_15.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 15"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_16.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 17"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_17.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 17"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_18.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 18"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_19.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 19"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_20.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 20"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_21.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 21"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_22.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 22"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_23.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 23"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_24.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 24"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/5_Cerco_de_Lisboa_25.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 25"
+ full_width="2126" full_height="709"
+%}
 </div>
 
 Storyboard and production drawings for a film projection on large screen (ratio 3/1) for <a href="http://www.fundacao-aljubarrota.pt/" target="_blank" rel="noopener noreferrer"><em>Fundação Batalha de Aljubarrota</em></a> (FBA), the Aljubarrota Battle Interpretation Centre (<a href="http://maps.google.pt/maps/place?cid=12115055260126942618&amp;q=centro+de+interpreta%3F%3Fo+da+Batalha+de+Aljubarrota&amp;hl=pt-PT&amp;ved=0CFsQ-gswAA&amp;sa=X&amp;ei=VsdkToC4M42nOsbcnKkI" target="_blank" rel="noopener noreferrer">CIBA</a>) in Portugal.
