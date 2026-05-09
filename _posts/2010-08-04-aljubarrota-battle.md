@@ -768,6 +768,156 @@ format: video
  thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 20"
  full_width="2126" full_height="709"
 %}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_21.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 21"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_22.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 22"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_23.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 23"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_24.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 24"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_25.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 25"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_26.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 26"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_27.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 27"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_28.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 28"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_29.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 29"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_30.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 30"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_31.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 31"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_32.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 32"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_33.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 33"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_34.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 34"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_35.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 35"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_36.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 36"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_37.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 37"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_38.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 38"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_39.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 39"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_40.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 40"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_41.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 41"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_42.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 42"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_43.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 43"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_44.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 44"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_45.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 45"
+ full_width="2126" full_height="709"
+%}
 </div>
 
 Storyboard and production drawings for a film projection on large screen (ratio 3/1) for <a href="http://www.fundacao-aljubarrota.pt/" target="_blank" rel="noopener noreferrer"><em>Fundação Batalha de Aljubarrota</em></a> (FBA), the Aljubarrota Battle Interpretation Centre (<a href="http://maps.google.pt/maps/place?cid=12115055260126942618&amp;q=centro+de+interpreta%3F%3Fo+da+Batalha+de+Aljubarrota&amp;hl=pt-PT&amp;ved=0CFsQ-gswAA&amp;sa=X&amp;ei=VsdkToC4M42nOsbcnKkI" target="_blank" rel="noopener noreferrer">CIBA</a>) in Portugal.
