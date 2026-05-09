@@ -572,12 +572,6 @@ format: video
 %}
 
 {% include gallery.html
- url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_10.jpg"
- thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 10"
- full_width="2126" full_height="709"
-%}
-
-{% include gallery.html
  url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_11.jpg"
  thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 11"
  full_width="2126" full_height="709"
