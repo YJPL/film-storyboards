@@ -504,6 +504,150 @@ format: video
  thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cerco de Lisboa frame 25"
  full_width="2126" full_height="709"
 %}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_00.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 00"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_01.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 01"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_02.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 02"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_03.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 03"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_04.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 04"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_05.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 05"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_06.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 06"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_07.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 07"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_08.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 08"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_09.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 09"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_10.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 10"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_10.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 10"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_11.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 11"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_12.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 12"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_13.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 13"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_14.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 14"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_15.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 15"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_16.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 16"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_17.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 17"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_18.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 18"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_19.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 19"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_20.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 20"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_21.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 21"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/6_Cortes_de_Coimbra_22.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Cortes de Coimbra frame 22"
+ full_width="2126" full_height="709"
+%}
 </div>
 
 Storyboard and production drawings for a film projection on large screen (ratio 3/1) for <a href="http://www.fundacao-aljubarrota.pt/" target="_blank" rel="noopener noreferrer"><em>Fundação Batalha de Aljubarrota</em></a> (FBA), the Aljubarrota Battle Interpretation Centre (<a href="http://maps.google.pt/maps/place?cid=12115055260126942618&amp;q=centro+de+interpreta%3F%3Fo+da+Batalha+de+Aljubarrota&amp;hl=pt-PT&amp;ved=0CFsQ-gswAA&amp;sa=X&amp;ei=VsdkToC4M42nOsbcnKkI" target="_blank" rel="noopener noreferrer">CIBA</a>) in Portugal.
