@@ -918,6 +918,42 @@ format: video
  thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 45"
  full_width="2126" full_height="709"
 %}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_46.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 46"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_47.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 47"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_48.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 48"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/7_Batalha_Real_49.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 49"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/Batalha_Real_50_A.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 50A"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/Batalha_Real_50_B.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Batalha Real frame 50B"
+ full_width="2126" full_height="709"
+%}
 </div>
 
 Storyboard and production drawings for a film projection on large screen (ratio 3/1) for <a href="http://www.fundacao-aljubarrota.pt/" target="_blank" rel="noopener noreferrer"><em>Fundação Batalha de Aljubarrota</em></a> (FBA), the Aljubarrota Battle Interpretation Centre (<a href="http://maps.google.pt/maps/place?cid=12115055260126942618&amp;q=centro+de+interpreta%3F%3Fo+da+Batalha+de+Aljubarrota&amp;hl=pt-PT&amp;ved=0CFsQ-gswAA&amp;sa=X&amp;ei=VsdkToC4M42nOsbcnKkI" target="_blank" rel="noopener noreferrer">CIBA</a>) in Portugal.
