@@ -2,10 +2,11 @@
 id: 131
 title: Aljubarrota Royal Battle
 date: 2010-08-04T04:25:28+02:00
-last_modified_at: 2020-02-18 13:22:19 +0100
+last_modified_at: 2026-05-09 13:24:12 +0100
 author: Yves
 excerpt:
 layout: post-centered
+photoswipe: true
 guid: http://film-storyboards.com/?p=131
 permalink: /aljubarrota-battle/
 image: /images/uploads/2010/08/Aljubarrota_sketch.jpg
@@ -23,8 +24,193 @@ tags:
 format: video
 ---
 
-<iframe src="https://e.issuu.com/anonymous-embed.html?u=alternatyves&d=aljubarrota_storyboard_screen" style="border:none;width:100%;height:760px;" allowfullscreen></iframe>
+<div class="photoswipe-gallery">
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/0_Aljubarrota_0000.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, frame 00"
+ full_width="2126" full_height="709"
+%}
 
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_00.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 00"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_01.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 01"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_02.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 02"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_03.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 03"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_04.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 04"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_05.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 05"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_06.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 06"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_07.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 07"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_08.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 08"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_09.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 09"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_10.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 010"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_11.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 11"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_12.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 12"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_13.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 13"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_14.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 14"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_15.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 15"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_16.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 16"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_17.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 17"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_18.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 18"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_19.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 19"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/1_Fernao_Lopes_20.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Fernão Lopes frame 20"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/2_A_morte_de_D_Fernando_01.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, A morte de D. Fernando frame 01"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/2_A_morte_de_D_Fernando_02.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, A morte de D. Fernando frame 02"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/2_A_morte_de_D_Fernando_03.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, A morte de D. Fernando frame 03"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/2_A_morte_de_D_Fernando_04.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, A morte de D. Fernando frame 04"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/3_Monks_01.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Monks frame 01"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/3_Monks_02.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Monks frame 02"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/3_Monks_03.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Monks frame 03"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/3_Monks_04.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Monks frame 04"
+ full_width="2126" full_height="709"
+%}
+
+{% include gallery.html
+ url="/images/uploads/2010/Aljubarrota_Main_Screen/3_Monks_05.jpg"
+ thumb_width="960" alt="Storyboard, Aljubarrota Royal Battle, Monks frame 05"
+ full_width="2126" full_height="709"
+%}
+</div>
 
 Storyboard and production drawings for a film projection on large screen (ratio 3/1) for <a href="http://www.fundacao-aljubarrota.pt/" target="_blank" rel="noopener noreferrer"><em>Fundação Batalha de Aljubarrota</em></a> (FBA), the Aljubarrota Battle Interpretation Centre (<a href="http://maps.google.pt/maps/place?cid=12115055260126942618&amp;q=centro+de+interpreta%3F%3Fo+da+Batalha+de+Aljubarrota&amp;hl=pt-PT&amp;ved=0CFsQ-gswAA&amp;sa=X&amp;ei=VsdkToC4M42nOsbcnKkI" target="_blank" rel="noopener noreferrer">CIBA</a>) in Portugal.
 
