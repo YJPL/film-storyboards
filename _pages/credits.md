@@ -3,12 +3,14 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2026-02-07
+last_modified_at: 2026-05-10
 ---
 ## Feature Films
-*Les Parfait(s)* **Ludovic Bernard** — Umedia Production Services — 2025. Storyboard
+*Caballé* **Patricia Ortega** — La Claqueta / Menuetto Film — 2025. Illustrations.
 
-*The Price of Money: A Largo Winch Adventure* **Olivier Masset-Depasse** — Benuts — 2023. Concept art
+*Les Parfait(s)* **Ludovic Bernard** — Umedia Production Services — 2025. Storyboard.
+
+*The Price of Money: A Largo Winch Adventure* **Olivier Masset-Depasse** — Benuts — 2023. Concept art.
 
 *La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022. Storyboard.
 
