@@ -1,9 +1,10 @@
 ---
 title: 'Animatics — Aljubarrota Battle'
 date: 2012-06-27T11:02:09+02:00
-last_modified_at: 2020-12-11 01:20:48 +0100
+last_modified_at: 2026-05-10 12:24:48 +0100
 author: Yves
 layout: portfolio
+photoswipe: true
 permalink: /animatics/
 image: /images/uploads/2012/06/charge-cavalry-Aljubarrota.jpg
 categories:
@@ -27,7 +28,7 @@ format: gallery
 
 <a class="pr3" href="/images/uploads/2012/06/Aljubarrota-battle-general-confronts-emissaries.jpg">
   <img src="/images/uploads/2012/06/Aljubarrota-battle-general-confronts-emissaries.jpg" alt="Aljubarrota Battle - Castilian emissaries meet general Nuno Álvares Pereira before the battle" />
-  <figcaption>ACastilian emissaries meet general Nuno Álvares Pereira before the battle</figcaption>
+  <figcaption>A Castilian emissaries meet general Nuno Álvares Pereira before the battle</figcaption>
 </a>
 
 
