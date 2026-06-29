@@ -3,9 +3,11 @@ title: Credits
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2026-05-10
+last_modified_at: 2026-06-29
 ---
 ## Feature Films
+*Avis de Tempête* **Ludovic Bernard** — Umedia Production Services — 2025. Storyboard.
+
 *Caballé* **Patricia Ortega** — La Claqueta / Menuetto Film — 2025. Illustrations.
 
 *Les Parfait(s)* **Ludovic Bernard** — Umedia Production Services — 2025. Storyboard.
