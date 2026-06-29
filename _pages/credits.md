@@ -1,5 +1,6 @@
 ---
 title: Credits
+description: Film Storyvoards film, animation, and cross media credits
 author: Yves
 layout: page
 permalink: /credits/
