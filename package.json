@@ -1,7 +1,7 @@
 {
   "name": "FilmStoryboards",
-  "version": "2.0.1",
-  "description": "Film Storyboards Portfolio",
+  "version": "2.0.2",
+  "description": "Film Storyboards is a one-person studio built on the forgotten art ov visualising. Call for a tailored solution to visualize, pitch, plan, and budget your film or project.",
   "main": "index.html",
   "repository": {
     "type": "git",
@@ -20,11 +20,11 @@
   "devDependencies": {
     "autoprefixer": "^10.5.2",
     "cssnano": "^8.0.2",
-    "postcss": "^8.5.15",
+    "postcss": "^8.5.16",
     "postcss-cli": "^11.0.1",
     "postcss-import": "^16.1.1",
     "postcss-nested": "^7.0.2",
-    "postcss-preset-env": "^11.3.1",
+    "postcss-preset-env": "^11.3.2",
     "uglify-js": "^3.19.3"
   },
   "contributors": [
