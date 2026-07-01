@@ -1,7 +1,8 @@
 ---
 title: Contact
 permalink: /contact/
-last_modified_at: 2022-12-09
+description: Contact Film Storyvoards' principal for a tailored solution to visualize, pitch, plan, and budget your next film or project.
+last_modified_at: 2026-07-01
 author: Yves
 layout: page
 ---
