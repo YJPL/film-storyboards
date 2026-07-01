@@ -1,10 +1,11 @@
 ---
 title: Hire Me
 permalink: /hire-me/
+description: Hire a story artist to plan, budget, visualise, and pitch your next project.
 author: Yves
 layout: page
 image: /images/uploads/2011/04/map.jpg
-last_modified_at: 2025-03-10
+last_modified_at: 2026-07-01
 ---
 
 _**Film Storyboards**_ is a one-person studio focusing on production design and [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). I draw for films, animation, and cross-media projects.
