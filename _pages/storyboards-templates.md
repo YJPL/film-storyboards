@@ -1,7 +1,8 @@
 ---
 title: Storyboard Templates
+description: Save time with well-designed storyboard templates
 permalink: /storyboards-templates/
-last_modified_at: 2020-12-10
+last_modified_at: 2026-07-20
 text-button: Can I get this template please?
 author: Yves
 layout: page
