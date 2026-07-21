@@ -1,8 +1,10 @@
 ---
 title: Profile
+description: Film Storyboards is a one-person studio focusing on production design and visual storytelling
 author: Yves
 layout: page
 permalink: /profile/
+last_modified_at: 2026-07-20
 ---
 ## Crafting storyboards since 1999.
 
