@@ -2,7 +2,7 @@
 title: Contact
 permalink: /contact/
 description: Contact Film Storyvoards' principal for a tailored solution to visualize, pitch, plan, and budget your next film or project.
-last_modified_at: 2026-07-01
+last_modified_at: 2026-07-20
 author: Yves
 layout: page
 ---
@@ -10,7 +10,7 @@ layout: page
 
 _**Film Storyboards**_ is a one person studio focusing on production design and [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). I draw for film, animation, and cross media projects.
 
-In addition to storyboarding, the practice also provides production companies with concept art, character visual development and set design.
+In addition to storyboarding, the practice also provides production companies with concept art, character visual development, and set design.
 
 
 Contact: _Yves Capelle_
