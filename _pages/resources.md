@@ -1,9 +1,10 @@
 ---
 title: Resources
 permalink: /resources/
+description: Useful links and references for visualising
 author: Yves
 layout: page
-last_modified_at: 2024-11-13
+last_modified_at: 2026-07-20
 ---
 ## Storyboards Templates
 
