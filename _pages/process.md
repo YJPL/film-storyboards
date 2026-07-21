@@ -1,9 +1,10 @@
 ---
 id: 690
 title: Storyboarding Method
+description: How I work
 permalink: /process/
 date: 2013-03-10T13:39:38+01:00
-last_modified_at: 2025-09-02
+last_modified_at: 2026-07-20
 author: Yves
 layout: page
 guid: http://film-storyboards.com/
