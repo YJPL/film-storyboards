@@ -1,5 +1,5 @@
 ---
-title: Tutorial Lips
+title: Tutorial Make-up Lips
 date: 2026-07-25T12:24:48+02:00
 last_modified_at: 
 author: Yves
