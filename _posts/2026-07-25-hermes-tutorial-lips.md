@@ -4,9 +4,7 @@ date: 2026-07-25T12:24:48+02:00
 last_modified_at: 
 author: Yves
 excerpt: |
-  <a title="Storyboard Tutoriel Lips for Hermès Beauté" href="/hermes-tutorial-lips/" rel=""><title ="Storyboard Tutoriel Lips for Hermès Beauté" src=/images/uploads/2026/hermes_beaute/Hermes_Beaute_Tutorial_Lips_CU_thmbnl.png" alt="Storyboard Tutorial Lips for Hermès Beauté"></title></a>
-  
-  Storyboard, Tutoriel Eye Liner pour Hermès Beauté.
+ Storyboard, Tutorial Lips for Hermès Beauté.
 layout: portfolio
 photoswipe: false
 permalink: /hermes-tutorial-lips/
