@@ -7,7 +7,6 @@ layout: portfolio
 permalink: /storyboard-US-Cavalry-Museum/
 image: /images/uploads/2020/US-cavalry//CMH_Storyboard_second-draft_Panel-1_02.jpg
 categories:
-  - portfolio
   - sketchbook
 tags:
   - story development
