@@ -7,7 +7,7 @@ layout: portfolio
 photoswipe: true
 permalink: /ing-thumbs-up/
 image: /images/uploads/2022/ING/The_Thumb_storyboard_0005.png
-categories: [portfolio, advertising, storyboard, TV Commercial]
+categories: [advertising, storyboard, TV Commercial]
 ---
 
 Storyboard *Thumbs-up*.
