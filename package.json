@@ -1,6 +1,6 @@
 {
   "name": "FilmStoryboards",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Film Storyboards is a one-person studio built on the forgotten art ov visualising. Call for a tailored solution to visualize, pitch, plan, and budget your next film or project.",
   "main": "index.html",
   "repository": {
@@ -18,14 +18,14 @@
     "url": "https://github.com/YJPL/film-storyboards/issues"
   },
   "devDependencies": {
-    "autoprefixer": "^10.5.4",
-    "cssnano": "^8.0.2",
-    "postcss": "^8.5.25",
-    "postcss-cli": "^11.0.1",
-    "postcss-import": "^16.1.1",
-    "postcss-nested": "^8.0.0",
-    "postcss-preset-env": "^11.3.2",
-    "uglify-js": "^3.19.3"
+   "autoprefixer": "^10.5.4",
+   "cssnano": "^8.0.10",
+   "postcss": "^8.5.26",
+   "postcss-cli": "^11.0.1",
+   "postcss-import": "^16.2.0",
+   "postcss-nested": "^7.0.2",
+   "postcss-preset-env": "^11.5.0",
+   "uglify-js": "^3.19.3"
   },
   "contributors": [
     {
@@ -43,6 +43,6 @@
     "minify-photoswipecss": "postcss css/photoswipe.css > css/photoswipe.min.css --use cssnano"
   },
   "dependencies": {
-    "sharp": "^0.35.3"
+    "sharp": "^0.35.4"
   }
 }
