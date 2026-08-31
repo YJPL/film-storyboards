@@ -1,10 +1,10 @@
 ---
 title: Credits
-description: Film Storyvoards film, animation, and cross media credits
+description: Film Storyvoards film and animation credits for feature filmms, advertising, shows, institutional, and cross media projects.
 author: Yves
 layout: page
 permalink: /credits/
-last_modified_at: 2026-06-29
+last_modified_at: 2026-08-31
 ---
 ## Feature Films
 *Avis de Tempête* **Ludovic Bernard** — Umedia Production Services — 2025. Storyboard.
