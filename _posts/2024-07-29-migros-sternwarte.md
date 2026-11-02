@@ -1,9 +1,9 @@
 ---
 title: Migros Sternwarte
 date: 2024-07-29 06:24:48 +0100
-last_modified_at: 
+last_modified_at: 2026-11-02 
 author: Yves
-layout: post
+layout: post-centered
 photoswipe: true
 permalink: /migros_sternwarte/
 image: /images/uploads/2024/Migros_Sternwarte/Migros_Sternwarte_8.png
@@ -11,6 +11,7 @@ categories:
   - advertising
   - TV Commercial
   - storyboard
+  - portfolio
 tags:
   - Migros
 ---
