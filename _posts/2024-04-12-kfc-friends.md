@@ -1,7 +1,7 @@
 ---
 title: KFC Friends
 date: 2024-04-12 10:24:48 +0100
-last_modified_at: 2026-09-08 
+last_modified_at: 2026-11-02 
 author: Yves
 layout: post-centered
 photoswipe: true
@@ -11,6 +11,7 @@ categories:
   - advertising
   - TV Commercial
   - storyboard
+  - portfolio
 tags:
   - KFC
   - fast food
