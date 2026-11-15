@@ -12,7 +12,7 @@
   {% endif %}
 
   {% for category in categories %}
-    <a class="f6 br1 mt2 mr1 pa2 link black-60 hover-blue bg-near-white hover-bg-black-80" href="{{ "/category/" }}{{ category | slugify }}/">{{ category }}</a>
+    <a class="f6 br1 mt2 mr1 pa2 link black-60 hover-near-white bg-near-white hover-bg-black-80" href="{{ "/category/" }}{{ category | slugify }}/">{{ category }}</a>
   {% endfor %}
 
   {% for tag in tags %}
