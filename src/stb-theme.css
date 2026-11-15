@@ -11,10 +11,15 @@
 .aspect-ratio--2x1 { padding-bottom: 50%; }
 .aspect-ratio--1x2 { padding-bottom: 200%; }
 
+/* background */
+
+.bg {
+  background-color: #F2F2F2 !important;
+}
 /* Links */
 
 a {
-  color: #00bbff;
+  color: #002fa7;
   text-decoration: none;
 }
 
@@ -23,10 +28,10 @@ a:active {
 }
 
 a.nested-author-cta {
-  color: blue;
+  color: #002fa7;
 }
 a.nested-author-cta:hover {
-  color: light-blue;
+  color: #00bbff;
 }
 
 .btn {
@@ -49,23 +54,23 @@ a.nested-author-cta:hover {
   width: 100%;
 }
 .btn--primary {
-  color: #00bbff;
+  color: #002fa7;
   background-color: #ffffff;
-  border: .125rem solid #00bbff;
+  border: .125rem solid #002fa7;
 }
 
 .btn--primary:hover {
   color: white;
-  background-color:#00bbff;
+  background-color:##002fa7;
   border: .125rem solid white;
 }
 .btn--secondary {
-  background-color: blue;
-  border: .125rem solid blue;
+  background-color: #002fa7;
+  border: .125rem solid #002fa7;
 }
 .btn--success {
-  background-color: #00bbff;
-  border: .125rem solid #00bbff;
+  background-color: ##002fa7;
+  border: .125rem solid ##002fa7;
 }
 .btn--warning {
   background-color: orange;
@@ -105,24 +110,24 @@ a.nested-author-cta:hover {
 }
 
 .btn-outline--primary {
-  color: #00bbff;
-  border: .125rem solid #00bbff;
+  color: #002fa7;
+  border: .125rem solid #002fa7;
 }
 .btn-outline--primary:hover {
   color: #ffffff;
-  background-color: #00bbff;
+  background-color: ##002fa7;
 }
 .btn-outline--secondary {
-  color: blue;
-  border: .125rem solid blue;
+  color: #002fa7;
+  border: .125rem solid #002fa7;
 }
 .btn-outline--secondary:hover {
-  color: light-blue;
+  color: #00bbff;
   background-color: blue;
 }
 .btn-outline--success {
-  color: #00bbff;
-  border: .125rem solid #00bbff;
+  color: ##002fa7;
+  border: .125rem solid #002fa7;
 }
 .btn-outline--success:hover {
   color: white;
@@ -145,12 +150,12 @@ a.nested-author-cta:hover {
   background-color: red;
 }
 .btn-outline--info {
-  color: light-blue;
-  border: .125rem solid light-blue;
+  color: #00bbff;
+  border: .125rem solid #00bbff;
 }
 .btn-outline--info:hover {
   color: white;
-  background-color: light-blue;
+  background-color: #00bbff;
 }
 .btn-outline--light {
   color: black;
@@ -193,8 +198,8 @@ nav a:last-child {
  }
 
 .primary {
-  color: #00bbff;
-  border: .125rem solid #00bbff;
+  color: #002fa7;
+  border: .125rem solid #002fa7;
 }
 
 .secondary {
@@ -203,7 +208,7 @@ nav a:last-child {
 }
 
 .success {
- background-color: #00bbff;
+ background-color: ##002fa7;
 }
 
 .warning {
@@ -248,7 +253,7 @@ hr {
   height: 1px;
   padding: 0;
   border: 0;
-  border-top: 1px solid #00bbff;
+  border-top: 1px solid #002fa7;
 }
 
 dt {
@@ -307,7 +312,7 @@ blockquote {
   padding-left: 1rem;
   margin: 4rem 0 4rem 0;
   color: black;
-  border-left: .25rem solid #00bbff;
+  border-left: .25rem solid ##002fa7;
 }
 
 blockquote cite {
@@ -326,8 +331,8 @@ blockquote cite {
 /* Override Tachyons */
 
 :root {
---blue:  #00bbff;
---light-blue:  #ff4400;
+--blue:  #002fa7;
+--light-blue:  #00bbff;
 }
 
 figure {
